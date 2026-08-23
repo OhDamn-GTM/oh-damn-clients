@@ -8,3 +8,4 @@ Key open items (see [hubspot-config.md](hubspot-config.md)):
 - Users & Access: RED — 14 super admins (target 2-3: Robert McDowell, David Murray, one Bound admin); 34 archived owner IDs still active.
 - Properties: AMBER — 107 custom contact properties across 5 groups; Eventbrite group (17) likely orphaned; only 5 custom deal / 6 custom company properties (deal record underbuilt).
 - Raw object exports for reference: [data/](data/) (Companies, Contacts, Deals, Meetings, Projects, Tickets, Workflows, Course Attendance CSVs).
+- Contact owner reassignment (TF05/06/07) — moving contacts off archived/departed reps onto correct regional owners by postcode. Andrew Greenwood and Andy Corry fully verified against HubSpot; Adrian Bell and Robert McDowell still pending. See [../tf-series-session-context.md](../tf-series-session-context.md).
