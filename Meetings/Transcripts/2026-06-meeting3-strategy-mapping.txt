@@ -1,0 +1,731 @@
+Speaker 1  00:00
+That button. Oh,
+
+Bound   00:02
+this meeting is being recorded.
+
+Speaker 2  00:06
+James, okay?
+
+Bound   00:08
+Morning. Didn't realise I was on mute.
+
+Speaker 1  00:10
+Uh,
+
+Bound   00:16
+this mic, it mutes itself automatically after like a short period of activity, but the, the light of showing you that I'm not, it's not in my face, so I forget. Basically, I don't talk enough, is the moral the story.
+
+Speaker 2  00:37
+Can you hear us, James?
+
+Bound   00:40
+Yeah, I can hear you. Can you hear me?
+
+Speaker 2  00:41
+We're all good. That's fine. That's
+
+Bound   00:49
+okay. I was just saying my quarter mutes after a period of time, and I don't always realise, so yeah, I carry on talking, and all nobody can lip read because I talk too quickly, clearly, or maybe I don't talk enough, because the mic keep muted.
+
+Speaker 3  01:07
+The
+
+Bound   01:09
+latter sounds more beneficial to me.
+
+Bound   01:13
+It feels annoying to start,
+
+Bound   01:16
+exactly. Yeah, that's the key. That's the key, exactly. Knowing when to stop, you're not wrong. Are you both good week? No, exactly. Well, it's beautiful day. I don't know where it works like where you are, but we've
+
+Speaker 2  01:39
+been beautiful this morning. It was very close.
+
+Bound   01:46
+That's exactly what you can ask for. I think a couple of times this week, walking a dog early in the morning, it's been like four degrees.
+
+Speaker 3  01:53
+Exactly
+
+Bound   01:53
+what happened
+
+Speaker 2  01:55
+exactly? It's just it's gone back to winter. It's still a little bit cold out there, but it's looking bright,
+
+Bound   02:03
+no, exactly, exactly, no, it's good.
+
+Speaker 1  02:06
+Okay,
+
+Bound   02:08
+with this session, then I didn't, I didn't put a specific agenda together because I figured it would be a good
+
+Speaker 3  02:16
+insight
+
+Speaker 2  02:17
+to make sense of our kind of attempt to turn them up our kind of sales structure.
+
+Bound   02:26
+I did make sense of it. I mean, I can just about read the post-it notes, because the no, no, you're good, but it's good. It's a, it's a, it's a really good start, because I think the key really is just seeing how it all wraps together and looking at the fallbacks is the key for HubSpot to know, because if things don't go to plan, what do we do with it? How is it processed? But I had a couple of questions that I was going to run through, just so I'm clear on handoffs and who's responsible, how that will, how you want that to work, and maybe a little bit of insight as to what you've drawn on the wall is what that is in HubSpot already, if not at all, and that's not a trick question.
+
+Speaker 1  03:12
+I think sort of gone through where we got to, and we did get a little bit of a bit more on it with sessions with two running sessions,
+
+Speaker 4  03:30
+as these things often do. You end up sort of with lots of questions rather than answers, and difficult to sort of put it into one single process is more sort of complex than that, and the second point really was that obviously, as part of getting you on board, really was will give you some insight into where we're at with HubSpot, kind of why we sort of pulled this meeting together as a starter for 10, and also if you could give us some guidance as to how we might be able to get this not took and completed, that would also be helpful. That's kind of my take on. Okay, great. Share that screen, I mean, and I appreciate it's easier to read,
+
+Bound   04:39
+and then maybe we talk that through, yeah, great, yeah, so you're struggling to hear, really, we have just about catching up with it, with this sort of a little bit choppy, okay, the good thing
+
+Speaker 4  04:54
+is before I share my screen, we just do a sound check,
+
+Bound   05:01
+so it's uh, I was getting the gist, but I just didn't want to miss any detail, that was all
+
+Speaker 5  05:12
+that I knew better. Yes, yeah, okay. That's for you, Ruth.
+
+Bound   05:20
+Yeah, I can hear, I can, I can't hear you. I just one more try
+
+Speaker 5  05:30
+the microphone, and I was hoping that'll give us a better sound. Yeah, yeah, it's good.
+
+Speaker 3  05:43
+Can you hear me? Yeah, I can hear you. Let's go
+
+Bound   05:55
+with the option, then I'll share.
+
+Bound   06:00
+Yeah, perhaps if anything, I need to turn it down a little bit
+
+Speaker 4  06:17
+using the screen now.
+
+Bound   06:19
+Perfect.
+
+Speaker 4  06:20
+With that a full screen to do sort of,
+
+Bound   06:23
+I can
+
+Bound   06:24
+see, yeah. To be fair, I have got your, your board on a, I've got the image open next to me, and I've just zoomed into it a little bit, so you don't need to zoom, I can follow along with
+
+Bound   06:39
+you. Sit posting now, so
+
+Speaker 4  06:47
+kind of split our five point team into sort of four segments, so we've got the direct sales, which is called our technical sales team, instead of buying more mute sales ball team and technical managers, sales managers, and specifications manager, which kind of words, so all with the specifications manager is at the early stage of things we spent face to face in front of architects presenting our CPDs, so it's usually that early specification, stroke headshell scope, and outer projects within and you've got the actual technical box, which I think is a little bit over with no side of things with the technical box in that swim mode,
+
+Bound   08:00
+where does that slot in the sales and marketing part, or is that post post sale?
+
+Speaker 2  08:06
+It's support, or it's kind of wholesale. It's been high vacation around inflation. Well, we're kind of working with the contractors to help them, you know, solve the On the go on,
+
+Bound   08:44
+okay, great. And does HubSpot need visibility of communication insights around that? Just,
+
+Speaker 2  08:52
+yeah, I mean, we don't mind currently, but they have an EV, okay, that designate is was supposed to respond to that two to three days, currently around about five to seven days. Okay, you know, we've been reached, we've doubled that people, but you're almost done with it, you almost telling me, by you know, by giving more information into the market, because the more they want,
+
+Speaker 6  09:30
+here's the good part of what we do for Keep, no, we do need to link in
+
+Speaker 2  09:45
+technical details with deals. Yeah, we, you know, give me technical advice, we shouldn't deal on it. We should know it's happening, but they said not everything that we do goes into HubSpot, neither around imagine general guidance of business that comes into it, and that will come through a somebody walking into a stockist wants to buy a Firefly, they buy a Firefly, the stock is then replenishes the series, and they put an order on us for somebody to call it. They don't require any technical support, don't require any sales interaction by over the counter.
+
+Bound   10:35
+Yes, totally transactional sort of scenarios
+
+Speaker 2  10:38
+through and goes darkest for your judgement services again in the green
+
+Speaker 4  10:57
+repeat order stockist star excels customer services, so our stock is to count for more than half of our just to what you mentioned, right at the start, and to call our businesses outside of HubSpot.
+
+Bound   11:15
+Okay, I mean that's fine, but I suppose it's the question begs around the value of that data living in HubSpot, and whether it will help support the other swim lanes, such as marketing and sales. The other part I'm thinking here as well is around tracking lifetime value and reporting the impact it has on business, so if that is transactional and sales people aren't involved, then the question begs, is there value to import that in somehow to HubSpot?
+
+Speaker 2  11:55
+One question, which level system side of it, so much far is completely unaware. entailed for the stale person raises a deal, they'll have to close that deal.
+
+Speaker 3  12:37
+Yeah,
+
+Speaker 2  12:37
+okay, yeah, it isn't so close into another route that once you've invited it, would they close that deal?
+
+Bound   12:44
+Yeah, great. And it's fine, you know. It doesn't, I suppose, is looking at the priorities here, like, which is what I'm quite keen to get an understanding on,
+
+Speaker 2  12:56
+is all at the moment, the host part, you know, if we said the end of after we had Salesforce and things like a mapping complete front end, we saw them transacted things through SAP. It went straight into Salesforce. Yeah, we're not sophisticated here. Yes,
+
+Bound   13:35
+that's fine. Yeah, it
+
+Speaker 5  13:37
+could be. It could
+
+Bound   13:37
+be something for down the line,
+
+Speaker 2  13:40
+you all we then grow these systems linking in with that since you're working with it, a database of contact
+
+Bound   14:17
+lost you there a minute, you're back, yeah.
+
+Speaker 2  14:30
+So, what lives?
+
+Bound   14:32
+I was just saying, I caught.. I caught a bit of that. I lost you very briefly there, like the audio just sort of decided to have a break,
+
+Speaker 1  14:42
+I TV
+
+Bound   15:00
+gone really, it's got it's gone really choppy. Can you hear me? Okay,
+
+Speaker 3  15:06
+it's not even here. Was not against our speaker, yeah. How's that? Well, James, excellent. Yeah,
+
+Bound   15:27
+it comes back. I think it's more.. it was a bit more choppy for you, David. I don't know why. It sort of.. it was really clear, and then it just dropped. I kind of missed a big part of what you were saying.
+
+Speaker 2  15:51
+Okay, I'll try. That is that better.
+
+Bound   15:54
+Oh, yeah, that's better. Yeah,
+
+Speaker 2  15:56
+because
+
+Bound   15:57
+it just
+
+Bound   15:57
+comes and goes. It's the strangest thing.
+
+Speaker 2  16:00
+We were on the TV speaker interviewing with the, we have a lot of doing streaming the mics.
+
+Bound   16:10
+Oh, fair enough. Yeah, all this technology just hope, just wish it just worked,
+
+Speaker 2  16:17
+always. Yeah,
+
+Bound   16:19
+so I suppose just to sort of wrapping up the kind of technical part, I think it's just really seeing what the value is, is kind of where I was going with it. So, the summary of it is, if there's value for insights for the sales direct sales team or marketing, it's just knowing if we can get access to that is always best to get as much into HubSpot as possible. It's not the be or end or of the scope, but considering
+
+Speaker 2  16:49
+the future,
+
+Bound   16:51
+yeah, definitely, definitely,
+
+Bound   16:54
+yeah. I mean, look, worst case scenario, right? You can extract that data somehow, whether it's in a CSV format, import it manually, like the data exists, right? It's just there's not an actual flow going in automatically.
+
+Speaker 2  17:08
+Yeah, and transactional data exists, but it's outside of,
+
+Bound   17:13
+yeah, we can put a pin in, because I think the big thing at the moment is just the value, because you've got four swim lanes here, so you talked a bit about the direct sales side. I've got some questions around that in a second. I just want to kind of understand a little bit around what their, how that works from an operations perspective. So, people going out looking for their own contacts, is that inquiries through the website, is there a little bit more insights around
+
+Speaker 2  17:43
+if any inquiries come in through customer services or the website, they'll get directed to the local sales person within that region.
+
+Bound   17:53
+Perfect.
+
+Speaker 2  17:54
+There's a kind of little map of England, so you can see that Scotland sales in the Midlands and then the South Island to the left, now that is how we're structured, and
+
+Speaker 3  18:17
+that's
+
+Bound   18:17
+based on the company headquarters scenario, so if I inquire today, and I am based in Glasgow, for example, we need HubSpot to be able to route that to the correct local
+
+Speaker 2  18:32
+sales person. Yeah,
+
+Bound   18:36
+yeah, great. Okay, that's good. So, regional is kind of a bit of a filter, really. So, regional,
+
+Speaker 2  18:41
+regional is good by regions, that'd be one way to clean up our data, because we've been talking about, we've got 12 and a half 1000 records that we don't even know what to do with.
+
+Bound   18:51
+Okay, well, there's there's definitely going to be opportunity in there, so let's definitely push, push that up the list, we can maybe look at some enrichment there to fill any gaps that are not clear, so in this process, then I'll just focus on the kind. Are you looking more to kind of evolve this a bit more than it is currently, or is this this is kind of where we want to start,
+
+Speaker 2  19:21
+so currently we would like to set on the framework that says when we originally set this up, we talked to when we outside, as I understand it, Jason are kind of honest, we both been here for two two and a bit years now, and so nearly two years before I started, but talking to Axe and Guards, I was like trying to help us before we were set up with projects and deals with wasn't turned on, yeah, so projects was set up so that we could establish a project, and everything would link into that project. Yeah, well, that's okay if it is a an architect thinking about a long-term build and construction industry, that is valid for us. We've got levels, yeah, specified on a project that can take a couple of years to complete, got various arms and legs to it, like a hospital we need doing that would pay you to typically instal, or we could just have a straight transaction where there's just one building that needs that we need to do in it's one package instal and be a straightforward deal
+
+Bound   20:50
+that makes sense, so there's quite a few nuances to it, then so we just need to establish the difference of how we process it, so big project versus smaller project versus what's the criteria that validates the next steps.
+
+Speaker 2  21:06
+So, I do envisage that within a project there can be several deals of its lifetime of the project. Does that make sense? So, within a project,
+
+Speaker 6  21:22
+yeah. complete
+
+Speaker 2  21:32
+your final project and close all the deals,
+
+Bound   21:37
+yeah. Okay, so deals actually comes after it's processed as a project at the moment, so everything is treated as a project, regardless of what it is, apart from the transaction side, which
+
+Speaker 2  21:50
+objects deals because of them. So we opened deals up some outside more recently, and said we wanted deals doing so we see deals as the instant transactions were is deal comes in, it's 400k of doll, and it's a one off transaction. We talk about it, we give some technical advice, sales guys are involved, technically, because products are biassed or able to instal, did they go out to site and look at it, make sure it's done correctly. The deals allows us
+
+Speaker 7  22:30
+to give them different pipeline vision.
+
+Bound   22:32
+Yeah,
+
+Speaker 2  22:33
+without that, we're completely blind.
+
+Bound   22:35
+Definitely, yeah, yeah. I suppose my question was more really around what qualifies it to get to that point, so it's just look, it's just really understanding the data points, establishing the size of the deal, how long it is, what you said about single sites versus multi sites, when's that contract likely to begin, could be a question that needs to be asked and qualified, and then it's just then tuning, getting the HubSpot system to then make sure that things are being done correctly, so one, you get visibility on forecasts and pipeline, secondly, how long things take and what the different nuances are towards the size as well, that's kind of where my head's going with your points,
+
+Speaker 2  23:27
+so daily started 12
+
+Speaker 6  23:30
+Pollen's gonna run a while. We need to be checking up on the regular basis to make sure we don't get done or placed.
+
+Bound   23:52
+Yeah, it's more around like the handoffs part, if that makes sense. So it's kind of, where do the handoffs, I suppose, break down at the moment, if at all, or I think you've kind of made it a point before that there's there's quite a lot of information in the sales people's heads, it's not enough down, so there's there is a bit of a miss visibility going on, yeah, and obviously with a with adopt getting the guys to adopt HubSpot is really also looking at how we can keep this really, really simple, so that it's not a burden, it's more of a hey, you forgot to do this, here's how we, this is what you need to do next, and they just literally action what they've been
+
+Speaker 2  24:40
+told to do, so I take in an inquiry or potential inquiry,
+
+Speaker 4  24:48
+yeah,
+
+Speaker 2  24:49
+it should use a deal we can then use transactional, we know what we can quantify it,
+
+Bound   24:58
+yeah,
+
+Speaker 2  25:00
+money down, we know what's going to be cost. We know I'm just going to really apply to do it. We win it, did we not win it? Yeah, so there's regular kind of reactions with HubSpot to remind us to say, follow up, you know, you know, check on what we're up to with this, but here's a reminder meetings around it, we can plug the phone calls technical reports from
+
+Bound   25:33
+the technical team that can go into the same deal,
+
+Bound   25:37
+definitely. Yeah, and that just, just as an example of what, how this could play out is that there's there's different parts of HubSpot that serve different areas of that journey, so there's a, there's a, an object called Lead, so Lead Object may have seen it, or may have had a chance to play around with it, that in essence sits right at the beginning before you can quantify it's an it's a real deal, there's something that's worth pursuing. For example, in that part of the system is where all the kind of follow-ups, the logs could then be stored, but also used as a bit of a qualification mechanism. So let's say there's five questions that you need to be able to answer before saying this is real. This is actually something that we would take on now. Those five questions could be asked in three minutes, like they don't need to be over a period of time, just to be clear. But what we can then start to sort of build with this is those swimlanes, so an inquiry comes through, whether that's through an existing customer, through customer service, we then just route that correctly. So we talked about regions, so therefore, if we know that this company is based there, we can route that directly to the right individual that manages that area, or if it isn't, then it goes to a central round robin, establish the establish what the needs are, and then it could reroute accordingly based on criteria. What that then also does is with the phone system is that if we get that logging in all the kind of calls that have been made any correspondence through email or any other means of a channel, it all then gets pushed into HubSpot, so we can then establish lots of things. One, how many touch points, if that's of interest? How long has it taken to take from initial inquiry through to qualifying it as a deal? That's another report that could be spawned from it, but as I said to you last time, if the sales rep goes in, really they should just see their task list and then action it. It should be as simple as that. They don't need to think, but then the benefit for the wider team is that it takes all the knowledge from their head into a system that others can access, which is going to create a lot of visibility, so that's just kind of the context of why my questions have sort of been thrown out as they are. I suppose it's just knowing what what standard, because you talked about lots of different routes of leads and so forth coming through, what's what's the kind of standard traditional, let's call it route of people coming in, and what what's a little bit, oh, it comes through here and it's not really captured properly, because that's the bit that I'm quite keen to get fixed for you, so there's full visibility across the whole part,
+
+Speaker 2  28:42
+it's a direct kind of installers and third parties. Yeah, I'm not worried about from distributors and stockers,
+
+Bound   28:50
+right?
+
+Bound   28:51
+Just
+
+Speaker 3  28:52
+into
+
+Speaker 2  28:53
+direct installers, third parties. There's a transaction there where we don't log it, we just talk about, oh, we've essentially got these orders on the system.
+
+Bound   29:08
+Yeah, and so would a proportion of those get to the sales team, or where they remain very transactional, because you talked about there's a, from my understanding, there's a bit of a difference between some of them,
+
+Speaker 2  29:23
+direct installer ones, probably would get to the sales team, you know, they would get into the sales team, they would talk about it. I've got a project coming up, yeah, probably is going to be, and we need to be getting into those, okay, nine leads, so Barbara, they will feed into the sales team, you know, they can look at it, they can do bar In say, well, okay, not passing fire on it now. I know companies, I know Belgrade integrated. their system into HubSpot, throwing it down too much noise, so you know, stayed looking to integrate our into our system to use our lead. We can do that as well.
+
+Bound   30:46
+Okay, fine. That's good. So, really, it's just it's just the tracking part of it, and
+
+Speaker 3  30:53
+then
+
+Bound   30:54
+feeding HubSpot to help with the next steps.
+
+Speaker 2  30:59
+So, it's the sales team reporting back on what they're working on, where they currently doing what's in their thought process is going to be for the area. We get it done well, we refocus and look at, we know what we're going to rest of the year, and when we both organise research on
+
+Speaker 6  31:28
+response fire, because if we could roll up and see the kind of idea I here multiply manufacturing smoother.
+
+Bound   31:51
+Yeah, great. And from your perspective, then on that, what - what's the kind of maybe hierarchy of priorities to get that operationalized,
+
+Speaker 1  32:02
+I sales team using it getting their buy-in as well to it, because it comes with that.
+
+Speaker 3  32:13
+Yeah, okay. Good.
+
+Speaker 2  32:18
+I wrote a bit longer. the data that we've currently got in there? We continue to dump data in there.
+
+Speaker 3  32:29
+Yeah,
+
+Speaker 8  32:30
+I'm the guilty one there.
+
+Bound   32:37
+We're working on solutions. We're at ground zero, like I said last time. Everything's going up from this point forward.
+
+Speaker 2  32:46
+So, when we have things like the FSC to HubSpot, guys aren't using it for an Excel spreadsheet, which
+
+Speaker 3  33:02
+I'm, yeah,
+
+Bound   33:05
+yeah, I mean,
+
+Speaker 4  33:06
+there's some good leads on there that have been following up, so I often find myself not just with shows and exhibitions, but with all the sort of lead generators often than not,
+
+Bound   33:19
+yeah, I get that
+
+Speaker 8  33:20
+I always diligently is
+
+Bound   33:30
+common, it's a typical marketing sales long long debate, but this is the other thing, Jason, that are picking up on some things you said there that we can help surface that for you, so if we have not seen any form of engagement updates in a set period of time, then it can kind of surface it to you, and you could be that, not trying to make you a bad cop here, but try and sort of make sure that guys, what's going on with these, or not seeing any engagement for a while. Is there something that marketing can help with? You know, make it that kind of supportive perspective, as opposed to telling them off. You know, you should be able to go into HubSpot each week and know exactly what is going on with the pipeline, what leads are flowing in projects on the horizon team, yeah, you know, and I think initially there'll be a bit of pain, and we need to maybe manage that with the sales team a little bit, but there will be a bit of pain, because this is going to be a bit of change that they may or may not like, but the value of it is that it's going to help, you're going to close more, we're going to learn things.
+
+Speaker 2  34:44
+Transparency, I think, James, what we need is, if we have a report like that, you haven't responded on that system, you're going to disclose or do something with, and it'd be my responsibility for taking that, and I know the number can only, and yeah, I can be held accountable to that number, but I know we can't hold them accountable to any numbers, yeah, it's fun. bit before that
+
+Speaker 3  35:31
+is anything that comes with it.
+
+Speaker 4  35:37
+What we train to the
+
+Bound   35:38
+goods opposing reasons why they can't use
+
+Speaker 3  35:41
+it. Yeah,
+
+Speaker 2  35:42
+yeah.
+
+Bound   35:42
+Well, maybe let's reshape this a little bit. What if you was to kind of say what you would expect to happen? So, let's, for example, a new lead comes in. What is the what is the kind of service level agreement that we need to work towards? So, do we get back to them within four hours, 24 hours, like, what? What's that? That line
+
+Speaker 3  36:07
+is a
+
+Speaker 2  36:07
+new lead.
+
+Bound   36:09
+Yeah, because that's where I would start. I'd say, right, new leads come in that has to be followed up within 24 hours. If it doesn't, it's a breach, and you or someone gets alerted about that. The next step would be right. They followed up what's the next action, so there's no next action in the diary or logged again. I would also say that's a breach. So, what we're doing, we're kind of forcing habit rather than trying to say where are you with this, and then they're scrambling in their notebook to give you the answer, and it's just then what happens is all the handoffs work correctly, because if a lead is not good enough, surely Jason, that's something you want to know about, because marketing may be slightly tuned in the wrong direction, and you can fix things that are showing signs of not working equally, if it is working, double down on it and scale it right. So I think the kind of key really is we do one or the other, we either come up with a list and maybe maybe engage sales with that on what's an acceptable level agreement that we all agree on. So leads come in 24 hours to follow up, must have a next action date. The average time between it sitting in qualification through to making a deal, we set a set an agreement on that, seven days, 14 days, 30 days, whatever it be. I think framing it that way will then also answer questions, so they're like, well, actually, I don't agree with that. Great. Well, what do you agree with? Let's get this fit in the middle. Does that make sense?
+
+Speaker 4  37:50
+There's three things for me that are key here. One is to use it, two is making sure we give them the tools and the training and support the need to be able to use it in a consistent way. Great. Secondly, and third, we established some clear bell rules, if you like, just throughout that
+
+Speaker 2  38:16
+to make sure we can. listen to their feedback, you know, and we can fix it, we fix it, but generally it's just a wing we can flip back as the way we're going through it this way,
+
+Speaker 3  38:34
+yeah,
+
+Bound   38:35
+yeah, exactly, it's non-negotiable, right? You, this is a team sport, it's not an individual sport. We need defence, we need a goalie, we need midfielders, we need scorers. If one lets down the side, it lets the whole side down. So this isn't personal. This is, this is how it has to be. We want to grow this. You've got the tools. Here's how to do, has how to manage the tools, and these are the rules. If you break the rules, do you get - we get alerted, and
+
+Speaker 2  39:10
+I'm just a lot of conversation around, actually, you know, you need to help a business. This is part, but you know,
+
+Speaker 3  39:18
+yeah,
+
+Bound   39:20
+yeah. Sorry, I went down a little rabbit hole with that, but I just wanted to label that, but that I think the adoption side is a two-way piece. We need them to do things in order to learn where the gaps are, and the tool needs to be able to serve the process to ensure it's followed, and it's, and it's beneficial if you're logging things. The outcomes are the next time you follow up with that lead, you've got a whole insight of the previous conversations, you're not scrambling for notes or memory,
+
+Speaker 4  39:59
+something different over the last six months we've rolled out finance system, and that is, if you don't raise a purchase order on the system, you've got their invoices paid where we all have to do it, because I know it is. I think this is has to be similar in a way.
+
+Bound   40:28
+Agree,
+
+Speaker 4  40:29
+this is the way we do things, rather than,
+
+Bound   40:34
+yeah, this is version one of how we do things, so we create a collaboration, so it's until we see a better way of doing it. This is how it works, and when I mean better way, I'm talking about something that's going to shorten the sales cycle, it's going to increase your win rates. That's what evolution has to play, not because I can't be bothered to do it, it's the business has to grow, so if someone has ideas, surface them, and then we optimise it. So, coming back to then the process map, so I feel I've got a really good idea of how things are flowing now, so we know that there are quite a few different entry points into sales, so it's getting HubSpot to align what what gets given to who and when. We talked a little bit around putting in some structure on replying to leads that come in. We talked about also making sure that follow-ups are always logged, but then equally from a hand-off perspective, really do want to have a look at the way it's been set up, because you talk about projects and deals. I'll be quite keen to sort of look at what's in place and maybe look at where the gaps might exist based on what we've spoke about,
+
+Bound   42:03
+yeah, you've got access on YouTube. I'll
+
+Bound   42:08
+check. I don't, don't remember seeing an invite, but I'll check, and I'll flag if not
+
+Speaker 4  42:15
+reassure you an email.
+
+Bound   42:17
+Sometimes it hits my spam, so I'll have to have a look, but I think from also I want to just talk a bit about enablement for a minute. What are there any things that the sales team are actually asking for in term, term, term, and then to do great things like documents, specs, brochures,
+
+Speaker 2  42:42
+etc. technical support and technical data. Yeah, so yes, there will answer things like that, because it's a very technical subject. So the number two buildings are saying yes, different. with running solutions,
+
+Bound   43:18
+a few
+
+Bound   43:23
+point, just bear me a sec. That's all right. I lost you a little bit there. I don't know whether by you working on your machine, it's struggling.
+
+Speaker 4  43:33
+Impacted on that, if you hit our website, look at some of the products that we have, like on the side here, is what David was referring to. We've got all these installation joints, so our website is a reference point and a hook through all of these, but we've all
+
+Bound   44:00
+been added to the website now, literally, just as this will show in a second, it's just a
+
+Speaker 4  44:10
+cynical drawing of the wall.
+
+Bound   44:13
+Yeah, great. I suppose my question was more around how we can enable the sales team to get access to this quickly and you've got a feature in HubSpot called sequences, so there's opportunity to just, if questions are asked, they've got accessible data sheets, as you just pointed out, that can just be quickly shared, and the benefit of that is, it,
+
+Speaker 2  44:38
+yeah,
+
+Bound   44:38
+we get to record engagement as well,
+
+Speaker 2  44:41
+yeah. There is one thing that we do need to work on, though, James. In terms of our classification reports, what we're trying to do is control. We put out the public domain on that, so could help us with that.
+
+Speaker 3  44:57
+Yeah,
+
+Speaker 2  44:58
+well, they are the companies that may be The parents by very well on the website and take away with them, fighting to the comments in the public domain after that whole day. Now, anybody who's got legitimate interest, who's doing a project with an installer and purchasing your Firefly products, that's a legitimate reason to have access to those configuration posts, but what we're doing there is giving them a slice of cake in relevant to their project on a need to know basis. Yeah, we'll get the whole of what we do, the oversight of what we do, relevant to their project. So we need broad enough, we can check with a legitimate company. Yeah, we don't want to get an email account, you know, we see that they are, we know, also capture the details around the project that it's been installed into the pattern of material that are being installed, which project we go into the point, then we'd be downcoming to release course, so if host locking happens with a form with application votes for living host form, and then only when certain criteria are met and sets the form, or it automatically emails them platform, or it was a question that says, oh, this is a Gmail account, or domains are recognised, and it gets flagged, and go to more detail, this, or is this all that information?
+
+Bound   47:01
+Yeah, to be so we can put in some guardrails around that. Free accounts we can log quite quickly, Gmail, Yahoo's for example, and then have a process
+
+Speaker 2  47:10
+be good to kind of like documents that the sales team would potentially need, or customers would need. Those are kind of documents that they wouldn't need the ones on the website, the sales team on the website, our sales people's those documents.
+
+Bound   47:34
+Yeah, so at the moment, How does that work for the team? Is it? How do you get that information to know when to send, what's that process at the moment?
+
+Speaker 2  47:46
+Well, the ones who are experienced, it won't work quite easily, because somebody like new people know, so you and don't all the questions to ask, so
+
+Bound   48:11
+okay, so we, so we could get a dump of Andy's knowledge, and but more just the point of the kind of understanding that the triggers around, okay, this is good, this is what the opportunity is. Do this first.
+
+Speaker 2  48:32
+We do use, we do use emails in HubSpot, we use snippets for written snippets. It sort of likes you a bit about five hours, and it will tell you about our failures, and you know when not to use them, and things like that. So generic kind of table questions, people ask questions. We get asked these emails, so just a quick send date, then send it off to them. Ask the question, ignore, come back with more questions.
+
+Bound   49:19
+Yeah, great, that's perfect. That's kind of what I was hoping for, is that there is, they've absorbed the questions, and they've understood what the client needs. Is then having it accessible to make that that process of follow-up quick, whether it's snippets or whether we create a library of templates, they can pull in and just adjust language conversation, so it sounds less templated, and then off they off they send, but the more we do that inside HubSpot, the more insights we gain. So we'll track emails, we'll track everything that we need to be able to establish what worked, what didn't,
+
+Speaker 2  49:58
+with the two templates in there, the some of them are NTS templates that people have tried, and then get on, so again, templates is probably something we could be using,
+
+Bound   50:11
+definitely. Yeah, but and then we just build into a process of updating them periodically, because it sounds things change a lot. I'm assuming your data sheets are updated every once in a while,
+
+Speaker 2  50:21
+this could begin, and things like that. So, yeah, it's regular, yeah.
+
+Bound   50:28
+But again, it just forms as part of a process, really. Is quarterly, monthly refresh it for them, and then you, it's just, yeah, the adoption side. It's this is where you get it. These are the descriptions of what their use cases are for. Over to you, as in sales people, not you guys. Yeah, good, so this is this has been really, really helpful. So, I've.. I know we very much focus on the sales side, but that was kind of the whole intention anyway.
+
+Speaker 2  51:11
+Sales team engaged, we lost. Yeah, our horses has helped the thing, you know. We got the point in the information and verifying the information, that is the challenge. Actually, it helps them and gives them some manage them and reminds them that few weeks ago you should have made a call, you know, about sending my calls through because to follow up. Oh, yeah, I forgot about that, you know, follow up to it, because it reminds you and sends you that through if you The other system to help before you go into that meeting projects that we've done elsewhere with other divisions in the country in the South and you're in System getting those insights, nice introductions to kind of personalise that. I remembered on that before I closed this meeting, so you're going into it kind of informed right now.
+
+Bound   52:53
+Yeah, I'm you, you're ticking all the boxes from what I was thinking around. I think the sales workspace that lives inside HubSpot is going to be the big win here to bring the team in and feel excited about what it can offer, because the workspace, and I don't want to get feature led on this call, but the workspace will have everything they need, the leads they're managing, the deals they're managing, the meetings they've got, prep work, previous conversations with some of the AI parts of HubSpot. Once we enabled it, they've, and it's got a task element as well, so they could just work through their list.
+
+Speaker 6  53:33
+Yeah,
+
+Speaker 3  53:34
+want
+
+Bound   53:35
+to
+
+Speaker 2  53:36
+work in HubSpot, rather than kind of, you know, being partner or even HubSpot once a week, or you know, ask no
+
+Bound   53:44
+exactly, but it could be as far as we get their emails in HubSpot, so they, they, anything sales-led comms they do from HubSpot, they don't open Outlook, you can connect
+
+Bound   53:56
+the grants into the Outlooks
+
+Speaker 5  53:59
+in through, yeah, baby steps as well.
+
+Bound   54:11
+Well, I think I think the key really is I'll take a lot of what we've discussed during this meeting and remix it back into the pro, the process map that you started together. I think it's then just really started to look at what comes first. Really, I think my recommendation would be to try and get the sales team involved as early as we can, so that we can get, so we can hear what their struggles are, what they would like to see, you know, and make them feel like they're involved, because if we're going to try and get them to come on board, they should feel like they're a part of of the change, if that makes sense.
+
+Speaker 2  54:55
+When you guys are going, they've used CRM systems before, and they're saying our CRM systems not up to what they used to, and it doesn't have - it's not helping them. So that's the critique from them. Yeah, we're in some user, so we've gone on board, you know. We won't give people with CRM background and strong credentials in it, so we've only kind of got the way we do things, it's just, yeah, so you know is far more experienced salesperson is at least technical between technical and I think he doesn't go over into the Into thinking about all the spot, he won't want to be left on your goal not using it, so I think you came along. Finally, question, James, on you thought thoughts on that or go into
+
+Bound   56:48
+it. Sorry, David, I've lost you now.
+
+Speaker 2  56:51
+How do we, how do we handle the data that we grew up in house system?
+
+Bound   56:57
+Okay, so in terms of what, fill in the gaps or
+
+Speaker 2  57:00
+the quantity and the value of that data, we have 12 and a half 1000 records.
+
+Bound   57:06
+Yeah,
+
+Speaker 2  57:06
+I'm quite sure we're not having 12 and a half 1000 conversations. So, how do we work out what is valid number of people that are in the system?
+
+Bound   57:20
+Okay, so my initial thoughts would be to firstly look at when was the last time you spoke to the records, try and see if we can establish the last engagement. Secondly, what have you sold to either them? Is there is there something that gives us a reason to be able to re-engage them, so if they bought something or had some sort of sales conversation in the past, we need a reason to be able to kind of, why we're contacting you again, to validate if they still exist. I think there's a, there's definitely scope for a re-engagement campaign. I'll just put that on your radar, Jason. I think the first one. Sorry, go.
+
+Bound   58:04
+We're at an either or
+
+Speaker 4  58:09
+talked about this yesterday. Is that we've got these 1212, and a half 1000 users uses the comp, sorry, 12 and a half. Yeah, so it is what the answer to is the question is, do we just in that start and refresh get the buy-in from the team for day one so far and park it somewhere else outside of HubSpot, or should we look at what we've got and try and make something of it? Those and cons, either way,
+
+Bound   58:47
+I'd recommend the letter. I think let's do some analysis on it first, because if I've got some insights from you guys of what a good piece of debt, you know, so let's say your current customers are the people that you work for, and those current customers, what information you're holding on those that helps you make a decision of what you want to do with it, and then we, we then do analysis around what's missing on the rest of the database, once we then got some idea around the pockets of, well, these pockets of people, there's enough information to be able to do something with it. Let's say we keep those. The next one could be with missing information, we make a decision what we're doing with it, and then the last one is archive. For now, we'll come back to it, and maybe just focus on three categories. I'm always reluctant to delete any data into until we kind of know what we can, what, what, what is it, and if it's someone that's been in the database for three years, then yeah, we have to question what's the value of that living there, because that person might not even be one working for that organisation, or secondly, they might have retired, you know, you don't know these things, so that's
+
+Speaker 2  1:00:03
+the challenge. So, what do we do with that data
+
+Bound   1:00:16
+fails to go through all that data.
+
+Bound   1:00:25
+Yeah, but we've got a few tools that can analyse data quite quickly, so let us do the heavy lifting first, because what I don't want is for you guys to kind of go, right, Joe, you take 5000 Bob, you take 5000 and they spend the whole week doing it, it's just a waste of it's a waste of their time, and it's not probably going to get us anywhere either.
+
+Speaker 2  1:00:48
+No, I've heard you answered that, because that's really good. Thank you, perfect answer.
+
+Bound   1:00:53
+Yeah, but I'm, but my first point is, no deleting data, there will be value in it somewhere, we just got to figure out where.
+
+Speaker 3  1:01:05
+Yeah,
+
+Bound   1:01:08
+and that might be our first campaign. Jason, listen. Well,
+
+Speaker 4  1:01:12
+that's kind of my last point, really, is all the marketing stuff that I'm looking to use, like automate marketing AI degrees,
+
+Bound   1:01:22
+exactly.
+
+Speaker 4  1:01:22
+I can't use it right now, because there is no.. I have no confidence in the data that we've got, and likewise, we also.. we did one of the things we've looked at previously, recently is rebuilding the website in HubSpot. Yeah, I think
+
+Bound   1:01:44
+that's not it's not our priority at this point in time.
+
+Speaker 2  1:01:47
+We need to get,
+
+Speaker 6  1:01:50
+yeah,
+
+Bound   1:01:57
+I think the key thing from what I'm, I'm really now I'm understanding things a bit more, is the way that leads are coming back into the sales team, because it, you obviously got a model where you do get a lot of repeat customers, there's lots of projects that happen, you know, in the future, so we just need to make sure whatever you've had set up in HubSpot is fit for that purpose, so that's one of the things I'd like to do with the audit, is just to understand how that works, and then it's then making it clear for the sales team what do you need, what's missing, what's blocking you, and we fix that, and then bring the adoption in, because if they, if they see the value in it's going to help me do this, it's going to help me do that. We've sold them, and then we can start building it from there on. I don't think it's worth trying to tackle everything in one go. I think it needs to be quick wins. Use this, we work on something else, we get feedback, we optimise it, we sort of, we're always running parallels in the way we operate, and I think the data pieces are key as well, you know, if we can establish some juicy, you know, low hanging fruit opportunities in there, then that's a good win for the sales team again, because they likely want to pounce on that, so that for me, is the sell point. What does sales want? They want sales, so let's, let's work to get them that
+
+Speaker 2  1:03:27
+an easier life.
+
+Bound   1:03:32
+Yeah. Oh, an easier life, definitely. Let's put that at the top.
+
+Speaker 2  1:03:36
+We also have said about things and things like that. We want work to host part generating PowerPoint.
+
+Speaker 3  1:03:57
+Yeah, yeah, talk. good.
+
+Bound   1:04:04
+Let me digest all of this. I'll get my team to ingest it as well, so that we, we've got a starting point. There's still a lot more to unpack, so I'm not going to sort of treat this. Yeah, but I just want, because I'm very clear of the way that you've, well, your mind that you've spat on the wall are now clearer as to why it's the way it is, and so on. It's good, definitely. Yeah, and I hope the exercise has helped as well, because I think it starts to get your thinking on maybe other aspects that you didn't realise or thought about.
+
+Speaker 2  1:04:46
+No, it certainly helps us, because I said just to clarify, because everybody kind of knows it, but then you put it on the board, it's like people have different writings of it, different angles, so it's been good for us as well.
+
+Speaker 3  1:05:02
+Yeah, good, brilliant.
+
+Speaker 1  1:05:06
+All right, all right.
+
+Bound   1:05:07
+Thanks, chaps. I know we struggled a little bit throughout there, but I'm pretty clear I've got the gist of everything, so maybe my hearing's not working. Who
+
+Speaker 2  1:05:20
+knows, we'll try and somewhere well. having glitches.
+
+Bound   1:05:24
+Yeah, don't worry about it. I think we're, I think we're on the same page. I think that's the main, the main thing, really great. All right. Well, look, let me come back to you on those bits. As I said, anything that service that we forgot about, let me know. I know that we did talk about maybe spinning up a team's channel might be worth looking at that, just so that we've got an easy way of shooting ideas and thoughts, and I'll got a quick question. Sometimes you can get lost in email threads, yeah, just more, just while we're in this sort of thinking phase. This is a good opportunity to go, or thought of this the other day, and ping it in.
+
+Speaker 2  1:06:09
+I think it'd be good. Yeah, what do we need? We need to request that, James, or do we need to serve?
+
+Bound   1:06:16
+Yeah, we, because we're on Google Workspace, but we have the Teams account, we can't set it up, so it'd just be a case of you inviting us to your area, might be an IT thing. I'll ask Roy on my team, he's a bit more IT literate than me. If there's anything I can learn from him, I'll get him to share
+
+Speaker 2  1:06:39
+it with team here, but I was gonna invite you, and if it does, and it works, it works. If it doesn't,
+
+Bound   1:06:46
+it does. You should. Well, we've got another client we do the same thing with. I just don't know how they did it to the team as well, because there's.. you've only.. you've only, fortunately for you, you've only met me. So want to bring all the team in, so that there's you kind of see the mechanics of it all working
+
+Speaker 3  1:07:08
+all right.
+
+Speaker 2  1:07:08
+Okay,
+
+Bound   1:07:09
+sorry guys, I've run over a little bit here. I hope that's not caused any issues, but
+
+Speaker 2  1:07:13
+have
+
+Bound   1:07:18
+a nice weekend.
+
+Speaker 3  1:07:20
+Thanks.
+
+
+Transcribed by https://otter.ai

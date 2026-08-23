@@ -1,0 +1,473 @@
+Bound   00:35
+Hi everybody, hi
+
+Rui Calvario  00:37
+everyone. How's everybody doing?
+
+Bound   00:40
+Great. Thank you.
+
+Rui Calvario  00:41
+Good, good.
+
+Bound   00:48
+See you. Yeah, did you bring us a nice present back from your trip, Robert?
+
+Speaker 1  00:54
+Yeah, I brought the sunshine for this weekend for you.
+
+Bound   00:56
+Oh, you good lad. Thank you. Appreciate that.
+
+Rui Calvario  01:01
+Could you send some my way, please. That'd be fantastic. I'm frozen.
+
+Speaker 2  01:06
+Where am I to you?
+
+Rui Calvario  01:09
+I'm in South Africa. So we're going into winter. I say winter, but I mean, like, it's 16 degrees, and I've got about five layers on. Just don't think we're both for that kind of weather.
+
+Speaker 1  01:23
+I have no sensitivity whatsoever.
+
+Bound   01:25
+Absolutely not. I'm on your side, Robert.
+
+Rui Calvario  01:30
+Thanks, guys. Thanks. Feeling the love. Yeah. All right. Great. Is
+
+Bound   01:38
+David Joy? This meeting is being recorded. The note takers have spoken. How we doing, Jason? You're
+
+Speaker 3  01:46
+right, David. Will be joining us anytime. Yeah, great. Thank you. How are you?
+
+Bound   01:50
+I'm good. Yeah, it's.. I'm actually after this
+
+Speaker 3  01:54
+16 degree heat wave in in Lancashire. Are
+
+Bound   01:58
+you three here at the moment it's getting, it's getting warm. Yeah, so
+
+Rui Calvario  02:04
+16 degree heat wave. I'll
+
+Bound   02:06
+blow some up your end. There we go.
+
+Rui Calvario  02:11
+Chef, okay. So we're just waiting for David, then, huh?
+
+Bound   02:23
+Yeah, why it's up
+
+Bound   02:25
+to you. We can,
+
+Speaker 3  02:28
+we can talk for a couple of minutes. I'm sure you'll join us anytime.
+
+Bound   02:32
+Yeah, no worries.
+
+Rui Calvario  02:36
+Can everyone see my screen just before we start, okay? Right,
+
+Speaker 1  02:49
+guys, I gotta keep my mic, my doctor in it, just because it's quite.. I'm in the airport in Dublin, so it's quite noisy.
+
+Bound   02:56
+Sure, no worries.
+
+Bound   03:00
+Just while we're waiting for David, so I know Jason, you sent the invite over for this call, and obviously in your title it said strategy, so I just wanted to make sure there wasn't anything in particular that that you, you wanted to cover, because this particular sort of session is very much around the kick off and I suppose reconciling
+
+Speaker 3  03:26
+lots of conversations that we've had, yeah, there's an agenda in Ruiz email, which we're I'm sure we're all happy to follow and just pick up as a call, good, I just wanted to make sure, because
+
+Bound   03:38
+usually we, we send the invites out, but obviously you, you broke, you broke the chain, David. Good to see you,
+
+Speaker 4  03:49
+James. Okay,
+
+Bound   03:54
+yeah, good. It's, you know, it's, it's the first time I've actually seen you guys, apart from Robert Met before, of course, but quite close up, whereas I've been sort of hanging from the ceiling, looking, yeah,
+
+Speaker 4  04:04
+I thought I'd use the well in different locations today,
+
+Bound   04:09
+yeah, it's good. We had a bit of an audio issue last time, I was sort of like having my ears pressed to the speaker to try, and yeah, I just had enough of my voice. I think we put it, we put the excuse to that. So, I'll just do quick introductions. I know you've obviously received an email from I, it is Rui, but I call him Roy, so if you get confused, that's why Roy runs the whole operation side within within bounds, so his role is to be the conduit between all the things that you guys are responsible for doing and helping us understand, but also from our side, ensuring we're doing everything. I'm going to be very much around from more of a strategic perspective and we were going to heavy load this whole meeting with lots of different people, but we figured we'll keep it lean, but there is a core team, which Rui will sort of mention during this process, but I'm actually going to hand the mic over to Roy, because I have a tendency of probably going around houses, they'll get a bit passionate, but Roy will keep it tuned and share it, just just for your perspective, David and Rob and Jason. In fact, we, I have fully updated the whole team of all the different conversations we've had, they've got access to that image of your whiteboard and also the last session that we had, so they're up to speed with kind of where we are today. We haven't built the Miro map that I promised to you. We want to hold off until we get access to HubSpot, so we can figure out where those gaps are against what we've had a discussion on, so I know Roy's going to cover that, but I just wanted to kind of raise the expectations around where we've been, where we are, where we're going, which Roy will explain going forward. Hope that's okay. Yeah, sounds good. Great, Roy, it's all over to you. I'll butt out unless you need me.
+
+Rui Calvario  06:19
+Thank you. All right, so well, it's nice to officially meet everybody. I have heard a lot about the business while James has been in discussions with us about it. So today we're just having a kickoff call. Essentially, what we're going to be using it for is just to validate a couple of items that we've had in discussions and just making sure, just ensure that by the end of this end of the meeting, both teams are aligned and on exactly what's going to happen, what the roadmap looks like, and what the next steps will be from Monday, where we're starting off. All right, so just a quick overview on the agenda, there's a, there's eight items that we'll be moving through. It should go fairly quickly. There are two where I probably need a little bit of inputs. This is where the validation part of it comes into it, so we'll just slow down a little bit for those, and I think just running through the agenda, you'll just meet our core team, as James has mentioned. We'll just explain why we had just recap, and you know, problem framing what has been in discussions. Just, just make sure we are aligned with it. We'll run through a little bit of a scope and what we've observed so far, there's been a lot of discussions happening, so just to validate what we've observed and make sure that we are all on the same page. There's a couple of metrics. This is where we're going to slow down a little bit. We just want to see what success looks to you, looks like to you at the end of the engagement, and then moving on to where we start with our quick wins and a roadmap, and how we work together. All right, so that's how we'll kick it off, and yeah, I think, as James mentioned, we've got our core team. I am head of project. Basically, I, I sit in the middle and make sure that
+
+Bound   08:27
+we
+
+Rui Calvario  08:28
+are delivering what what we've set out to deliver. We're making sure that everything that you're talking about and changes are getting across to the team as well. We've got James, he'll be involved from a strategic perspective as well, and then we've got our tech lead, although there are people behind her, she will be leading up the project. Her name is Alicia, very, very passionate about her tech side. So, sometimes we do get into conversations, and it's like, well, just let's slow down a little bit, so she's a very, very passionate person, but delivers fantastic work, so she'll be heading up the technical aspect with her team behind her. Okay, great. I thought, I think everybody has met each other, we've met Robert before, I know James is very familiar with David and Jason, just from the meetings and stuff like that, but I think I think just from my side to understand how everybody fits in. Maybe David, Jason, you can just give me a little bit of an intro. I know where Robert sits in, but if you don't mind, just letting me know exactly where you sit in with the business.
+
+Speaker 4  09:44
+Yeah, so I'll make that. So, yeah, my role is General Manager. I cover the effect of the kind of three operational businesses that we have under the TBA banner, which includes Firefly, Hyde Pharma, sextiles, and Father Shield, so my role, I said, is to, I said, make sure, like, they are functioning and try and work through the issues and problems of those businesses to resolve
+
+Bound   10:13
+it. Yeah, great.
+
+Speaker 3  10:15
+I'm marketing, and I look after not just Firefly, but the TBA side as well,
+
+Bound   10:22
+David, you also take the glory when things work as well, right? It's not always firefighting, pun intended. Glory, so yeah, hopefully,
+
+Speaker 4  10:36
+yeah, no, I do like to pass it down to the team as well, because it's a team that do the work. I'm just, you know, sometimes the figurehead,
+
+Bound   10:44
+the orchestrator. There you go.
+
+Rui Calvario  10:48
+Alright, great. Thanks for that. Appreciate it. So, I think just to validate exactly why we're here. Obviously, as I mentioned a bit earlier, there were there has been quite a lot of discussions, so the slides just an understanding of where things stand today, where we're trying to get to. I just want to make sure that we have those rights. Please push back. This isn't meant to be a presentation forum with one person talking. If anything does not land accurately, please let me know, and then we can obviously start aligning on that side. So, on the reality side of what we've picked up, Robert, I think you put it quite plainly in our earlier discussions, your head of sales and not being able to run a pipeline report or a sales forecast because it says zero across everything is just pretty pointless. I think you hit the nail on the head there. You opened your, you had open HubSpot in a board meeting, and there was nothing to show for it. So, I believe David, you also confirmed this from your side, that the reports are always wrong in any case. Meanwhile, what in the system? What we're seeing is there's 14,800 odd contacts that have
+
+Speaker 4  12:10
+12 and a half 1000. We did colour feud, only a small impact
+
+Bound   12:22
+starting
+
+Rui Calvario  12:22
+every little boy, little bit counts, right?
+
+Speaker 4  12:26
+Yeah,
+
+Speaker 3  12:27
+the point still valid about the about the fact that we're not using those, we've got no cuts of cats organisation often using them,
+
+Rui Calvario  12:37
+yeah, yeah, definitely, and those ones have no lead status, as the sales teams are not logging activity consistently. Technical support is running at a five to seven day SLA against 24 hour target. Is that still correct?
+
+Speaker 4  12:58
+Yeah, 24 hours, like 24 to 48 hours should be our target. Yeah,
+
+Rui Calvario  13:05
+perfect. I'm
+
+Speaker 3  13:06
+just gonna have to drop off for a couple of minutes. I'll be back in a second. Carry on without me.
+
+Speaker 5  13:11
+Okay, just
+
+Bound   13:14
+to step in here if you don't mind. So these, these are just, I suppose, some very small many highlights that I think we're, we're sort of flagging here. The the aim is really just obviously going from this whole current state of a journey through to the kind of expected state. I get the key message between everyone is that visibility is a problem, you know, there's there's who do you speak to next? What follow-ups have been made? How are the customer success team or service team bringing leads back into into the funnel? You've got your transactional side, which we spoke about the last call, and of course, Rob, who should be you talking to? Where's the opportunities live? So, I think that for me is what the core message really is from from those various conversations.
+
+Speaker 4  14:05
+I think the bottom line is that it's just not used, and I think that's a
+
+Bound   14:09
+fair statement. Yeah,
+
+Speaker 4  14:11
+yeah, it's complicated, and you know they don't understand it. They blame the system, so we have a system, we just don't use it, that people go around it and avoid it, so it just doesn't work.
+
+Speaker 1  14:26
+Can I just say something that's okay, James?
+
+Bound   14:29
+Yeah, obviously feel free to step in.
+
+Speaker 1  14:32
+So, obviously, I think it was at the beginning of March, you and I first reached out and I sent across a sort of 34 step phase one roadmap of how I think it should work over the 10 years that I've used HubSpot, which is obviously a much, much slimmed down version of what we currently have, which is, you know, it's a step by step sort of roadmap, which makes life a lot easier for sales people, regardless of how technical they are, in terms of it use. I don't know if you've.. well, I think David has that. I don't know if Jason has a copy of it now, but I then also sent a much deeper detail for those 34 steps. Did you receive that?
+
+Bound   15:17
+Yeah, we've got all of that. Yeah, we've got it all. I think we do mention it a little bit, actually. Jason and David, I had, but I think one of the big, the big areas that we realise is about trying to get as much of the team in the process from the beginning to share the ideas to feel like they're a part of the change, which from our experience is where adoption actually improves. So I think it's just surfacing those and we're working out what the priorities are, really, because it may be that three of your points are quick wins, and the rest is then we build, or maybe more.
+
+Bound   16:09
+Yeah,
+
+Bound   16:10
+yeah, but yeah, fully, I've did a huge dump on the team with information, so they've definitely got
+
+Speaker 1  16:21
+it. Okay, no worries.
+
+Rui Calvario  16:24
+Okay, great. Yeah, I think just on that side, I think we've kind of covered this. I am going to share this kickoff deck with you, just with certain observations we've made at the beginning, and I think we've just jumped into it. I think the core goal was explained quite nicely there. I think the adoption issue is probably one of the biggest items. Nobody's using it, and we need to simplify the process as much as possible to get it to that point where everybody's comfortable using it. James has provided us with all the details that has gone into it, so the team have already started ingesting that, yeah, and I think I think you can take the time just to read through this, or else I might be here for the next two hours talking your ear off about everything that you guys might have already spoken about, but I think from our side it, it's something, something quite important to us is we actually like to understand what the key success metrics will be at the end of this engagement, and it's something that we will will align to and will talk through during our stand-up calls, instead of it being very task-oriented, we'll talk directly to specific goals that we want to look at achieving and what we're trying to fix within our sprint weeks. So I think just to quickly run through this, I think these are the five that we've drafted out in the meantime. Figures goals are having contacts with your lead statuses, current approximately. We still need to do an audit, but currently you're looking at about 340 We want to go 100% with that in terms of every contact having a lead status attached to them. Also, obviously providing you full visibility, having the reports that you require, making sure that you can see a live forecast of what's happening, the tech support response time, as you've just discussed, it was just to confirm on my side, we need to move that from five to seven days to a 24 to 48 hour SLA, the tech support volume per month, we just need to look at currently it's sitting at 1200 We'll obviously look at setting that baseline once we get into the system, and then I think the biggest thing, obviously HubSpot usage, that's one of our biggest goals, making sure that everybody is interacting with the system, and we'll start, we'll start measuring that based off the activity that's happening.
+
+Bound   19:14
+Is there anything missing from from here, from your perspective? David Rosen, Jason, feel free to butt in on this
+
+Speaker 4  19:26
+one. I think that'd be a good start.
+
+Bound   19:28
+Yeah,
+
+Bound   19:30
+there is a longer list, but obviously we need to focus on some quick wins and get some value from this exercise, you know, as quickly as possible. These, these are just our takes on all the stuff that you shared, Rob. All the things that we've discussed, so we've narrowed it down as best we can. We did a bit of a pick the England squad job. We've had to leave a couple of star players out,
+
+Rui Calvario  19:56
+that analogy,
+
+Speaker 1  20:00
+I think that the list that I sent is quite long, it says 3034 points on it, so and that was really pretty for phase one. So that's that's England and Northern Ireland and the subs.
+
+Bound   20:14
+Let's take 26 you know, it's not always about the 11 side.
+
+Speaker 2  20:17
+Yeah, I'll not say anything.
+
+Bound   20:23
+This isn't this isn't set in stone, right? This is just a first, a first pass. If after we will share this, obviously with you guys, but if things sort of.. if we find things that we see in HubSpot that we're that we really need to fix this first, we'll flag, and you know this, this list is designed to be a focus point for that sort of revenue roadmap, but it's, it's, is it going to get us where we want to be? And if there's another item that will get us there quicker, we swap it out, and that's kind of the key to this engagement, really.
+
+Rui Calvario  20:56
+Yeah, exactly, and I think it leads on to the next slide over here, so one of our quickest wins is actually going to do a portal and audit on your HubSpot portal and define an action roadmap. This is going to provide us with a lot more detail, a lot more metrics that we can base it off. What is going to what is going to outline that revenue roadmap that I showed you previously, so I think one of the one of the biggest things I'm not too sure if HubSpot access has been provided to James just yet, but I think that's what that's our biggest starting point right there, so that we can get in and just look under the hood, see what's what exactly is happening, and start planning it from there. So, if I could ask on that side, if somebody could just give at least James access for now. As
+
+Speaker 3  21:55
+I've tried to send several, I've sent several emails, I've set you up, and it.. I don't know if it's bouncing back through your firewall or our firewall. In fact, I'll do it while we're on this call. I'll try sending it again.
+
+Speaker 2  22:09
+Yeah, I
+
+Bound   22:10
+remember you saying you tried it, and it just.. just some.. sometimes the end after bound gets missed. It's bound in.com Maybe that's missed out. I'll turn my camera mic off. I'm still here. I'll just try that now, while I'm caught. Yeah, no worries. I'll have a quick look, see if you can see. I can't see anything in there.
+
+Bound   22:31
+Okay.
+
+Bound   22:31
+Anyway, but yeah, we resolve that. That helps either way.
+
+Rui Calvario  22:34
+Yeah, I think this is the find out foundation that everything is built on. We'll be able to have all the details that we need to look at. Right now, we're kind of working off of description from from the meetings and not the actual data that we're seeing inside of it. Secondly, the contact ownership cleanup, this is the second one that we're going to be focusing on, and it does speak directly to adoption and data quality. Every contact reassigned away from ex-employees, lead status is applied, and the 12 and a half 1000 backlog given a kind of a classification framework put in place. So, Robert, you'll obviously be able to see who owns what, and the contacts metric starts moving from day one that we start the project.
+
+Bound   23:32
+Just maybe I'll just add to that. Sorry, Roy, because just in case Rob, you're not particularly aware. So one of the things David and I, Jason and I spoke about was to building sort of bite-sized training sessions throughout the project, rather than a big gigantic dump of how this works towards the end. I think the key really is to, there's a lot of things that we're going to go into sort of an unknown. Appreciate, Rob, you've got a lot of experience at HubSpot, but there's there's a lot of things that when we launch something, we need some sort of feedback as to any gaps that might exist. So, delivering bits of training here and there is one, it means the tools being used quickly, but secondly, it's a good opportunity for us all to then figure out what's missing, what, where are those gaps? Just, just, just to bring you into that sort of conversation, in case you're unaware.
+
+Speaker 1  24:27
+Yeah, no, that's fine.
+
+Rui Calvario  24:30
+All right, great. Then, obviously, starting to look at the pipeline, I know you guys have started some great work on the operational side of it, and we obviously want to keep that momentum going. Sorry, just a quick one, James Jason did send a link to you. Yeah, okay, perfect. And I think our third quick one that we're going to be looking at, which speaks to pipeline and visibility is a pipeline rebuild and first law forecast, so the sales pipeline rebuild from the ground up with the right stages, deal structure and ownership, so essentially by sorry about that, so essentially by the end of week four of our engagement, you open HubSpot, and you can see a real usable pipeline for the first time, something that you can actually trust and show in a board meeting, for example, going across these three quick ones. This is what we've identified at the moment as probably the highest priorities with the discussions that have been had, does that align with you? Is that, does that seem about right, or are there any other items that may have shifted in priority?
+
+Speaker 4  25:58
+I think I'm aligned with that. Well, Rob, are you okay with
+
+Speaker 1  26:03
+it? Yeah, it seems to be, seems to be okay. I suppose to begin with, yeah,
+
+Speaker 4  26:07
+I think for the first four weeks, just to get us, get to a pipeline at the end of it would be progress.
+
+Bound   26:13
+Yeah,
+
+Rui Calvario  26:15
+yeah, great. Okay, great. So, will
+
+Bound   26:20
+you guys are on sales enterprise. That means actually we can, we can actually look at building some more insights for you guys with that. You've got a good, good HubSpot package there,
+
+Speaker 4  26:30
+and use it
+
+Bound   26:33
+well. That's that. Here we are. This is the day we change it, right?
+
+Speaker 4  26:37
+I
+
+Bound   26:38
+thought you were all on professional, so that's that's good to see, because there's some really cool little bells and whistles with the Enterprise version of Sales Hub.
+
+Speaker 4  26:46
+Yeah, I believe we're not charged on spending on it, that's why I said we've got to get it working, otherwise called,
+
+Bound   26:53
+agreed.
+
+Rui Calvario  26:54
+Okay,
+
+Bound   26:55
+sorry about in there, I just thought I'd mention that.
+
+Rui Calvario  26:58
+No, it's a good mention. All right, yeah, so then this is kind of just again high level, what we've kind of planned out from the discussions. We haven't been in inside HubSpot just yet to do that audit, so things might, might shift a little bit, but essentially this is what we're going to be delivering across engagement phase one, the weeks, weeks one and two, is essentially our foundation. This is where we're going to do the audit. We're going to do a little bit of a blueprint, as James mentioned earlier, and Mara board, and I think it's key that we first look into the system to see what we can actually put together for you guys, as well as this phase is entirely about understanding before we build anything, so we don't, we don't configure anything until phase one is complete. Looking at the contact ownership cleanup, that will still be going from day
+
+Bound   28:00
+one.
+
+Rui Calvario  28:00
+All right, then we move into phase two again. I will share this with you. So, I'm just going to give you a quick run through phase two. The focus is making sure that contact ownership restructuring is happening, and a pipeline rebuild and sales workspace is being configured. This will be more heavy operational work where the where HubSpot will actually start to reflect how the business is actually running all right. So I think I will leave it at the phase one and phase two for now, and then we'll have more discussions on a month to month basis around phase three and phase four,
+
+Speaker 4  28:45
+just a question, searchable thing, but the on the contact ownership, does that become automated in the system by region, or I know we talked about cleansing the data, you know, trying to use that kind of methodology, so we ought to assign, would it ought to assign to people within our sales team and regions, that's that's the aim, yeah. And hence that sort of in the phase two,
+
+Bound   29:10
+because part of phase one we need to look at the data quality, yeah, yeah. And then that way, and again we collectively need to come up with that rule of who is responsible for what, and what is that criteria, and then, yeah, we workflow that process, so it automates.
+
+Bound   29:29
+Yeah,
+
+Speaker 3  29:30
+where does the training fit into this as well, in terms of onboarding a team, bringing them up to speed? James just touched on that before using this coach band installed, so you could hear the banging in the background.
+
+Bound   29:50
+Your mics did a good job. Just turned up 10
+
+Speaker 3  29:52
+minutes ago.
+
+Bound   29:54
+Oh, really? Yeah, just to bring you up to speed on that. So, what I kind of flagged was that we want to put, we want to position sort of bite-sized training sessions throughout the programme, so when we've got something meaningful to be able to kind of allow the team to use, the team will then get that training, and then we'll use it for two reasons: one, increase adoption, get the data in, so we can analyse what we're looking at, but secondly, also learn where the gaps might exist, so that so there won't be like a, we run for three weeks, we do a two hour session, and ball the hell out of everyone. We'll be doing bite-sized as we go out, as we go throughout.
+
+Speaker 4  30:32
+Yeah, I think that
+
+Bound   30:33
+doesn't really
+
+Bound   30:33
+reflect that in the delivery product, but in the sprints, which Roy will probably talk to you about in a second, it will become quite clear in those sprint schedules what's happening.
+
+Rui Calvario  30:45
+Yeah, all right, yeah. That actually moves us into the next slide, where this is how we, we will work together. I know that you have sent bi weekly meetings, if I'm not mistaken, so generally, how we do work is myself and James will kind of chair certain meetings, so the Standup weekly meetings, you'll, you'll sit with myself, where I will go through what we're focusing on for the next sprint week. A sprint week to us is we set certain priorities to reach a certain goal that we're trying to achieve that week, and the team work on a task basis for that sprint week with one of the revenue roadmap ultimate goals that we're trying to achieve, so would we, would you like to keep that as a bi weekly meeting, or would you be happy doing this as a weekly meeting?
+
+Speaker 4  31:47
+I think weekly until we understand it. If it's too much and we say it's there's not a lot to be discussed, we can move it.
+
+Rui Calvario  31:54
+Okay. Great, thank you. And can we keep the same slot that we're using now,
+
+Speaker 6  32:02
+I yeah, it's fine with me. Yeah, great, great
+
+Rui Calvario  32:08
+stuff. Okay, so the team will work. We will be able to prioritise on a Friday during the stand-up meeting. What are the next steps? What are the next goals? What we're trying to achieve. Our stand-up meetings generally work off of a, as I mentioned, a revenue roadmap goal, and I'll be speaking directly to you with that, and we'll always look at how we're going to be improving. James will join us on a monthly meeting at the end of every month, just to discuss next step strategy with what has been worked on, and he might, he might make a special appearance every standup, every now and again.
+
+Bound   32:50
+You calling me out like I'm a celebrity, your pen and pad ready.
+
+Rui Calvario  32:55
+Yeah, exactly. So we also have certain communication channels, obviously, there's email, but email generally runs a little bit slower. Someone might not see the email, etc. So we do run internally with Slack. I'm not too sure if you use Slack. We
+
+Bound   33:15
+agreed Teams, didn't we? Yeah,
+
+Speaker 4  33:17
+I've sent you a Teams link, James. I don't have you've received that, Matt.
+
+Bound   33:20
+I have to log in to look at it, so I probably weren't aware, so I'll go in and accept. Okay, sorry about that. I could add Rui as well, so yeah, no problem. Yes, what might be worth doing is just, if it's okay with you, David, is if we just send you a couple of email addresses to add to that. Sure,
+
+Speaker 4  33:38
+yeah, send them through to me, and
+
+Bound   33:40
+I'll appreciate it.
+
+Rui Calvario  33:42
+Okay, that's perfect. Yeah, then we'll, we'll get set up on Teams over there at the end of every week. We do a rundown email of what was achieved that week, where we've made progress, and we'll, that will just give you more insight, according to the Standup that we do have. Stand up will be prioritising the following week, and the weekly rundown email will just give you an overview of what's being completed. All right, we will also share a live dashboard with you, so you can follow along with exactly what our team is working on, where they are, and it just gives you full visibility of the priorities that have been set, and make sure that you can follow along. It is live, you guys will see it as soon as the changes on our system. Right, does everything make sense there,
+
+Bound   34:43
+yeah. Just, just also to flag, not flag, but just mention this as well, that, as I said at the beginning, that Roy's not just in charge of making sure things happen our end, it's making sure you know it's a collective team, everyone's doing what they're doing, so on that dashboard, there is a Kanban board, right? So it's very.. you move things along, follows similar to the way HubSpot works. There is a section in there where it's requiring your feedback, so these things are to keep the process working effectively. We are going to suggest, hey, can you get back to us by these days, and if it's not long enough, we extend it. One that keeps us all honest, but secondly, make sure that there is continuous momentum throughout the project. And sometimes, when you're not aware, or you're not like the team scenario, I have to log in to access it, because we don't use Teams internally. If I'm unaware, I don't know about it. So, that's the dashboard is there to support you guys from that perspective, not just what you know, what bounds working on any, any given moment in time. Yeah,
+
+Rui Calvario  35:54
+with that dashboard, I will send across the video just explaining how it all works and functions arrows, okay. Then just part of next steps. Thank you for providing access over there. So you've already completed one thing in the homework line. The next thing that I do, we do just require is a roster of the sales team, just so that we understand exactly who is in that system. This will just allow us to view the users, the permissions, and also start aligning it for reassignment or anything like that in terms of our workflows. Just this is part of our foundations phase, just figuring out who's who and just making sure that's all set up. Also, one, yeah, I think from your side that that's the only thing we'll need, because we've just confirmed the Standup date and time. We are on teams now, so we're good on that side.
+
+Speaker 4  36:57
+Do you just need an old chart? I can send you an old chart through, unless we'll be
+
+Bound   37:02
+great. Yeah, that'd be good.
+
+Speaker 4  37:05
+That we're focusing on, so just the vet people are really kind of like in the sales team. So I'll send you that through in a moment. Yeah,
+
+Bound   37:13
+I think
+
+Speaker 3  37:13
+everybody who is going to be using HubSpot, actually on the website, on the contacts page, on the TBA firefly.com page, should be able to pick your name from there and just cross reference it with who's already set up in HubSpot.
+
+Rui Calvario  37:28
+Fantastic. Okay, perfect. We'll do that. That's actually really good to know from our side. We are going to just send this deck through if you want to have a read through it, we'll also be sending through that dashboard after today's meeting, and yeah, we'll be, we'll start moving into the first phase on Monday, which will be the audits. Now that we do have access, our team will most likely have findings to present within that first week that we start off, right?
+
+Speaker 4  38:05
+Based off, are you guys working the Monday?
+
+Bound   38:09
+We were not. No
+
+Speaker 4  38:11
+Monday, but
+
+Bound   38:14
+are you in Monday? Oh, all
+
+Rui Calvario  38:19
+right. Sorry. sorry, the team will be starting as soon as I mean on Tuesday, then forward, all right, but yeah, I'm not too sure if there's any questions from your side,
+
+Bound   38:38
+no one's a minute,
+
+Rui Calvario  38:42
+okay. fantastic. Yeah, so questions go for it.
+
+Bound   38:50
+I just wanted to pick up on our last session, Dave and Jason, that you and I had is around the processing mapping. I've now collected all of the conversation and mixed in and reconciled the image that you've that you took a photo of and I've actually based
+
+Speaker 4  39:12
+them because
+
+Bound   39:14
+yeah well I know is there's a lot of circles that go around in circles well the big key highlights is that there are there are a number of different sales processes that we need to understand a bit more, because I think the swim lane effect is fine, but we've got to make sure HubSpot is tuned to follow that, I think to Robert's sort of checklist of items, I think this is where it will really help get clarity on the second thing, as well, is the responsibility of who owns what is something we need to get clear on very quickly, and what I mean by that is if a specific opportunity or a project or whatever it be comes in, it's really getting HubSpot to understand what is it, and who to get, who gets access, who it gets allocated to. Those are the couple of things that weren't clear on the process map, but that's not a bad thing. The exercise is about trying to put pen to paper on understanding what's going on right now, so what we're going to be doing is we're going to be taken on board HubSpot as it is today. Look at the map that you guys have created, and then what we discussed last week and ingested all the information that Robert originally shared, and we're then going to present back a kind of first pass draft of, okay, this is what we've captured, this is where we think are going. I do recommend that we do a bit of a mapping workshop again collectively, maybe invite some of the sales team in, but we need to do the audit first, just to know where what we're starting with, and then I think that will then shape the key priorities of mostly what we've discussed today, but actually, what do we start with versus what moves, what's conditional to needs to be done before we move forward. So I just wanted to kind of add that observation in, and one last thing from my side as well is the service side, so I've noticed you guys have got Service Hub in HubSpot, and you've allocated seats to individuals, so my question
+
+Bound   41:37
+then is
+
+Bound   41:38
+the opportunities that get, I suppose thrown over to sales is the is the appetite to make sure that HubSpot gets that view from the outset. We talked about transactional elements last time, so I think it would be the one thing that wasn't specifically clear is the difference between that transactional side and what the customer service team send over, so maybe not necessary for an answer today, but somebody that we need to think about and process before we embark on the journey, and then suddenly we've forgotten about it, and we've got to unpick things and try and slot it in.
+
+Speaker 3  42:19
+Yeah, just can I just jump in. Probably need to update that service hub, and who's who's in there, and who shouldn't be in there, as well as part of the process.
+
+Bound   42:29
+Yeah, we can flag that as a note, because that again, as you just mentioned, that one thing we have a best practice permissions guide that we follow, so we'll flag some things that are not quite clear, so to speak, as you know, HubSpot has got so many things it can do. If people don't need access to it, get rid of it, because it's a distraction, and they accidentally go into somewhere without realising it can cause havoc as well. So we've surfaced some of that for you as well, Jason. So, I suppose it was a kind of a question, but also a bit of a rhetorical question. But I hope that all made sense.
+
+Speaker 4  43:15
+Say yes from our knowledge at the moment, from the knowledge at the moment, yes. But I'm sure there's more depth to it, and we understand.
+
+Bound   43:22
+Yeah, yeah, absolutely. All right, let's take off there, Robert. I can see.
+
+Rui Calvario  43:30
+All right, great. Well, I'm not too sure if there's anything else from anybody, but yeah, thanks for taking the time, and I see we've saved about 18 minutes with that, so can go make a nice cup of coffee. Robert can order a cup of coffee there before the flat takes off
+
+Bound   43:58
+the broadband man to make sure he instals it quickly.
+
+Speaker 3  44:03
+All
+
+Speaker 4  44:06
+right,
+
+Rui Calvario  44:06
+thanks so much for the time. I will pop off an email.
+
+Speaker 4  44:12
+Thank you. Bye for
+
+Bound   44:15
+today. Bye.
+
+
+Transcribed by https://otter.ai

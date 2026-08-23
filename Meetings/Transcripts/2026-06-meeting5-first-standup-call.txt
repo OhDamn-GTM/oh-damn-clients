@@ -1,0 +1,752 @@
+rui  00:00
+Me don't give my secrets over here.
+
+Speaker 1  00:03
+This meeting is being recorded. I've just sort of
+
+Bound   00:07
+feel I've just sort of given a high level quick overview of today. I know you're going to go into more detail, but I've just explained about the highlights of the audit, and then the visual Miro, which I'll cover, so I'll kind of hand the mic back to you, because this is, you've got the agenda on this one.
+
+rui  00:27
+Yeah, so just one second, I'm just trying to sort this camera at you, okay. Okay, I think that might work. Now you'll see another Roy pop in.
+
+Speaker 2  00:53
+Okay.
+
+Bound   00:55
+Oh, Roy, sorry. David just introduced me to Ros. You're forgive me, you're in your head of customer success or part of the customer service customer service
+
+Speaker 3  01:05
+manager is customer services and product manager, but for this customer services focus, the product side is the technical sports line, but yeah, yeah,
+
+Bound   01:17
+great. Just sorry, just in case you're wondering, Who's the extra person in the room?
+
+rui  01:25
+Great, thank you. Thanks for that. Sorry, you got this. Two of you in the room, no camera. This is crazy. I don't know what's going on here. Okay. Love tech issues. All right, great. Great. So I think James has kind of covered a little bit of the agenda. I think we have spent quite a significant amount of time in HubSpot, and just to uncover everything, and what I'm going to do on my side is just present my screen. If my gosh gosh, if my tech allows me to do it today, I did say
+
+Bound   02:08
+that you literally had back to back, so maybe the machine is used to having a 15 minute gap,
+
+rui  02:14
+exactly can is that going to pop up? Can you see it? Okay, great, great stuff. So, yeah, I think just want to do a quick rundown. I'm not going to go into too much detail, more just on the highlights of the audit and what we've kind of uncovered, there's a couple of questions that we will just need answering, and then I'll break down how we're going into the upcoming sprints and align that to how we're going to to achieve those quick wins that we put in place at the start of the project. All right, so we've gone through every contact, every deal, every workflow, every user, we've reviewed it all, and what I want to do is just look at the numbers that we've committed to in the map document and think the three things that we need from you before we can start building today on top here, and just to let you know, I will be sharing a much more detailed document with you, as well as this dashboard that we've got over here, if you want to run into further detail, but essentially what we've got over here is just a little bit of a health scorecard that we've put together in terms of, you know, everything that I've just gone through, and it just shows where it's sitting at and where the vital points are at the moment. So, anything that has a status of red is definitely where we need to look at focusing, and anything in orange obviously takes a little bit of a lower priority on our side. We've also got a couple of questions, as I mentioned. This will have to do with those points over there, because it will eventually run into a little bit of a block for us. So, if we can get the answers on that, that would be great. All right, again, not too much detail over here, but essentially, what we've uncovered is 98% of your contacts have no lead status. I think we were all aware of that already, so we can officially confirm it after doing the audit, and this is obviously one of our biggest focuses in the upcoming weeks that are happening in terms of the companies it has fallen under an amber so this is kind of half a second priority to us so there are over 1000 orphan companies sitting in in hubspots at the moment, all right, so in terms of power plans, there's a total of seven pipelines that we've seen, three of them are actually near duplicate pipelines. This is something that we can work towards and start looking at cleaning up zero, close one deals of all time is obviously not a business result, so we do need to do quality data quality confirmation, and just make sure what is tracking, what is genuinely deal tracking, and to give you that, obviously those insights around a forecast that you want. All right, we've also found that there's 107 properties that are custom contact properties, and we've put all of that together. We do have a kind of a taxonomy document that we work off that will also be shared across with you, and we'll do a bit of a clean up on that. Okay, again, workflows and automations, forms and lists. I'll give you the time to read through it. I'm obviously conscious of time. And then one of the biggest ones that we want to get across immediately is the users and access side. So right now, there's 14 people with super admin rights, which means they have access to anything at the moment. Sorry, I'm not too sure if there was a hand raised or
+
+Speaker 4  06:31
+no. Sorry,
+
+rui  06:33
+so this is this could be potentially the root cause of a portal degradation that we've seen, so we just need to do a little bit of governance over here, just to make sure that only people who actually need super admin rights should, should have those routes, so nothing can be changed. We could go into a process of starting to work on a couple of changes, and then things things start changing because people have certain rights, but we'll, we'll jump into that. Okay, then the service hub, the technical support side, so obviously we got 1200 technical support inquiries per month, but there's no visibility within HubSpot side, okay, so we work off three revenue leaks, right. We provide visibility, adoption, and speed. At the moment, what we're seeing on the visibility side is that there's seven broken pipelines. There's 97 stale deals at the moment. There's no ways that we'll be able to provide you a forecast. I'm just doing a bit of a highlight, and this is kind of this card kind of gives us the indication of what's the next steps and where we're going from here from an adoption point of view. Obviously, like I mentioned, the contact is a little bit of a problem there, as well as the super admins from that side on the speed revenue leak, we are looking at over 1000 inquiries, but no visibility on it. We're looking at putting in SLAs, and yeah, all right, so
+
+Bound   08:21
+just just to jump in, just on here,
+
+rui  08:24
+yeah,
+
+Bound   08:25
+just from a, there's a, there's, there's two sides to this, obviously, just, just to add some context, there's a cleanup piece, so we want to try and do that whole reset motion, you've got a lot of pipelines, and I'm going to talk about which ones we keep, which ones we don't, in a second, but from a, from a kind of a data hygiene system, hygiene, does, does anything in there sort of make sense, resonate, or were you kind of unaware of some of those things?
+
+Speaker 3  09:00
+I was aware of all of that.
+
+Speaker 5  09:01
+Yeah, it's no surprises there. I think just it's just a good way of highlighting what we already know.
+
+Speaker 3  09:06
+I think this is an
+
+Speaker 5  09:07
+impartial way,
+
+Speaker 3  09:09
+and this is what we said. This challenge, the system is not used. The system is because it doesn't work, it isn't used, so we have to make it a usable tool that we then make sure that everybody uses becomes a discipline around it, so there is no discipline there, because the tool is effectively broken.
+
+Bound   09:30
+Yeah, and I always like to give this analogy with these scenarios, is that if you, if you remember, like a Premier League sticker book, do you remember those back in the day? Yeah, and so basically, what's happened is just the wrong stickers have been put in the wrong pages, and no one's realised, and then they've gone and built another load of stuff, and it's actually realising that there's a squad over here in the wrong place, but there's also a squad here as well who are the same people, so I think some of the big lessons from here is is part of this process, is building some guard rails collectively as a process, and I think that will eliminate any future problems. So, there's a lot of good stuff that's been built in here, and I know Rui will highlight some things. It's just, there's no, there's been no sort of research, or does this already exist? Man's process, that's good, no management sort of exactly, yeah. So some of these highlights are serviceable, so that we can then at least get some sort of guard rail process document in place that could always be referenced as well. That before you do anything, you need to understand this is how the build is, and then you either optimise it or you create something you want to review, if that makes sense. Yeah, sorry to jump in there, Rui. I just wanted to make sure that, because this stuff is arguing a little bit like it can be a little bit boring. It's like all these numbers, what do they mean? And we'll get into the fun, I promise.
+
+rui  10:58
+Yeah, thanks, James. I think I'm running like a chicken without a head at the moment, just because of the tech issues, back to back meeting. So, sorry. Thank you for pausing me there. Just asking the questions, appreciate that. Yeah, so I think a couple of decisions that we just want to walk away from the meeting with today is
+
+Bound   11:23
+sharing by the way, in case you're still following, if we're supposed to be still following along. Oh, sorry, I can see it. My tech issues is that, what is going on today? Sorry, guys.
+
+rui  11:36
+Okay.
+
+Speaker 2  11:40
+All right,
+
+rui  11:41
+so decision one. I think we need to figure out who's going to be sticking as a super admin, just so that we can start on that process, that if anything is changed, there's certain permissions in place, and we need to make sure who really needs super admin, and who doesn't? What I can do, and provide you with is a list of that of the users that have super admin, and then you can just highlight who it is. Would that be all right?
+
+Speaker 3  12:13
+I think that's an easy one. That's an easy one to answer. Things three along with Three, I think Bob needs to be one as head of sales, Jason potentially, and I'm already one. I think Bob's already won. So then we need one else. What happens if we're not super admin? No, but that's not the point. You can't change it, because we're saying there's going to be discipline around it. If you've got three, we've got three. Who are the three? Yeah, the key people. So we don't just want to add the reason why we've got 14 is that we just added sequences and given all encompassing access. What we want to do is have a security around it, control, so do we really need it, or what does it take away from us if we don't know what
+
+Speaker 5  13:09
+our kids, if we have three for the time being, internally plus bound or one, you
+
+Speaker 3  13:15
+want
+
+Speaker 5  13:15
+two, I guess.
+
+Speaker 6  13:16
+So, is there any reason why Roswell needs super access?
+
+Bound   13:21
+Can I make a suggestion? Yeah, so we, we actually create a new admin layer in HubSpot, surprisingly, actually called Admin, and what, what this does is it gives pretty much most admin-based permissions that enable you to edit, change things within the system, but it removes purchasing and billing access, because you can accidentally buy something without realising, and that just safeguards that. So, our recommendation is always to have maybe one or two super admins, and if anyone needs admin permissions or privileges, we create a new group called Admin, and then we're then assigned. We've got a document that can kind of talk you through this, which we're happy to share, that kind of gives you an indication of like permissions for sales people, permissions for marketing people,
+
+rui  14:12
+etc. I
+
+Bound   14:13
+would be quite strict on who gets super admin for data integrity, but also accidentally disgruntled employee exports everything and runs to the sunset. Yes, to say that that happens, but like it happens.
+
+Speaker 7  14:31
+Yeah. No, I agree. We're protecting IP, and it needs to be just to keep people narrow down the rights in admin as well for each individual person,
+
+Bound   14:44
+yeah, yeah, yeah, we over, we basically, I don't know why HubSpot has never invented it, we've actually said to them a few times, can you not just have an admin role, not a super admin role, but no one seems to be listening, so we just created it ourselves, so yeah, it's just for those that have autonomy, I suppose, and again, something that will come a bit clearer is that we, Dave, I think you and I and Jason, we spoke about this, is building an internal champion that is your, is that is the go-to person, so therefore that way, the that person has the super admin, and you have to go through that person to do significant things, for example,
+
+Speaker 3  15:28
+right. Okay, so that is something to think about. Yeah,
+
+Bound   15:31
+yeah, but I think right now it's it's just more of a case of we just need to agree those that have super admin, do they need it, and if they do, great. If they don't, what do they need? And we then adjust them and put them in the right group. That's kind of the exam question, really.
+
+Speaker 2  15:50
+Yeah,
+
+Bound   15:53
+but rather than you having to think about it now, we'll surface this permissions guide that we usually give clients, and we, as I said, we break it down by department, so you can then look through the intricacy permission levels at a lower level to answer your customers, and then you can then see, okay, they get that access, they get this access, yeah,
+
+Speaker 3  16:17
+yeah, we will slot the people of the organisation into those boxes, so that you know what lights we waiver they should need. Yeah, okay, that's fine. Yeah, share that with us, and we'll get completed.
+
+Bound   16:28
+Great,
+
+rui  16:30
+perfect. All right, and then in terms of the pipeline, I think James is going to go into into a little bit of a discussion with that. Sorry, guys. Sorry, no problem. All right, so James will go into a little bit of a discussion around the pipeline structure with the Mara board, so we'll leave it for that conversation. Then, in terms of the deals, we have noticed that there's 111 open deals. Are these active deals? Are they still still part of the process? I just, I think the question I'm trying to uncover here is the deals that are in the pipeline up at the moment, are they still relevant?
+
+Speaker 3  17:20
+No, I would be happy to say right now. No, so we could probably close them if we couldn't close them on mass. I would just close them off, as you know, suspended or closed, even because a lot of them are quite old, a lot of them going back to previous people that no longer work the company. Just before we do is Bob's normal coffee. I'm feeling he sets them up, but it's worth sex checking with him before, but most of them build ones, like most. I can see might as well just start from the bench. I don't see, because you know the system's not working as well, it's a work, the system's not being used, so everything we saw today is not in HubSpot. Okay, I'm aware of, so we are sales meeting today. So we did the usual kind of PowerPoint slides of all these things within the pipeline, but not in HubSpot. So yeah, all we want to do is so it's all in HubSpot. We don't want to do the PowerPoint if one, if
+
+Bound   18:22
+this would help, we could extract it into, like, an Excel spreadsheet and just put a simple yes/no column if
+
+Speaker 3  18:33
+it's older than six months, then closing.
+
+Bound   18:40
+All right, great, we'll do that. I think, as well,
+
+Speaker 3  18:42
+we will
+
+Bound   18:44
+close it. We won't delete it. We'll close it, because I think there may be opportunity to hand it back to you, Jason, as part of marketing. There may be something that we can do if there's no engagement down the line. Yeah, the history's there. If
+
+Speaker 8  18:58
+we say we had
+
+Speaker 3  18:59
+previous contacts, and there was a deal that supposedly came around a certain building, and so, yeah, Clausman is the right thing to do, and it keeps going straight.
+
+Bound   19:08
+Yeah, we're not a fan of deleting data, just to be clear on this. We would always push back. There's always value, you just may not see it right now.
+
+rui  19:16
+Yeah, so we get to contact, all right, yeah, so great, yeah, so that is kind of what we've uncovered from the audit. There's obviously what you can see, there's a sprint plan, but I'll leave that for the end just to provide you with next steps and what we're focusing on. I think James, if you want to start running through the pipeline and the Mara board, that would be great, but as I mentioned, I will be sending a detailed audit. It's good that you are aware of these, but it made us aware of everything that's going on behind, so it gave our team the knowledge to be able to start planning it correctly, but I will share everything with you. Right,
+
+Speaker 3  20:05
+yeah. Thanks, Rui. One question on that, did you? Does the audit actually go into the background, not on things like our training areas, because we believe there's a lot of information coming in from around training and booking of training that goes into HubSpot, that is probably still quite relevant. It's still being used for that, that side of it. The only thing that's been used for HubSpot for training is a survey feedback survey, right? So Sean's not actively using HubSpot for anything else, or is it a QR code that we, that when someone's finished the training course, it gets uploaded into HubSpot. There's a feedback survey, but then their details get uploaded. I'm not sure I'd ask these guys. Is that what happens?
+
+Bound   20:53
+Yeah, what the audit will do is it will surface things that have been used, where it's been stored, and then flag what it believes are inaccuracies, or what's this to do with, so it won't, maybe it won't go into the context of you just explained, but that's good for us to understand, that's what you use, because we can then fill in that context.
+
+Speaker 5  21:13
+Does it automatically go in as a contact once someone's completed that survey, or not? Does it have to be?
+
+Bound   21:19
+Yeah, we will find out for you, because the
+
+Speaker 2  21:22
+report is..
+
+Bound   21:23
+I don't know how many pages it is, which we unfortunately will give you some bedtime reading after this call. It's very comprehensive, but we'll find out. So, we.. what you've described then is that upon training finish, a QR code is scanned, it logs down a tech card
+
+Speaker 5  21:41
+that sits on the desk, and after every training session, which is like done in a meeting room or training room, Sean asks them to complete a feedback survey, and I think he's been pretty diligent at getting them to complete them, and they will find out where, so yeah, find out what's what's happening on that, because it came out in the meeting today that nobody ever looks at the results. No, that's partly because potentially some juicy day,
+
+Bound   22:18
+so we think it exists, which is why we wanted to have that strategy meeting, but we, the audit, has looked at all the workflow, so it will service if that workflow is related to it, but we'll find out for you anyway, we'll come back and go, well, this is what's happening, and we can then decide what do we want to do with this,
+
+Speaker 3  22:38
+it needs some great reports on it, but we'll get to
+
+Speaker 2  22:45
+that. Brilliant, right? I'm now going
+
+Bound   22:48
+to show you some pretty pictures of things. Oh, that's good. Okay, unless you're colour blind, then it's not going to work, but so I'm going to share screens with you. I hope I'm going to zoom in, so don't be alarmed by how small this is. It's just that there is so much going on in your HubSpot, and we want it to capture everything. Let me know when you can see my screen.
+
+Speaker 3  23:17
+Let's work,
+
+Bound   23:20
+so I'm going to zoom out a little bit, and then I'm going to show you all the different diagrams that this is built, we've built, which represents the marketing flow and the pipeline, but I'm going to zoom in on this bot first, because I want to talk around this is the outcome of our sort of mini customer journey workshop, Dave, Jason, and I did together. What we've done is, we've, we've captured basically your spider diagram into a swim lane process, and this is now really back to you to kind of really give us indication of what's missing, what's what's it captured, what's not going to be something that we're going forward, so just note this is a current state version. This isn't the future state, that's where we need to be, and there's a couple of gaps that we've added in here that we've highlighted off the back of the conversation, and what we've captured from the audit. So this is just, this is in no particular order, as well. Just to be clear, a little glimpse into the future, but this is a really horrible looking version at the moment. But this is kind of where your future state customer journey is going to be built. It will look a lot better, but I wanted to give a glimpse of where we're trying to go with this. So, a lot of that's captured in this area here, which pretty much represents these swim lanes at the top here, so you're just, just to bring you into the fold here. What we've done is, we, and if you're not aware, we basically captured every single entry point, regardless of customer, new customer, and how it flows, or want how we want it to flow into the system, so this will then become the kind of brain blueprint of what HubSpot will follow eventually. This is kind of where, where we are. So, really, what I need from you, and you'll get access to this, is is generally just to give us some comments. We just want a bit of feedback from you. Feedback could be not sure what this is, so we can then understand. Okay, did we capture that wrong, or is it in the wrong place? Secondly, put
+
+Speaker 5  25:30
+it on full screen mode, because I'm struggling a little bit to read. Yeah, sorry,
+
+Bound   25:33
+I'll zoom right in for you. Is that bit better?
+
+rui  25:36
+Yeah, that's good.
+
+Bound   25:37
+Yeah, I've got a really wide screen, so if I kind of go too wide, it will then look like
+
+Speaker 3  25:42
+a little bit, so just take it back a little bit. That's okay, that's fine. Yeah, that's great.
+
+Bound   25:49
+Um, so basically, the, the, I put a bit of a key here, just so you, these represent, because this, this is just a presentation version at the moment, there'll be a little bit more context around this, but this is just generally what was captured, as I mentioned. So, really, what we need from you, as I said, is just a bit of feedback. When you don't need a Miro account to log into this, but when you hit any of these boxes, you can right click and go in and add a comment, and then if you just put your initials on there, because you probably won't have an A Miro account, then we can just keep track of who said what, but also others that go in and give feedback can see what previous people have provided feedback on.
+
+rui  26:26
+Okay, yeah, that's good.
+
+Bound   26:29
+However, don't - there's no need to spend a huge amount of time on this. It's just what's missing, or what we don't want is the key objectives of this particular part of the process, so any questions on that? Because I'm going to move on to the pipe. Can we
+
+Speaker 5  26:49
+start from actually work from left to right, just for the sake of, yeah, you wanted us to review this now, or go, but go away and review it
+
+Bound   27:02
+well. We can kind of talk about the highlights, but I kind of wanted to give you guys a bit of time to digest it, ingest it, and rather than kind of put you under pressure to give answers now and then we miss something. I don't want us to skip this bit, because this bit is probably one of the most important parts we do before we start building things.
+
+Speaker 5  27:21
+The first thing I'll say is, on the seat on the refresh swim lane on the left is
+
+Speaker 5  27:27
+it's a little bit linear. So, for example, where you get to the point where project awarded to installer, we might actually deliver a CPD after that point rather than right at the beginning. It doesn't always work that way, went that way around, so it could maybe loop it or something. I don't know. Yeah,
+
+Bound   27:46
+but that, that's a great comment to add, because this isn't any order. This is just placed in an order of of what we've captured from the board, because the board was like all circles around it, so we wasn't quite sure what started where, and so on, which is not a problem, but that's a really good kind of point, really. That talking about HubSpot, we need to tell HubSpot how to behave when certain things happen or don't happen. So, if CPD can be used at the beginning as a standalone offering, and then they buy products all the other way around, then it doesn't really have a trigger motion, it's just it sits there waiting to get feedback rather than we proactively trigger something,
+
+Speaker 5  28:32
+we're taking this away and reviewing it. I've just popped into my head that one,
+
+Bound   28:37
+yeah, no, it's good, and again, these are some of the gaps that this is where we again from a visibility and also a kind of adoption perspective, we focus more the gaps around can we extract insights from this, can we report this, and that was from our perspective, where we feel some of the gaps fail, but from your perspective, the gaps are like you just explained. There's nuances to this, so let's try and discuss how those nuances become relevant. Do you want me to just flick through each of these, so you just got a quick view of this? Yeah, great. Right, the meaty bits, the bits that I think is causing most of your pain, to be honest. There's seven pipelines. One is a test, so we can probably safely ignore that unless there's a reason for it to be there. What I'm going to do is I'm going to pick on this one, because this one we feel is the main pipeline. In fact, this is the one we want, or going to recommend that we keep, but restructure a little bit.
+
+Speaker 9  29:46
+Just go down another level, just zoom in one more. That's it. It's fine. Yeah.
+
+Bound   29:52
+Oh yeah. If I do, if I do that, does that make a difference for you?
+
+Speaker 5  29:59
+That's just about readable to me, that as we've got it on the screen there. Yeah, that's okay.
+
+Bound   30:05
+Yeah, good. Because I've got a very wide screen, it's not.. it doesn't always help. So, what? Let me explain how all this works. So, we've got the stage, the pipeline stages as they go in a linear process, so they start one and then work their way through to one of the final stages, whether that's you've won the contract or you've lost it, then it's then understanding, okay, what does each of these stages represent in the sales process, so why, why should they be in this pro, this particular stage is to questions that we need to sort of get some understanding on. It's probably something more for Robert to answer or give some context on, but what we've done is we've just given a version of what we believe these stages might be, but that's not final. As I said to you earlier, we didn't want to just give you a blank canvas, and you're not none the wiser of what each of those mean. So that's the stage context. The layer next to it is what we call the exit gates. So these are can be mandatory requirements that prevent stages moving on. So this is where we can kind of keep the data guard rails high level, so we're not missing any information about the company, the persons that we're talking to. I appreciate you've got different offerings at work, probably in different parts of the company, but might be separate. So this is a good opportunity for us to capture that, but this also helps with making sure that sales team are actually doing what they're supposed to be doing at each level, so if you're about to quote, have you got all the information you need as an example, have you gone and visited the site, if you've got the measurements, again speaking hypothetically here, and so these are the ways for for the stage gates to also represent. Now, interestingly, you've got a few things that's kind of relatable to around appointment schedule, which was a little bit ambiguous for us, because we wasn't sure whether this is a face-to-face or whether this was on the phone. So, some clarity around what these stages, in terms of the context, is probably going to help us the most versus the stage gates to be selfish, so just continuing that theme, it's then looking at like required information that's that's quite key. So from a reporting perspective, it may be say you want to really understand, is there a specific subset industry that we're winning a lot of business with, or it could be a specific part of, you know, like a location-based thing. Is there more businesses up in the north versus the south that you're winning businesses from a reported perspective, but the other side, which I think, where I'm a marketing hat, is that if we're winning deals with specific sort of job title personas, then this helps with look-alikes and so forth down the line, so we can enrich the data for others, so there's lots of different reasons behind why required information is important, not just for the sales process, just, just to kind of give some context to that, and then the other bits down here again, we've just, we've just picked on Robert a little bit, he's not on the call, so we can pick on him, I suppose, is, is that it's really just kind of making sure that we've got the naming conventions correct, so we've sort of put in here that it'd be really good to get some feedback from Robert on that. And do these stages actually represent what they mean on the tin? Is the key question. So, in summary, it's just understanding context of stages, what do they mean? Why they, why they should be there. What is the success cry to enable them to move forward? So that's the exit gates, and then what's required in terms of data capture that we should be recording in order to then be able to kind of fully enrich the data, because we need to make this system human agnostic, so if someone wants to leave tomorrow, the knowledge doesn't leave with them. That's that's kind of the message, really. So, I'll pause a minute. I've thrown a lot of words at you. There, do you have any questions on this?
+
+Bound   34:39
+Is there anything that doesn't make sense before I kind of show you some of the other pipelines. No, I think it's fine. Okay, great. So I do propose what I would propose doing, actually, subject, obviously, Roberts' feedback, and your feedback is we, we have a kind of a version of how we would run your pipeline, what we would include in that pipeline, which is that kind of diagram I showed you earlier at the bottom that looks a bit of a mess at the moment, because I appreciate that some of these things, there's a reason why they're in this place in this order, and I don't want you to have to feel that you've got to come up with the ideas or what or best practices, and so forth. So we're going to go and give you what we recommend, and then it's about really coming to the middle of what we end up with, that makes sense. Yeah, appreciate we're giving you a bit of homework here, but we want to, we're here to hold the hand throughout this whole process, so this isn't a one-way street.
+
+Speaker 3  35:58
+Yeah, so you're going to give me a recommendation, like you think it should be done, and then we need to tear that recommendation and bridge that gap between where we currently are to where you believe we need to be.
+
+Bound   36:09
+Yeah, a hybrid of that. Yeah, exactly. Is the buck stops with you guys? If you say you don't like it, that's that we're not going to argue with you, but we'll, we'll fight if we go, but you've got too many stages, that's just extra wrapping, that that'll be where we would push back. Yeah, let's
+
+Speaker 3  36:26
+keep it, you know, lean, and because one of the caveats that we've got to keep an eye on is that this isn't onerous, it's not too burn some on the sales people to fill it all in. It's great having information, but if you're over capturing it, Richard becomes difficult to complete. It was done. We're back to square on.
+
+Speaker 4  36:46
+How many stages would you recommend on average
+
+Bound   36:50
+less than what you've got currently is the simple answer for me. Qualified to buy personally, I wouldn't even have it in a sales process, because if they're not qualified to buy, why have you got a deal open to that, that needs to be before, and then presentation scheduled, and decision maker bought in for me, they're one, you just have additional areas of the system to capture, have you got the decision maker, had they bought in, they like check sheets rather than in a stage, so I could already take maybe two or three of these out and just keep it simple. Yeah, someone has to then move these, and that's another job. That's what we're trying to remove. Yeah, that's off the cuff, by the way. There might be some more areas that we, we would probably save and create efficiencies, but already those are those are the big highlights that I would say we've got opportunity to streamline this better. Great, so again, this is the main one. This is the one that I would suggest that we keep the problem child, but I'm going to call them for now, or is all these other ones? I'm going to skip over the testing one, because I actually think this is one that's it looks awfully familiar with the stages that HubSpot give you when you build a pipeline. It looks like someone's just renamed it as testing pipeline. Maybe I'm wrong, but maybe you could tell me, do you recognise? And if you don't, well, there's a first, there's the first pipeline we can delete. Any of these familiar, ignore the stage context and stuff. As I said, that we, we've just, we've put it in there, in case it is something that you keep. No, no, it's very
+
+Speaker 3  38:37
+generic. The one you've showed previously looks like the one we've written, but it looks like two details. The
+
+Speaker 5  38:44
+only thing I'm thinking is this suits this is for if we get a new customer at the start of the process, that's all good and well. Where would a existing customer or lapsed customer fit into this pipeline or other separate pipelines for those? It would create a deal, all that, yeah, yeah, but that's a
+
+Bound   39:07
+really, that's a really good question. So we HubSpot got a deep Hubspot, got a default property called Deal Type, and out of the box it has new customer and existing customers options, so I'll be encouraging you to use as many of the same pipelines as possible, but we break down the difference between new versus existing, rather than having another pipeline that you move into, and we've seen this before, where someone's forgotten to drop change the pipeline in the drop down, and then they've created it, and it's, it's invisible, because everyone's looking for the deal in the wrong place, so these, these are the things, as, like, I'm saying about consolidation, these are, these are other areas that we can keep this lean, but just to add to that point, sorry, the, this is also where automation can sort of support it, because if a deal has already been made or created or won in the past, then we can actually have HubSpot look at that, and if it says we've already had a deal in here, it can automatically assign that deal to type for you, so we remove that kind of admin piece for the team to deal with, and it's one less thing, not shooting down humans, but unfortunately humans make more mistakes than robots if they're not set up correctly, of course. So, does that make sense, Jason? To your question, there.
+
+Speaker 5  40:35
+Yeah, Clayton, Dolph, yeah,
+
+Bound   40:37
+yeah, we'll get into the detail on that, so the CPD presentations, quite a short pipeline. What do you guys use this for? Just, just from your perspective,
+
+Speaker 3  40:57
+as of tracking the number of CPDs that we do, I think,
+
+Speaker 2  41:01
+yeah,
+
+Bound   41:04
+scheduled point in details. Is this sort of a pre.. is this the pre-buying part, or is this a part of what who's attended and who isn't? As an example,
+
+Speaker 5  41:13
+it's kind of what we'll talk about for.. is that it's.. it's a little bit of both. It's mainly set up, so we have a couple of partner applications that we use, which are construction industry based, and we have a sales and specification manager who primarily is the one that runs the CPDs, so he will target architects that potentially may or may not have something coming up, they may request a CPD through our website. We may find them on Barber or NBS as a project that may be of interest to us, and Stephen will contact them. So, there's lots of different touch points throughout this, and also I've said before, when we deliver CPDs, it's sometimes to something that's already quite a long way down the planning pipeline, in terms of, you know, a new iRest file, for example. Okay, so
+
+Bound   42:10
+no, it makes complete sense. So I think just by what you're saying, I would probably remove this away from the deals object, and I'd like to dig in a little bit more around what data you capture, because you guys have got an enterprise hub, which means we can create a custom object that captures specific information about CPD and logs it to the records, and you've got then a track of lots of different things. I had this, this thought the last time we spoke, I just didn't, I didn't want to service it and overwhelm the whole scenario.
+
+Speaker 3  42:43
+Yeah, I'm going back to your point, James. ICCP is a sales tool within the process,
+
+Speaker 2  42:52
+yeah,
+
+Speaker 3  42:53
+not as a, it doesn't define or deliver anything to it unless you've got something that ties to it for transactional, yeah,
+
+Speaker 5  43:02
+it's almost warming a lead up and making them aware of the products and the services that we provide.
+
+Speaker 3  43:07
+It's enhanced sales,
+
+Speaker 4  43:09
+because doesn't that link into the first stage of the
+
+Bound   43:14
+sales? It's all encompassing, isn't it?
+
+Speaker 3  43:17
+As Jason said earlier, can you treat the CPB in probably impossible stages. The architect, it comes to the installer, it can be to the end user client. Yeah, so you could have multiple CPDs within one project. So I think we,
+
+Speaker 5  43:32
+yeah, so what James is, you're suggesting to remove this because it's too simplistic to put our CPDs in in one box. Yeah, yeah,
+
+Bound   43:42
+and we can layer in specific items that enable you to then service what is that CPD-based opportunity as a lead generator, for example, and then just treat this as again part of a sales process that you have with a client, I mean, ultimately you're selling them something or you're nurturing them with something, as long as you're logging what that something is, then it's visible. Do we need two different areas of the system to be able to track that? Well, my first answer would be no, because it's kind of got my user experience lens in this top, this idea is that one of the big things is about getting the team to adopt this, adding more pipelines creates a friction, so if we can simplify that and go, here you go, this is how you operate it, the adoption gets is typically higher, but we just need to understand what's unique is posed more than my question is, what's unique about this versus the others, so that we don't lose functionality or details, and we enable everything to be captured under one area.
+
+Speaker 6  44:55
+Well, I think this is very kind of capturing the people involved in CPD, isn't it? Yeah, yeah, it's
+
+Bound   45:03
+if you're capturing kind of enrollment, so let's say you're running, yeah,
+
+Speaker 5  45:08
+it's almost, yeah, if you use 8020 a lot of what Steve does is people that don't know about us have never heard of us, but they've got something coming up down the pipeline that they may need some fire protection products, so that's what that CPD, CPD does. We also have it, also presents to people that are just about to instal it, that already are already aware of this. Is a little bit too, but you could probably apply an eight 20% rule to that, if you like, in terms of them. Stephen normally talks to architects face to face in their practice, and it'll be delivered to, you know, between 10 and 20 people, and then at some point further down the line, in a few months' time, there may be an opportunity that comes out of it. I saw a couple today in the presentation that I know Daniel presented in Scotland that have come to life now, but we don't always know what that time frame is that we've got, and really HubSpot should help us measure that.
+
+Bound   46:09
+Yes, agreed, agreed. So, if I split this into two tracks, then from what I'm hearing, you've got one that can be used as part of a sales value tool, so it's about helping build their relationships to support getting business out of getting business from them, and the second one is more of a value add as part of a wider programme that you're, yeah, you're taking them on, yeah, values in data, right,
+
+Speaker 3  46:39
+yeah, no, we do generic ones to mass groups of people. There's no specific projects in mind. It's only trying to touch base with the audience, try and capture a project from that group of people, but it's no idea what it is. So, you can't say you can't put a tag on it and say it's this project, it's this hospital, it's this, you know, there's no way of identifying what it is you're delivering on mass and hoping you're panning for gold,
+
+Bound   47:07
+that makes sense. So, so, do you periodically run these, then? Is that fair to say? So, that you might have one at the end of this month, you then invite. So that's kind of going back to my point I made earlier, that if we, if we had an area in HubSpot where that's tracked, so you're running these courses, and then we have an idea of who attended them that then associates to the other parts of the system, so you've got that visibility. A
+
+Speaker 5  47:32
+volume, Steve does probably three to four a week on average.
+
+Speaker 2  47:38
+Yeah, yeah,
+
+Bound   47:40
+he's a busy man. I think that's really
+
+Speaker 3  47:43
+interesting, James, because one of my challenges is I said this from the start was how do we know what the value is from the CPD? So, if you had a collection of these are the people who've attended our CPDs, and then we have people who've actually, these are the deals, yeah, we could then say we've got a contribute. This is what we've always wanted to measure, but I've never been able to. So we've,
+
+Bound   48:11
+we have some ideas. We, we can build a custom object in your HubSpot specific to this, and then it will then associate to the deals, and then we can run reports on, you know, arguably it'll be an element of a 50% attributed report, and you'll be able to go, well, How many deals we won in the last month that haven't been on a CPD versus how many deals have we won in the last month that have been on the CPD, and that's that, that will give you the insights.
+
+Speaker 5  48:47
+Yeah, established tracking and measuring that percentage of conversion, if you like, it will be key as well, because it will tell us how effective those CPDs are
+
+Bound   48:58
+exactly. And that QR code that we spoke about at the end, at the beginning, would be the mechanism of logging who attended, as well as
+
+Speaker 5  49:06
+that's something we've got set up for installer training, that's training,
+
+Bound   49:10
+but we can create a soap, so let me rephrase it, we can create a sort of similar version as part of this mechanism,
+
+Speaker 5  49:17
+I've only got them set up to be fair, but I don't think Stephen is as thorough as what Sean is actually using those QR codes, so there is some feedback
+
+Speaker 5  49:30
+that's already set up in HubSpot.
+
+Bound   49:32
+Great, so what I would suggest then is I recommend we get rid of this pipeline, we look at what's captured and make sure the main pipeline has the facility to log that as a track one, as a track two will then look at the number of events that you run, you know, 345, times a week, and build a system that enables you to then have tracked who's attended, and then have that associated with a deal, so we can report on the effectiveness of things,
+
+Speaker 3  50:03
+yeah, yeah,
+
+Bound   50:05
+it's just where having an enterprise subscription benefits you guys, because you can create custom stuff in HubSpot, because
+
+Speaker 10  50:12
+we didn't even know that was a
+
+Bound   50:16
+benefit, yeah, yeah, we only, from our perspective, we, we try and actually discourage enterprise unless you have a good use case, you actually have a good use case for it. Now
+
+rui  50:25
+that's good sales
+
+Bound   50:29
+won't tell you this, but we're honest.
+
+Speaker 3  50:32
+Okay. Thank you. Great.
+
+Bound   50:34
+I know we focus a bit on that, but that for me was one of the bigger, the bigger points, yeah. going to just flick through these other ones, because these are a little bit - these are really strange ones. So, pipelines four, five, and six exhibition follow-ups - they all look the same, and again, same question is, what's the use case for these were they, because you needed a different way of logging events, or it's just a little bit unknown.
+
+Speaker 3  51:08
+This is the same thing, James. It's fishing, you know, we're fishing events for people, leads, yeah, yeah. So you wanted a way
+
+Bound   51:15
+of monitoring where, where the source come from, is that exactly?
+
+Speaker 3  51:19
+Okay, did the same as we did for CPDs for exhibitions, and built a similar kind of external link to it. Then that would help, that would measure this the same way, and also I think it's probably worth sort of take one of the biggest exhibitions we do, which we did back in April. Half of the people that came to visit us on that stand were existing customers that weren't new leads.
+
+Bound   51:45
+See, yeah. So, if source of lead is important to you, so where did you find Joe Bloggs? Oh, it was an event, or it was an inquiry through the website, or it was a phone in. That's important to you guys, right? You covered it in your diagram as part of the
+
+Speaker 3  52:06
+influences our activity, whether we're doing more of these shows, because these shows will cost us 3040 grand, you know, to make a show, so it's a significant spend. So our senior management's going, what did you, what did you get for your money, and we go, oh, we have a nice time, you know, we have a nice sand, you know, and lots of people liked us, but words of all, that's the bit we struggle with.
+
+Speaker 4  52:35
+These pipelines, right at the beginning, in the sales, the first stage, you've got contact name and everything like that in there. Can you, can there not be a section as to where these contacts come from? Yeah, so that then you haven't got all these pipelines, because it's all just in that one pipeline at the beginning.
+
+Speaker 5  52:54
+So, take the event that we did last last month, for April, the back end of April, that's called the fire safety event. We got 260 leads, and then we basically capture them with a scanner. Two things happen. Well, I ordered them into HubSpot, and nothing happens with it in reality. And the second thing is put on a spreadsheet, and guess what does happen? Everyone looks at the spreadsheet, and they're not using HubSpot, so there's kind of altar. What you want to do is get,
+
+Bound   53:31
+get like a spreadsheet slash swear jar in the office. Anyone who sells a spreadsheet has to put
+
+Speaker 5  53:37
+David's right. I shouldn't give it a real bitch chicken and eggs. I don't give it. They won't fall.
+
+Speaker 3  53:42
+So, James, obviously, and just kind of styling off subjects like we pay a subscription for the number of contacts that we have in our HubSpot. Yeah,
+
+Bound   53:55
+yes, you do. But
+
+Speaker 3  53:56
+how much of those contacts are real customers? That's the real people we want, that the ones we're engaging with on a day-to-day basis. Now, they might live in our CPD world, but they might live in our exhibition world, but if these guys can be competitors who turn up on our stand, you know, or they can be suppliers, so we don't really want them in our customer database, folks, the customer database up. We want to focus extremely on our customers, so it's nice.
+
+Bound   54:25
+We, we create what we call a blacklist, and the blacklist are suppliers, partners, employees, and we put the domain names of those, so we probably need to do a bit of work on this initially to just get the websites of these competitors, we pre-mark that in HubSpot, so if anything comes through with that email address with their domain name at the end, it automatically puts them in the blacklist, so you don't have to worry about event captures, it will automatically do it for you.
+
+Speaker 3  54:56
+Okay, thank you. We've
+
+Bound   54:58
+got some guard rails, it's a bit weedy stuff, but as you asked, I figured there'd be a good opportunity to talk about it. We basically tune HubSpot to do some of this for you, so you've got to think about it
+
+rui  55:11
+with the blacklist. Do we still have access to the blacklist? Because, yeah, it's a
+
+Bound   55:16
+living list in the system. When you say
+
+Speaker 4  55:17
+about domain name, it might be that Jeff used to work at I don't know, I am retardant, whatever, 10 years ago, so his name's in there, and the domain name's in there, but he's not worked there for ages, and Julie came to an exhibition, and her domain name comes up, obviously that might just put them straight on the blacklist when there's someone that we could deal with, because we have done in the past.
+
+Bound   55:41
+Yes, you can dictate this is more just to safeguard your, your costs. So, this is just to make sure that you're not being charged for marketable contacts. It has other use cases, like exclusion lists. So, when you send in the marketing,
+
+Speaker 5  55:54
+Jeff would be a lapt customer who may want to keep on there, but there are others on there that we don't know what they are doing, and those are the ones live, yeah. That's what
+
+Speaker 4  56:05
+I mean. If Julie disappears off onto blacklist because Jessie, yeah, but Jeff's lapsed, then do we know that Jew is the new.. well,
+
+Bound   56:13
+do we know when we go through some training, we'll set the ones when we go through some training, we'll be able to service the memberships, as we call it, or the lists that people are assigned to, and if it's incorrect, then you, you'll have the, you'll have the ability to remove them.
+
+Speaker 3  56:29
+Yeah, and they should be removed by area, ultimately. I think the sales people need to know that area. So, if you're a salesperson for Northwest, if someone comes in, this is a Northwest contact, you should look at them and go, they're great. I know, then I keep them, and we manage it. If we do it automatically, that's fine, but we need that ownership provision right now. Nobody's looking at us, but all this stuff just gets in repository, and it just goes up,
+
+Speaker 5  56:55
+and that's why we are where we are now, ultimately, because no one sales wise has taken the ownership of what's in our spot in their areas.
+
+Speaker 4  57:03
+Just to clarify, I've only been here four weeks, that's why I'm asking all these, you've started the
+
+Bound   57:08
+right time, perfect time.
+
+Speaker 3  57:12
+I keep telling that, but she's still
+
+Bound   57:14
+generally, because everyone's been through pain, and you've come in, and it's, it's all good, it's all good. You're going Up now, yeah, so absolutely, to your point that you can control it, but its main use case is to is to capture suppliers, partners, and you know, from a market perspective, it just means we're not, we're not marketing to the wrong people or giving away some secrets of new shiny products and services to your competitors when you didn't want them to know about it just yet.
+
+Speaker 2  57:48
+Yeah, that's a good use case for
+
+Speaker 3  57:50
+sending remarks and emails of what we're launching. Yeah, so why have we got three of these? Are they just..
+
+Bound   57:57
+I suppose I'll answer your question with a question, why have we got three of these?
+
+Speaker 3  58:04
+That's a great question.
+
+Bound   58:10
+It's like it was more to just track attribution reporting again. So I think the good thing with HubSpot is also the bad thing with HubSpot. There isn't really a right or wrong way to do it. There is a way where you're over complicating it and over engineering it, which is there's a bit of play at in motion here. So we will just get rid of this and then we'll put in a set of properties in HubSpot that will log the source, so I met Joe Bloggs at an event, and that will surface itself at the deal level as well as the contact level. So, when you're doing reports and you're asking for, I've just, you know, put my kids inheritance on the table for this event, and when am I going to get it back, plus some. Then you can go. Here you go. Here's the report.
+
+Speaker 3  59:06
+Perfect. Yeah,
+
+Bound   59:07
+I had another client that was.. I know we're running over a little bit here. You okay for time? But obviously I was supporting another client of ours that was at one of the biggest events for the cyber space, and they spent 70 grand just on their stand. I mean, this thing was nuts. It's like walking into, like, a Disney world where there's just so many exciting things to look at. And that was the first question they said. So now we need to prove the return. Okay. Well, you just sunk six figures into this. Luckily, their average deal sizes are 120 grand a year, so they only really need one or two to actually make it a profit. So, I know the pain. You have to think about it. I think that's in terms of pipelines, that's kind of it. There is another one here, which is to do with TBA training pipeline. This is very similar to the CBD one
+
+Speaker 3  1:00:05
+that's installed straightening with it. We talked about the start with the QR codes.
+
+Bound   1:00:12
+Yeah, so this is where we would move this off the deal object, because it can, it can impact sales data because it's sitting in the wrong part of HubSpot, so we won't get rid of this, we're just going to move it, and
+
+Speaker 3  1:00:33
+again, like we talked about for the other two, a similar kind of system.
+
+Speaker 2  1:00:37
+Yeah,
+
+Speaker 3  1:00:37
+it begun to know how many people we train actually become I'm assuming if they come on our training courses, they're going to buy our products from investing time and money and resource into doing it, so you expect that to be a really high number, that 99% of people who come on our training courses buy our products and end up in a deal somewhere further online,
+
+Speaker 2  1:01:01
+yeah. Oh, there's let's get this, get
+
+Speaker 11  1:01:03
+that
+
+Bound   1:01:03
+data visible and use hub sort as a source of truth. I mean, one better than that, you'll be able to kind of work out what's the time frame of that purchase cycle. So they attend a CPD, when did they make that purchase? So you can start to kind of get a bit of sense of forecasts out of things, so you do an event this week with forecasts, and to generate this in the next six months, as an example,
+
+Speaker 5  1:01:30
+just on time frames as well. We're right at the bottom of the third column, stage three certification issue. We're bringing this up now as well, so we actually issue certificates for everybody that's attended the course, and we issue identity cards, which we print and send out in the post ourselves. They are time bound as well, so they have a three year expiry, so there's a marketing opportunity there for ones that are coming up to being collapsed customers or lapsed installers.
+
+Bound   1:02:06
+Yeah, great idea. Yeah, exactly. And so, do you want to block that then? Because I think the purpose of the requirement is that there's not a yes or no in this scenario, which is why I've just put a note in there. It happens, so you want to maybe date stamp that when that was shared, so that you can use that for marketing down the line.
+
+Speaker 5  1:02:26
+So, send away an automated email, your team's IDs run out while the mentorship runs out, or the training in a month's time. Do you want to book on a new course? That's the kind of marketing we could do that should be doing three hubspotting, likely.
+
+Bound   1:02:42
+Yeah, definitely. Yeah, we just.. it's a fairly simple workflow, really, that works on a scheduled trigger. So, yeah, that's all doable. We just.. we just need to work on what that content looks like, where we're sending them, if we want them to do something, for example. So, that's it from a pipeline perspective, we spent a bit longer on this, but I think we've covered quite a lot of things that we had unknown, so I appreciate that. So, actually, what we've, we're in a good place in terms of waiting for you to give us feedback on this. Why we will just touch on briefly is, excuse me, while I mess about with my Mickey will feel motion sickness. Is you're more than welcome to have a look at this, but don't, don't worry too much. It's going to be, it's going to change, but this, this in essence is the start of that marketing journey, customer journey from marketing to sales. James, yeah, sure, you see that,
+
+Speaker 3  1:03:41
+that's it, that's good. Yeah,
+
+Bound   1:03:42
+yeah. So we've got lead entry, so we've captured those core lead entries that we discussed. There may be more, but that's what we captured. This is kind of us now understanding how HubSpot needs to behave. So this is the beginning of this future state, and then we've started to put some gaps, of which we need to, we need to have conversations with and work out what we want to do with those specifically around like lead status and so on, which Roy flagged, but these journeys create what we call the flywheel, so the whole purpose of this is to keep things spinning, so if a lead is not qualified anymore or has lost a deal, that's not the end of the road, it's just their parks at the moment, and HubSpot will resurface them, whether it's through marketing or to alert the sales reps to follow up. As you know, as an example, it talks a bit about lead scoring. This is really just to help you guys know when to get involved, when not to. So, we'll put some scoring mechanisms to measure engagement, website visits, attendance to CPDs, etc. All that will feed in, and this just helps Roberts' team really know when to get involved and when to leave it alone. So it helps with prioritisation again. The fly with effect, it makes sure that people that are starting to really show signs of some sort of buyer intent, you'll serve their service to you immediately, and there's some nurture stuff in here. Jason, we can go into the details of this, because I know the focus wasn't that, but we've noted things in here that will impact your department positively in that case. So have a look through that as well, sits at the bottom of the, but don't don't be alarmed if it's not making sense, it's going to change now that we've had this feedback from you, but we wanted to give you a bit of a glimpse of what we think the future looks like, what is missing, however, is those pipeline stage details, this is high level, the weeds we're going to start putting, putting the motion, the wheels on the, on the cart for in the next week, that's me done.
+
+rui  1:05:50
+All right, great. So, yeah, I hope that was a little bit insightful, and it cleared things up for us, definitely. I think we've got a good understanding of where everything sits at the moment. Yes, so in terms of our upcoming sprint weeks, the next two weeks is basically just us sorting out governance and structure, so we can get the portal into a state where we can kind of bolt safely, and then within that week, starting the first wave of that cleanup, we want to get to a point. Sorry, David, you got a question?
+
+Speaker 3  1:06:32
+Yeah, Rui, yeah, for the understanding, like I said, this: do we just suspend any use of HubSpot for the time being? While you're making these changes, we know what it's really easy anymore. I work occasionally, and I don't think Bob probably goes in occasionally, you know. Do we just hang fire? Do we usually with it?
+
+Bound   1:06:58
+No, I'd say I'd say treat it as normal. We're not, we're not going to be making any changes at the moment, so keep using it, keep using it, keep operating as normal.
+
+Speaker 3  1:07:10
+So, do you bring these changes as you create a new external structure as a shell, and then you've, you bring them into HubSpot and check out our old,
+
+Bound   1:07:20
+yeah, exactly that, so, so it may not be so things will happen, but we may not just surface that as a visibility for the team, so we're, if we build like taxonomy, we just won't make it visible until we've talked you through it, like workflows, for example, we build those, but we may not activate those, so they start manipulating data, for example,
+
+rui  1:07:40
+yeah, and anything.
+
+Bound   1:07:43
+Sorry, sorry, Rui, one last thing for me. Anything that will impact you'll be aware of it anyway, and and then we will together decide before we go live. Let's just let's do a quick, there's just some training with the team, hand it over, sign it off, and then it goes live as a bit more information on that. You're probably going to cover that, Rui, but I figured, as
+
+rui  1:08:10
+I was just about to say that you took the words right up my mouth. No, no, don't stress. No, that's great. Yeah, and then, like I mentioned, we're going to do the first wave of cleanup, so contacts are going to start getting owners, deals get values, and we'll start looking at that pipeline like we had just discussed, so that we can start looking at that forecast becoming a reality. So that's where our focus is for the next two weeks, two items on my list that might be a little bit of homework, one being the Mara board that we're going to share with you, and in terms of any feedback that you may have with it, once you've got a chance to review it, that would be great, and then the deals that I spoke about, we will just create an exported list, send that over to you, and then you guys can just highlight what we can close, what needs to hang around, etc. Does that sound okay?
+
+Speaker 3  1:09:12
+That sounds fine. Yeah, we can do that. We'll put a
+
+Speaker 5  1:09:17
+just so you guys know, I'm on holiday after today until 17. I'll be back for the next fortnightly. We're all at the same
+
+Speaker 3  1:09:25
+page submission to what time's your flight, Jason.
+
+Speaker 3  1:09:37
+Wednesday of next week, yeah. Is that very Jason, I think we're on the same page. I'll be back for the next fortnight of a meeting, but obviously I want a chance to review some of the work that you're doing. So, myself, Ross, and Rob will have a look at it, and we'll, we'll give you our best thoughts. I'm sure you
+
+rui  1:10:00
+said there's no deal, it's
+
+Bound   1:10:02
+will be very tuned to Robert's original requirements. A lot of that is part of the blueprint of what we're thinking and doing as well.
+
+Speaker 3  1:10:11
+Yeah, so hopefully there
+
+Bound   1:10:13
+shouldn't be any surprises for Robert anyway. You'll be like, oh yeah, this is what I asked for, for example. Yeah, yeah, exactly.
+
+Speaker 2  1:10:22
+Okay, just that's just one question.
+
+Speaker 3  1:10:26
+Obviously, we've got the scenario within our business that we don't - we have projects that are long-term money, we have deals that create transactions that could be linked to projects and a project could have multiple deals,
+
+Speaker 2  1:10:46
+yeah,
+
+Speaker 3  1:10:47
+yeah, all that can be incorporated still. I read something along those kind of lines,
+
+Bound   1:10:52
+definitely, yeah, because it, because it associates well, you, we can think about where that data's stored, but at the moment everything associates to contacts and companies, so you can have multiple deals. Maybe we need to think about some standardised names to keep things clean, so if it's like Project A, and then it's got a separate word that represents what that particular deal is, then we should think like
+
+Speaker 3  1:11:16
+Barium Hospital, you know, other title, but it'd be Brewing's Hospital Project, and that could have, you know, we've moved for three years, and that could have multiple phases that we will have multiple deals that we'll see, we know coming up that are transactional, and then obviously our our system is quite heavily administration based, because we have to close out. It's an open system, so we have to create a closed loop to say the deal has been won or lost. We don't have that through an invoicing system, anything like that, because you're not linked to our building system at the moment.
+
+Bound   1:11:57
+Fair enough. Yeah, we, I think some standardised naming conventions would definitely help, and secondly, really, what, what, what do we need stored in HubSpot for whatever visibility that's required? It's not, you know, the job of your, your financing tool is to do one job, HubSpot is to do another. Yeah, what we don't want is to kind of cross over too much if it's if you want to report on attribution and how well we're doing from a forecast perspective, and what's coming up, and what, what's the deal size in total from a contract view, then that's HubSpot's work for invoicing and all the other things, HubSpot doesn't need to know that necessarily that Okay, we'll put some thoughts into that anyway, but that, that, that's the immediate response that I would suggest. Yeah, what would be.. can I just add one more thing to the homework list? No, we're more just insights to the way the CPD training works. It doesn't need to be specifics, it's just more about the kind of structure to it, you know. So, you invite them, they turn up, they do something, they leave, they get something, anything that can kind of give us a bit of a journey of that, that would be really, really helpful.
+
+Speaker 5  1:13:22
+Would you, would you be open to jump in on one of the teams' calls? Just for five minutes.
+
+Bound   1:13:29
+Yeah. No, I'm happy to exactly. It could be any forum, or we could just have a quick conversation about it. I just want to make sure that's Kathy
+
+Speaker 3  1:13:36
+knowledge. You
+
+Speaker 4  1:13:40
+just want to know what sort of information they get, and you hand out anything at the end of it, whether they've got information that way, what it entails. What flows
+
+Speaker 5  1:13:48
+back into us is best thing to do is I'll send some photos, some videos that we took on yesterday.
+
+Bound   1:14:00
+What we want to try and do is to start mapping what this object looks like, really, and what we capture,
+
+Speaker 8  1:14:06
+what comes into from email. So, what reports you get?
+
+Speaker 5  1:14:10
+Obviously, yeah,
+
+Speaker 8  1:14:11
+deliver it. Why do what do we get out of doing CPD when we deliver it? Okay, different
+
+Speaker 4  1:14:17
+kinds. So we
+
+Speaker 5  1:14:20
+want, so we've got HubSpot surveys, we've got the emails, we can send screenshots of, can send photos, so you get a full picture
+
+Speaker 3  1:14:28
+managers. Yeah, appreciate that.
+
+Bound   1:14:35
+As I said, happy to just jump on a call, we can come up with some questions and throw them at you, and you answer it, and we then get that.
+
+Speaker 3  1:14:45
+Yeah, I'll be receiving with yourself, and then anyway, get involved.
+
+Speaker 2  1:14:53
+Yeah, yeah, great. Appreciate that.
+
+Speaker 3  1:14:54
+I'll manage that for I'll try and get it for before Wednesday next week.
+
+Bound   1:14:59
+Yeah, yeah, let's do that. If we do that next week, that'd be that'd be good. Sorry, because you've got the video footage from yesterday's CPD. Okay,
+
+rui  1:15:13
+great. Yeah, not to show if there's anything else from your side.
+
+Speaker 5  1:15:21
+Nope, I'll go for me,
+
+rui  1:15:25
+okay. Great, so within the next two hours you should receive a summary email. I know we've spoken about quite a lot today, so I will just try summarise as much as possible in there, and then yeah, we'll take it from there and enjoy your trip, Jason.
+
+Speaker 5  1:15:44
+Thank you very much.
+
+Speaker 2  1:15:46
+All
+
+Speaker 3  1:15:46
+right, all right. Thank you so much. Thanks, guys. Two weeks' time,
+
+Bound   1:15:53
+you are you happy with the two weeks stand-ups, or Europe, you're the, you're the anomaly here, but I've just, just in terms of this sort of, because we usually do these weekly, like stand-ups, but obviously we're kind of mixing two into one, which is probably why we've overrun a little bit here, but you okay with that, or do you want?
+
+Speaker 3  1:16:15
+I'm okay with that. I mean, like, right now we're part of our homework, we've just got, you know, you guys are doing the stuff, so if you can do it quicker, need a more regular cadence of eating. I'm happy to kind of facilitate that. Won't be as long as
+
+Bound   1:16:30
+today, because we had a bit of show and tell to give you,
+
+Speaker 2  1:16:33
+but
+
+Bound   1:16:34
+we obviously we work in week sprints, so Roy will be giving updates anyway.
+
+Speaker 3  1:16:41
+So if you want to move it to weekly, we can do that. It helps us move this quicker and others do that.
+
+rui  1:16:51
+Yeah, I think maybe for the start, I think there's going to be, but more homework coming as well. So I think just so that everybody is aligned, and we just make sure, even if it's just for the first month going forward, now first or the next 30 days, I think maybe we keep it to a weekly meeting, if possible, and then after that we can take it back to every fortnight.
+
+Speaker 5  1:17:19
+You did say that at the beginning, didn't you know? Maybe we need students meetings rather than format
+
+Bound   1:17:26
+it's whatever's flexible. It's like, you know, some, you know, sometimes just having those in a place is sort of keeps you honest, you know. It's like, oh, I've got a meeting next week, I better get the stuff done. That's one way. There's one way it really is useful for you. you works for us, right? I'll send
+
+Speaker 3  1:17:46
+a weekly meeting. Have you got to on this format? I'm on the 491 Yeah, this so you set up the format. Did you set it up? You said you guys
+
+Bound   1:17:59
+did. Why don't we leave the fortnight one in for the hour, because we can talk a bit more strategic on that, but then we'll have half an hour stand up every other religion.
+
+Speaker 3  1:18:09
+Yeah, I need you to send a David yet
+
+Bound   1:18:17
+was there's a lot to cover in two weeks, and I don't know about you, but sometimes I forget what I had for breakfast, so
+
+Speaker 12  1:18:23
+things look so quick around the inside. Thanks, guys. I said
+
+Speaker 3  1:18:32
+Wednesday,
+
+Speaker 2  1:18:34
+right? Right.
+
+rui  1:18:37
+Bye.
+
+
+Transcribed by https://otter.ai

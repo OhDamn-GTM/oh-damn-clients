@@ -1,0 +1,407 @@
+Unknown Speaker  00:27
+So hey, James, how are doing you? Okay, good yourself.
+
+Bound   01:35
+Not bad, not too bad. So much going on as usual.
+
+Unknown Speaker  01:41
+There's a lot going on at the moment.
+
+Bound   01:44
+It's good. It's good. I've just said, I've just been chatting to Alicia privately about shore cloud, yeah, you're all good, yeah. I suppose it's just, obviously, we're it's a tricky one, because, like, Sure, cloud have just started testing a parallel Dialer Call system. So basically rings three to five people at once, and then whoever answers it routes them to the sales team. And last week, they went from like 15 averaging between 10 and 15 meetings in one week, and they did 33 last week. Of course, they're going for a transition, right? So they're going through an ICP change, which is now more sector base. They've got a bigger team, but the infrastructure is out of date, so it's can't I'm kind of like going guys, we can't move that quickly. And I'm saying to Alicia, she obviously, there's some really complex stuff in the in that portal. Yeah, I've built some really sophisticated stuff. And of course, she's like, this is intense. And I'm like, No, I said, Look, don't tackle it. It's not fit for purpose. Switch it off, rebuild it, don't try and edit it, because you'll end up spending longer doing it. And Clay's integrated. And there's, there's so much going on with that portal, plus it's an enterprise HubSpot, so it's, she's not used. So this thing's got so many bells and whistles. It's created. There's three custom objects built in. It completely bespoke.
+
+Speaker 1  03:22
+It's a beast. The your time with your garden.
+
+Bound   03:26
+So, oh yeah, I built it over the over like few years. I mean, they're spending 50 grand a year on HubSpot. It's a very expensive pool, okay, but anyway, I'm gonna let Robert in. I'm okay, great. I suppose it's just aligning on a couple of things. Hold on chat.
+
+Bound   03:56
+I'm a little bit not massively organized with it, but let's get him in anyway. Okay, chatting away. I didn't even see him in the call. You guys admit, right, you've met Robert before, I
+
+Speaker 1  04:13
+think only right at the beginning of steel door. I think during our kick off. I think that was the only time I met him.
+
+Bound   04:19
+Yeah. Good, good, good.
+
+Speaker 2  04:22
+Hi guys. How are you good? Thank you. How are you, yeah, very good.
+
+Bound   04:26
+Thank you. I was just saying to Roy here, I was like, You guys have met before? I wasn't sure to do an introduction. I think it would be way back at the beginning, but I'm pretty sure you guys have been softly acquainted.
+
+Speaker 2  04:38
+Yeah, the beginning of the state of the world changing over their CRM system. I, I was involved in most of the meetings, and then yeah, Josh decided to take them on by himself at that stage.
+
+Bound   04:51
+Yeah, the Hey days, yeah. Still, there's still loads of changes happening all the time. Good, good, some really good stuff, actually. I mean, I think they got my team feel like they work for still door. They're so involved.
+
+Speaker 2  05:07
+The thing is, Josh probably thinks that you do work for him as well. He probably does.
+
+Bound   05:11
+Yeah, I don't really have much involvement in, like, the the operational side. That's more Roy's area, but I do see, I do hear and see his name mentioned a lot in all the chats that we have, right?
+
+Speaker 2  05:25
+Okay, yeah, no, I decided the company was too small for my liking, and I decided I would step away because I was self employed consultant with them, employed by them, so it didn't really
+
+Bound   05:40
+exist in both worlds. Then if you know, one day you say, just, not just don't like the flavor of tea anymore, I'm done.
+
+Unknown Speaker  05:46
+Yeah, I won't mention
+
+Bound   05:51
+them anymore, because that's the past in terms of your perspective. I just, I just wanted to kind of make sure you guys have met before you know each other. Yeah, I brought Roy in because your your brief was really, really helpful. Appreciate, it's still quite a high level, but it's given a real good, I suppose, understanding of maybe where you are, where you're trying to go. We just had a couple of questions just to finalize kind of the way that we had approach it. We sort of already mapped out how we would phase this. We've looked at the timelines. It is definitely achievable, so long as we get to start, if we decide to work to go course, quite quickly, because 12 weeks, when you really think about it's not a lot, especially if we've got to incorporate training and user adoption and change management and so on. So yeah, I suppose it was just, we had a brief conversation last week, and you, you came across as though it's a bit of a mess. Is it's not sure what's working. You've got these tools you're ringing out from there's no real reporting. The data's duplicated. It's not being used or adopted across the group. I mean, I could name more, but that was kind of the sense I got from you. Yes.
+
+Speaker 2  07:05
+So because I'm so used to using CRM systems from running large organizations in the Middle East, you know, whether it be HubSpot or Salesforce or something different, whenever I stepped into this role for TVA Fothergill group, I was kind of shocked that they spend quite a substantial amount of money on CRM systems and another data caption systems, and don't actually use them, you know. So considering we do quite a lot of road shows throughout the year, you know, obviously a CRM system would be extremely beneficial if it's used right. And then obviously, you know, we probably do about 70 million pounds worth of transactions throughout the company in a yearly basis. Now that's not Firefly, which this is for, but that's as a group, as a group. But Firefly is probably the largest, or the fastest growing wing of the five departments within the group. So I would like to get this resolved as fast as possible, just simply because if we wait another year like they have done, they're two years down the line without full implementation. And this honestly the CRM systems probably the biggest mess I've ever seen.
+
+Bound   08:26
+Ah, well, we like to hear that, not in a good way, but we love a challenge. I suppose talking on the road shows, if it makes you feel any better. We've actually worked with a couple of clients recently that are sent spending a significant amount of money on events and and lack the plans of what they're going to do once the data comes so we can do with it. Oh, we'll get to it next week when, no, because your competitors are going to get to it now, yeah, late in a week, and the amount of times we have to kind of force them to think differently. So if I'm
+
+Speaker 2  09:01
+being totally honest with you, I think the people who they had as their third party training company and their their implementation of HubSpot sort of scared them ever so slightly not being axing gar side. So, you know, obviously those guys were used to dealing with huge multinational companies and and doing things at a different level where it's not really required at that level with TBA Firefly, you know, the like, realistically, I think, I think we have 25 users on HubSpot, you know, at the moment. So, you know, they, they're looking at users with, you know, 500,000 1000 plus. And I just said, guys, user, user, dealing with the wrong company, in my opinion,
+
+Bound   09:48
+over engineering. Yeah, I get it. I know. I know what you mean. And to be fair, even even at that size, at the end of the day, you're building a tool for a human to use, you shouldn't over complicate things. Yeah, if you can't find it in a couple of seconds, if you can't manage it in a few minutes, then you know what? Hope you have anyone trying to adopt it? That's least our mantra. Anyway, yeah, I suppose it's really just looking at the operational side of things. You mentioned the first of July being a milestone. I just, I suppose, from our perspective, just understanding what what needs to be fully operational by the beginning of July.
+
+Speaker 2  10:30
+And I would just like, so we've been, I know I sent you that quite long list, and that's probably only a part of it. I've done more on top
+
+Bound   10:39
+of that. Oh, sorry, you're right with that. Note takers. A little bit later, he's decided to join the call.
+
+Speaker 2  10:46
+No, that's fine. So that's you know, for me, I think the most important part is obviously getting integration from the website, because we're missing so much. I need everybody in Firefly to be using the CRM system the same way. So obviously, implementing or inputting data the right way. Because at the moment, nobody, really, nobody's really doing it the right way. So it's just, there's just a model of junk in there. In my opinion, it's 515 and a half 1000 contacts that aren't really contacts. There could be companies, they could be leads, they could be anything. So a cleanse is required. I then need to try and pair the training module to the CRM system, or the training diary, even just at least to the CRM system. And then we need to do our marketing campaigns from the CRM system, because that's currently not happening either from the marketing side of the company, fair
+
+Bound   11:47
+enough, and just so I'm clear as well. Are you on the professional suite? Do you know with HubSpot, or is it the enterprise
+
+Unknown Speaker  11:55
+professional? Okay, okay, good.
+
+Bound   12:00
+And the the training calendar, that's just a diary that lives in, like an Outlook or SharePoint of some description, is that.
+
+Unknown Speaker  12:06
+So it gets booked in through, who is it? Booked them through? Now I can't
+
+Speaker 2  12:15
+remember the name of the company that comes through, but we use a third party for that which I'm told it can be linked to
+
+Bound   12:22
+HubSpot, something like Calendly, ring a bell.
+
+Unknown Speaker  12:26
+No, it's not that. I think I have it on the list that I sent.
+
+Bound   12:31
+Yeah, I think you did mention a calling system 3x or CX
+
+Speaker 2  12:36
+and three CX. I want that onto the CRM system, because obviously it fire. Steel door company, we had three CX as well, yeah. And the beauty about three, what I liked about it at steel door company, was that it was actually merged properly, and we we basically rang from the computer and it was coming from a mobile number of that makes sense, and every time they rang back, it rang back to that person's mobile instead of going around the houses. So that was good. The other thing is, what I've noticed with our HubSpot is that if you send an email out and you want it to go into HubSpot, there has to be a BCC link with a nine. I didn't see that in steel door company. I can't remember.
+
+Bound   13:22
+Company. It's, yeah, we never talk about it, because it's, it's a silly way of updating it. It's basically for those that can't install plugins into things like Gmail or Outlook. HubSpot have got their own sort of tech that lives in each of one of those ones, a browser base, which is Gmail, and the other's outlook. Yeah, it sounds to me like it's just probably the guys weren't aware of it, and the BCC is just lives in the Settings area. It does work. It's just, yeah, it's not very good at duplicates, either. So if that already exists and it's got a slight variation of a name, it can create additional records. Maybe that's one of the reasons why you've got a slight hygiene issue.
+
+Speaker 2  14:08
+Yeah, I've, I've went through them, and honestly, the figures are scary in terms of how many don't actually have emails, how many have different or wrong emails? And there's so many issues to be honest with you. And I think I obviously have, you know, we decided to proceed forward with you, is that us would have us would then go and take access of R so that you can have a look at it anyway.
+
+Bound   14:30
+Yeah, yeah, no, that makes sense. And it sounds so a lot of this is sort of sounding like it's more really building a slight source of truth. So you've got accurate data. You've got logs happening correctly, whether there's meetings coming in. So you've got visibility dials and calls, and inbound outbound calls are again tracked to the records, yes.
+
+Speaker 2  14:53
+So, so for me, there's just no visibility whatsoever across the company. You know when most of our staff, all of our sales staff or our field sales you know, they can be in Ireland, London, they could be anywhere, but they're not in the office, so I physically can't see well. I can see their diary, but that's just a mess. Anyway. It's just through Gmail, and I can see their clients, but their clients are all muddled.
+
+Bound   15:21
+So, you know, I've had any training on the mobile app at all, on the pubspot app,
+
+Speaker 2  15:28
+I think they have through axine gar side, but not the honestly, the feedback that I got from the sales guys was that it was eight hours of their life that they were never going to get back, because the person who took the training was more concerned about how she looked on camera than than the training itself.
+
+Bound   15:48
+All right? So there must have been some very good looking people on there that she felt.
+
+Unknown Speaker  15:53
+Well, none of my staff have been looking so I don't know what she
+
+Bound   15:57
+was working with you said that I was being polite. Fair enough. A joke aside, I just
+
+Speaker 2  16:06
+Yeah, so, yeah, so, so they didn't benefit from it. Now, I've done my own training modules for them. I've done I've done playbooks for them and how to use HubSpot in the right way since I've came on board. But at the end of that, I just said to them, there's no point me doing all of these playbooks for you whenever we're going to change HubSpot anyway. So I think that was just a kicker for us to move on and get it done.
+
+Bound   16:31
+It makes sense. And to be fair, if, if things aren't quite aligned in terms of data and use cases around how to operate, it there's there's, you're not going to get much hope trying to adopt, you know, the mobile app, it sounds like there's been here it is, is a box of goodies. Off you go and try and manage it. And everyone's done their own way of doing it, which is created a slight siloed approach to everyone's working, yeah.
+
+Speaker 2  17:00
+And I think one of the other issues obviously with our product we we need to be seen as being monitored for what we sell, because we're a passive fire product, so it's the the after sales and on HubSpot is extremely important for us, not just The Sales element. What we would need from a customer service or a technical perspective, is that they are all ticketed. And what I've asked internally is that we would have once, once this is done, we would have to visualize, or two visualizations and TVs in the in the office space, so every time a technical inquiry comes through, it should realistically come through the website or via a telephone call. It then comes through HubSpot, and then we see a visualization, maybe on a traffic light system. You know red. You know red, amber, green in terms of time scale, it's been in or hanging about, therefore, because internally, for for the technical side of the business, we like to answer all of those technical questions sort of within a 24 hour period. But we've got to the point now that we're so busy that we're out to probably a full week.
+
+Bound   18:19
+Yes, okay,
+
+Speaker 2  18:22
+many are coming in. You know, if we're waiting a week, you're gonna miss so many of them because HubSpot is not being used.
+
+Bound   18:29
+Yeah, I I know exactly what you're referring to. Those you kind of need a bit of a BI tool, really, that just analyzes right, what's coming in in real time. HubSpot is not great at presenting that, but we use another tool called Data Box that that is designed to deliver things like that. And it just it can live inside HubSpot, but it also allows you to present it into a screen, yeah. And then you can kind of track people, gamify it, if you want to encourage those that are not quite doing what they should be doing, etc. However, you want to play a course about results and performance.
+
+Speaker 2  19:08
+Yeah, I think I used one on Dubai. Now, we had 1000 sales people who worked for the company, but we again, we use HubSpot, but we had 50 or 60 TVs around the office, and it basically told us who was making calls, who wasn't selling, who was doing these give us the analytics right up to 90 days. So I think it was something similar. And yeah,
+
+Bound   19:32
+it's easy to extract. It's just the dashboards for hubs, but other kind of they're very designed around users rather than a presentation. And trust me, we tried to get it to work. And the people, you know, someone, had to keep logging in, and it was it just created another problem. So we thought, okay, we got to look at a better way of doing this. But it's doable.
+
+Speaker 2  19:55
+To be fair, to see the door company, I think they have their HubSpot set up pretty good. And I would like it to be as similar to that as possible, because obviously, whenever I joined Sam and Josh, I give them, like a 20 page dossier of how I was used to using HubSpot and how I would like it. And I think
+
+Bound   20:19
+someone basically said, Put a Christmas list together, and you went, Okay, yeah,
+
+Speaker 2  20:25
+this is how I've used it in Dubai for the last 15 years. This is how I wanted a year. And I think to be fair to Josh he's probably went ahead and done that and probably some more. But yeah, they do it.
+
+Bound   20:37
+They're doing pretty well. Actually. They're growing really nicely, from what I've heard.
+
+Speaker 2  20:42
+Yeah, another good bunch of guys did a good
+
+Bound   20:46
+thing is he's got some great skill sets. He's very good at lead generation, because he's has, he's got an agency background, so he's got a slight advantage over competitors in that respect.
+
+Speaker 2  20:57
+Yeah, no, he's they spend a lot of money, though, to be fair to them, and they're not, they're not shy in advertising. And obviously Josh, yeah, he has that, that agency background for from his previous company that he owned, so he knows what he's doing.
+
+Bound   21:11
+Yeah? Does make it easier when you're when you're having to talk sort of certain terminologies, because he gets it, yeah, sometimes you have to explain to others you mentioned a previous another department is using HubSpot in a good way. Is that in the business? Or you would you refer to still door there?
+
+Unknown Speaker  21:30
+Because it's definitely not been used in a good way. Mike, yeah,
+
+Bound   21:35
+because just for a minute there, I thought maybe there's a look at there's other portals that exist across the group. I just wanted to make sure I didn't hear that wrong.
+
+Speaker 2  21:43
+There is, but we have, we've ERP systems and all kinds of bits and pieces across the group that sort of manage our seals. Now, I don't know if it's possible to link up those ERP systems to HubSpot at some point so that we can see it
+
+Bound   21:59
+depends on what they are. There's
+
+Unknown Speaker  22:01
+true posts.
+
+Bound   22:03
+True posts, I don't know that one, but there are, if they've got kind of to be fair, a lot of these ERP systems have put a lot of effort and investment into connected with CRMs, because they actually make more money when they connect with other
+
+Speaker 2  22:19
+people's systems. Yeah, I think true post does from memory, because I knew we paid a lot of money for it. So, so I think that it does. I've been told it doesn't. That doesn't mean anything.
+
+Bound   22:34
+Yeah, I'll never look into this, t r u, p o s, isn't it?
+
+Speaker 2  22:39
+I think it's, I think it's T, R, O, P, O, S, oh,
+
+Bound   22:42
+okay, I'll just note that down. Troy post, okay, yeah, I found them. So we'll have a look into that and see what what's possible.
+
+Speaker 2  22:57
+The beauty about this from the conversations that I've had with the CEO of the company. Obviously, we're a much bigger company than than we look from the outside. If this works with TBA Firefly, the division, then we may roll out the CRM system across the company as a whole. We, we obviously have, we have TBA TBA Firefly Australia, which falls under my my catchment as well. But that'll be done after TBA UK, Ireland is
+
+Bound   23:33
+gonna say, Do you not sleep the other side of the world?
+
+Speaker 2  23:37
+Yeah, no. It's a bit of a pain in the ass, to be honest with imagine, but I have to do it, unfortunately,
+
+Bound   23:47
+as long as they allow you to go over their expense paid. Then maybe that, maybe you'll accept it, right?
+
+Speaker 2  23:53
+Well, that's that was one of the reasons for taking the job. Yeah, yeah, over that side of the world again.
+
+Bound   24:00
+Just pity you weren't. You're not over there now, whilst they've got their summer ish, it's kind of, wasn't it? But sorry,
+
+Speaker 2  24:07
+my daughter's just came back, so she has, she spent four weeks in Australia. So she said it was nice, yeah, and then got stuck in Dubai for two and a half weeks of the war. But anyway,
+
+Bound   24:17
+sometimes there's, there's, that's the best of the worst case, isn't it?
+
+Speaker 2  24:20
+Sometimes, exactly. And so that's, that's Firefly. And obviously we have with four other divisions that don't use the CRM system, but realistically should, because they're all involved in sales, and they're all involved with clients. And we have some some big clients within there as well. So so TBA father girl, which is the parent company, as I say, there's, there's probably 400 staff or so in in Manchester. They, realistically, most of them should be on a CRM system. But we're, we're doing this first and foremost with Firefly, to make sure it's done right.
+
+Bound   24:56
+That makes sense. It kind of then becomes a bit of a business case to roll out across. I'm assuming there are expansion opportunities across different groups at different areas of the business as well. So if one's buying one is assuming some of the ICP crosses over, right? Yeah.
+
+Speaker 2  25:14
+So, so we, we all deal with each other and interconnected. So we're all manufacturing companies that all sell out to different different, you know, setups, I suppose. But Firefly is a customer of one other division of the company, and then that division is a customer of another division of the company. Oh, I see, yeah. So we make, like, nose cones for fighter jets. We make, sadly enough, we actually make parts of the drones that are being used in Dubai and Israel and Iran, so
+
+Bound   25:46
+probably not break that one too loudly right now
+
+Speaker 2  25:49
+today to see if we can increase sales on them. But that's maybe not the best
+
+Bound   25:57
+thing to do. Walls are arguably sometimes about money. Most of the time it's about money power. You know, it just seems like they're everywhere. At the moment, I won't get into the politics this will it's good to know that some are trying to get something out of it
+
+Speaker 2  26:20
+at least. Yeah, exactly, exactly. So that that's basically the nuts and bolts of what we're looking to do. I suppose, realistically, for me to obviously get this done, I have to go back and present a sort of one a time frame. You know, the first of July isn't set in stone. You know, we do have a lot more wiggle room, but it's just realistically that we've, we've brought on five more staff, and we would like to sort of get them using HubSpot at the same speed as everybody else.
+
+Bound   26:53
+The timelines from what, even from hearing and filling in the gaps of our our understanding up again. Roy Can, can probably confirm it more than I but I still think 12 weeks is achievable to get an operational system version one. Yeah, and then, and then you can once, once adoption happens, and it's always best to build it that way, because once you start using it, you then start looking at, okay, can we do it? Can we improve this bit? Can we do this bit? And then evolution plays its part?
+
+Speaker 1  27:25
+Yeah, I think definitely, 12 weeks is definitely realistic. I think the heaviest lifting is just looking through and doing a bit of a cleanup
+
+Bound   27:38
+and with the so we've got you mentioned sort of the marketing side. I think you were going to try and see if we can sync with some of your colleagues on on that, again, is not urgent, but like any life like customer cycle, that marketing usually starts and then hands over to sales, is that part of the kind of process to refine to make sure hubspots got the visibility of
+
+Speaker 2  28:03
+it's, it's slightly different. You know, we are, we are seals division, but I sort of tell them that they're not really sales people, because they're, they're not really selling in my opinion. They're more like technical advisors. Oh yeah, yeah. So we, the way we work is we manufacture the product and we sell it into distribution or stockists, right? Okay, so a lot of our a lot of our people are specialist installers, distributors or stockists, realistically, so they're, they're not going out and selling it to brand new jewel blogs off the street to install, because it has to be third party certified, because it is passive fire products. Yeah, so a lot of what our market and do is realistically, just keep the market up to date with new products, new launches, shows and stuff that we're going to go to, yeah. So it is a slightly different scenario, I suppose, compared to your, your, well, if you compare it to still door, it's very, very different, you know, they have, have to go out and push to
+
+Bound   29:12
+entry, yeah, that's why I kind of want to, just to raise it, just so that obviously a traditional customer cycle will start with, with marketing, manufacturing is, arguably, it's more of a sales driven motion, right? And marketing sort of sits in the middle between, typically, this is experience wise, but it's sort of sits in between the sort of the sales, new business expansion, business versus, I suppose, customer handling and nurturing, yeah, keeping them happy,
+
+Speaker 2  29:44
+it does, and I think for us, and I think that's why maybe our after sales and technical support section of the hub of HubSpot is just as important, because there's actually more interaction in that division than there is in the seals division, which is kind of strange, because if I look at our our reports, which are always wrong anyway, because HubSpot is not working, but if I look at the reports that I'm being given, we have, on average, about 1200 emails per month coming into technical for for technical support. So having
+
+Bound   30:17
+tickets in place is actually quite critical, because you can stage them out and have lanes for where you are with with them. Yeah.
+
+Speaker 2  30:26
+The other issue for me is to try and to try and discover where they're coming from, you know, if they're from the south of England, or if they're from Scotland or Northern Ireland or Ireland, you know, if there's a way of setting up a division so that we can see the geographics of it, that's not the geographics isn't overly important. But I think, from a, you know, from a reporting perspective, just to see how long everything's hanging around and the the atmosphere for before they're dealt with, for me, is extremely important, because I know that we're not dealing with 50% or more of the inquiries, the technical inquiries that are coming
+
+Bound   31:05
+in, okay, that makes sense. So making sure they're rooted correctly. Nothing's missed, maybe incorporating some, some sort of loose SLAs, just so that the right people are exposed, alerted on something being missed off over a period of time? Yeah, okay, that makes sense.
+
+Speaker 2  31:25
+No, the other issue, again, maybe not as important, but we have, because we are a technical it's a technical product that we sell, with it being passive fire bats or fire curtains that go into hospitals, etc. And we have probably 200 plus drawings on our website, you know, for the FB one EBA, or for the Apollo curtain, or whatever it may be. And I was, I was trying to think if there was a way of potentially putting those details onto the CRM system so that they would be easier to find than what they are in the website. Because in our website, if you go and search for a detail as such, and the search bar doesn't work for a start, because there's too many of them. And so I was thinking if it was in the CRM system and a sales person who was on the on the field or out in the road, they could search in there a lot easier, and then pass it to a client from the CRM system, instead of going onto the website and then trying to email it to themselves, then email it through the CRM system,
+
+Bound   32:34
+I understand. So you basically create a product category with some insights around what it does, description, and then they can, in essence, provide that as a, yeah, like a data sheet of some description to clients, yeah?
+
+Speaker 2  32:48
+So there's, there's over 200 data sheets on the website, or, or we, we call them technical drawings and, and I can see why the sales team don't use the CRM enough. Is one reason being, they have to go into the website always to find the technical drawing. If it was in the CRM system, they could just send it directly from the CRM. Yeah.
+
+Bound   33:09
+So, so there's that kind of confirms what I was going to get at then. So there is a, there is a, there's a, there's a section hubs book called documents. And yeah, we, in essence, upload PDF version of those, for example, and they can then share them directly from HubSpot. And you can, you can kind of create a like a letter head style view, which one it keeps. You're able to track whoever's looking at it like you can track what they're looking at, which is quite Yeah. But secondly, they can then have a conversation with them. Conversation with them, book a meeting with them directly in the document. Yeah.
+
+Speaker 2  33:47
+And again, one of the things I really liked about, well, we used it in Dubai, but, you know, I think Josh used took it to a different level with the door is, you know, it was kind of freaky that every time somebody went on to look at our quotes or or whatever it was we sent to our clients. You know, Josh just thought it was brilliant to come in and tell us the next morning that somebody was on looking at five past three in the morning at one of the studios,
+
+Bound   34:13
+and how long they're looking at it.
+
+Speaker 2  34:17
+He takes it to a whole new level, in my opinion. But, yeah, but you know, that's the type of thing that we we need to incorporate into ours as well, because, if, because we're sending out technical drawings and we're sending out details to people that they need to follow and install by and they're telling us that they're not receiving via email, whereas, at least if, I if we do it through The CRM, I know they've looked at it at x definitely. How many times they've looked at it, so,
+
+Bound   34:46
+yeah, exactly. And it's, it's a link as well. So it's very similar to the websites spoke, so to speak. But also they can download it if they want to view, yeah, okay, that's definitely achievable. And it's just a case of rounding up those data sheets, and, you know, we put them in a in an organized manner so the sales team can locate them correctly, like a file hierarchy.
+
+Speaker 2  35:10
+No, that's fine. Well, on on the website, we they're all PDF anyway, and they're on they're all downloadable from the website, and they're all viewable without downloading from the website, but we'll have those in a database anyway,
+
+Bound   35:24
+so we just need to import, upload and like you do like a SharePoint scenario. Okay, that's good to know. That's that's not too difficult to do. Brilliant, I suppose. I suppose it's just in terms of kind of expectations from from you. I mean, I don't know you mentioned that you've got to put some form of business case together. I took that from your point, is there has any sort of budgets or timings in that respect kind of been agreed yet, or is that to be agreed
+
+Speaker 2  35:58
+and budgets haven't been agreed. Timing. In our last meeting, I said I would take ownership of this just to get it done, or ultimately never be done. And so timing, you know, everybody would like it done, obviously, by the first of July or by the end of July. And this, this fee is anyway. But as I say, budgets, we haven't really discussed they had budgets last year, but from axing our side. But that's why they never proceeded, because they're the fees that they want. It were just astronomical.
+
+Bound   36:33
+Okay, that makes sense be interested to know what astronomical is, not that I'm just here. It's, yeah, we're not, we're not the most expensive. We're certainly either not the cheapest. I'd say we're like the middle, but I think the timelines is definitely achievable. To Roy's point, the biggest sort of unknowns is the diagnosis side. It's getting, having, having a look at the system, looking and working out, you know what? What could be quick wins. What's going to require a bit more input? Where do we need to work together on establishing processes and things for building?
+
+Speaker 2  37:10
+Yeah, that's fine. That's so good. Is there anything that you can send me? Because I would honestly like to come back to your what days today? Tuesday. Yeah, Tuesday. So I would like to come back to use guys? Well, depending on how fast you can come back to me as written, you can send me with regards to cost, and what that costing covers, if it's a retainer or if it's a per job price,
+
+Bound   37:34
+yeah, I can get this to you in your inbox tomorrow. We've already started to build this out. We're already pretty clear on the phase in. I mean it, to be honest with you, we, we have a pretty standard sort of model that we, we work to. We actually call it the bound growth engine. Cliche name to it, and it's but the biggest unknown is just looking in, looking under the under the bonnet, really. So what we was, what I was going to suggest is that we maybe run a small fee based diagnostic, and then we can map out, okay, this is what it's going to really because at the moment, I kind of have to put a little bit of a finger in the sky as to, yeah, how long things take? Data, hygiene could be a 10 minute job. It could be a one week's job. There's usually so many nuances to date, unfortunately, yeah, and then if you've got two years of sort of bad practice that that obviously doesn't always play in the favor either.
+
+Speaker 2  38:33
+Well, to be honest, we were just about to wipe out half of it anyway. Just delete it into archive, because we know it hasn't been touched in over 12 months. Yeah, honestly, most of the stuff in there is just a waste of space.
+
+Bound   38:48
+That's fair. And it's obviously looking also at what data you've captured. You know, the taxonomy side of it, it's the properties. Again, if you've left people to do things free reign, there's usually a duplicate that it just creates even more mess. Yeah, he's gonna be the worst portal we've ever seen. To be honest, we've seen some shocking ones.
+
+Speaker 2  39:11
+Yeah, no, well, for size, it's for me, I just thought it was a bit of a mess. But yeah, whenever, whenever I changed from Salesforce the HubSpot in my last company in Dubai, we had a team of 15 people based in our office for over a year, five days a week, fixing it.
+
+Bound   39:33
+Oh, wow, yeah. Well, the recent client we work with, they, they, I won't name mention, I won't name drop, but they basically used the deal cards for leads, deals and renewals, and they just kept recycling the same deal over and over and over, nowhere. Then their moan was to us, is that we just can't get accurate reporting. I said, well, because you keep reset it just we're still unpicking it now. But that was a pretty that was a pretty unique situation as well.
+
+Speaker 2  40:09
+Well, to be honest, if I run report, I've built my own reports with with where we are now, and there, there's zero information in there to run reports from. So it shouldn't be that hard
+
+Bound   40:19
+to fix. No. And you know what creating? I say this all the time, and I feel like I've broken record set because Roy's heard me saying that building reports is not the hard part bit. No, the hard bit is, you put rubbish data in, you get rubbish data out. It's as simple as that report.
+
+Speaker 2  40:36
+So you know, for me to be head of sales and not be able to run a pipeline report or a sales forecast because it says zero across everything, then it's just pretty pointless.
+
+Bound   40:47
+I agree. I agree. And then when you're asked questions about right, how are we tracking this week?
+
+Speaker 2  40:53
+Well, it says we're in big trouble or zero done. I mean,
+
+Bound   40:59
+there's this, there's smoke and mirror chat right to leadership, and then there's just outright, I have no idea, yeah,
+
+Speaker 2  41:06
+and it's kind of hard to hide. Whenever you you pull the HubSpot up and in the management meeting, and you have 30 directors sitting around table, and they're going, well, where's the information? Yeah, ask somebody who's been here longer than me. I can't find it. So, yeah, if you can, if you can ping that across to me,
+
+Bound   41:27
+yeah, of course. I will do is, if this, if this is okay with you, I'll, I think if we was to separate the sort of diagnosis side, and then I'll give you an insight to the kind of wider program with some phases around timelines in the next 12 weeks, assuming things start April the first you know, appreciate there's a bit of decision time that needs to be made.
+
+Speaker 2  41:50
+Well, we'll make a decision within one day of receiving what you have. Oh, well, then even
+
+Bound   41:54
+better output. So we've kind of, we kind of allowed a couple of weeks on top of that. So that's kind of, that's good news. I will get I'll have that to you in the morning in your inbox, and then maybe we can, if you maybe need a couple of days, maybe we'll catch up on Friday, if you've got got some time. Yeah.
+
+Speaker 2  42:15
+So I'm currently down in Glasgow at the moment, and I'm not actually at head office. So if I receive that tomorrow, I'll send that across to David, who's the group GM, David, and I'll have a conversation. He may have to speak to the CEO, and then that'll generally takes an hour. Then I can come back to you, probably tomorrow afternoon. I think then maybe the best thing to do is because the GM doesn't really have fantastic experience in terms of using CRM systems and has zero experience in terms of using HubSpot. So our marketing, our head of marketing, who lies at the same level as me, doesn't really have an awful lot of HubSpot experience. Has a little bit, but not
+
+Bound   43:05
+too much. And are they open to change that, as in, part of this exercise, would it be to sort of help them adopt the tool a bit more as well? Yeah.
+
+Speaker 2  43:13
+Well, one of the main reasons that I was brought onto the company is because, obviously, I've been using HubSpot for 15 years, so with large companies and they really want to use HubSpot, they really need to use HubSpot.
+
+Bound   43:28
+Okay, good, good. That makes it easier to because my next question was going to be, so, what, you know, what would be a winning kind of, oh, that's brilliant. I'm happy with that. Off you go.
+
+Speaker 2  43:39
+Scenario, yeah, honestly, it just as long as the figures stuck up for them, then it's full, full systems go, because they wanted to use other third parties. And I had said, unless I've used them before, then I never really feel comfortable. And obviously, I've worked with us guys in the past, even though it was only for a short period, and at least I'd work with you as that was the main thing.
+
+Bound   44:03
+Yeah, and I appreciate that, and I'm really appreciate you. You thinking of us in this scenario. Strangely, we're still working with still Dory as well, even to today. No, that's great. Thank you for getting on this call.
+
+Unknown Speaker  44:19
+Thank you for your time.
+
+Bound   44:20
+You've answered pretty much all the questions. So it's up to me now, just to get all this finalized, and I'll get that over to you in a in some format. I'll see how much I can add color to but I'll definitely have that for you in the morning, and then if I don't hear from you, I'll reach out to you on Friday.
+
+Speaker 2  44:36
+No, you'll hear from me before then anyway. But thank you very much.
+
+Bound   44:39
+Thanks, Robert. Enjoy sunny Glasgow. Hope it's as nice as it is. Down where I am. It's not it
+
+Unknown Speaker  44:46
+was really this morning. It's now dry. So that's the main
+
+Bound   44:49
+thing we we're trending at 16 degrees today. I'm an Aaron, an hour and a half north of London, so I'm sort of in between Buckingham, Buckinghamshire and Bedfordshire near Milton Keynes, probably the better way of putting it. Most people know what Milton Keynes is.
+
+Speaker 2  45:05
+Yeah, no, I live, I live in a Sandbach in Cheshire myself. So, oh, nice place. Very, too far away from whether you're closer to me there normally than what I am. Yeah, that's fair. Great. Okay, thanks, Robert, yeah. Look forward to hearing from you. Yeah, have a good day, guys, and I'll speak to you soon. Great. Take care.
+
+
+Transcribed by https://otter.ai
