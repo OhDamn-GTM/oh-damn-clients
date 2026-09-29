@@ -1,0 +1,403 @@
+Noyce <> OhDamn! | Design Sync - September 29
+VIEW RECORDING - 58 mins (No highlights):
+
+---
+
+0:00 - Rajeev Ramprasad
+  Some of your portfolios, what you allow, you showed me a few things, maybe five minutes, and then that will give him the needed context.
+
+0:07 - Abhishek Sharma
+  Right. So I am the CTO and co-founder. Abhilash is the CEO fund, founder of oh-damn. We started this agency, I think, like a year back.  Okay. And since then, we have been developing for various clients across. Personally, I have been in SaaS mainly, developing websites and web applications for government, and the recent few projects were AI Summit, or 26 in India.  And also, before that, all of rebranding is in everything of Cast24, UAE, India, and Australia. So I've been the tech lead for both of them.
+
+0:52 - Abhilash Sharma (oh-damn.com)
+  So I have been in the agency space for the last seven, eight years now. Nice. I've worked across Canada, Europe, and India.  Uh, I started my career in sales and after that I have specifically worked in kind of setting up go to market engines within agencies and kind of consulting clients through it.  So I've managed pipelines of around 250K to 300K for clients across multiple agencies that I have worked at. Uh, some of my clients when I was in Canada have been here in Canada, province of New Brunswick, city of Fredericton.  Uh, currently the last role that I was in was with an organization called One Metric. We were HubSpot Elite Partners and I was managing the entire go to market team there and basically set up the function fully and was responsible for client services and delivery.  We have a third leg to our team as well, uh, who is Gaurav. Gaurav handles all of our marketing and, uh, you know, marketing projects in RevOps projects specifically.
+
+1:59 - Rajeev Ramprasad
+  Okay.
+
+2:00 - Abhilash Sharma (oh-damn.com)
+  And Abhishek, as he mentioned, he manages the technical and the engineering side of things. And usually my forte is more so on sales because I'm responsible, I've been responsible for it.  So that's the kind of consultation I bring on to the clients as well.
+
+2:14 - Rajeev Ramprasad
+  Okay, got it. Nice to meet you. Abhishek, give Rajeev a little more background about the kind of project we have done before, maybe show a little bit about your portfolio and so on.
+
+2:25 - Abhishek Sharma
+  And then we can go into the specifics of...
+
+2:28 - Abhilash Sharma (oh-damn.com)
+  I think we can showcase, Abhishek, we can showcase min-it for now. We completed a recent SaaS, in-tech client, who are an company.
+
+2:40 - Abhishek Sharma
+  I can bring up Hathor as well, maybe. Yeah, Hathor.
+
+2:43 - Abhilash Sharma (oh-damn.com)
+  And we completed a deep tech AI company as well. They've raised about 1.5 million in pre-season space space, so they build, they build rocket engines.
+
+2:53 - Abhishek Sharma
+  We just completed their project very recently.
+
+2:55 - Abhilash Sharma (oh-damn.com)
+  So you can show you two examples of some of our recent work that we've done here.
+
+2:59 - Rajeev Ramprasad
+  Give us a bit How process, thought, process, design, like how you came up with it, what was the process, thinking, and so on?
+
+3:07 - Abhishek Sharma
+  Alright, so I'll begin with the most recent one. This went out live on Friday. Big, you know, they had seedfunding, which they had done, so they wanted the website ASAP.  For them, it's mostly static in a sense that they wanted to look more mature in the space. It's a, you know, it's a very competitive space in general.  And they wanted their, like each of these renders and everything is done by us as well. Okay.
+
+3:40 - Rajeev Ramprasad
+  So we wanted it to look, even the videos and everything is ours.
+
+3:45 - Abhishek Sharma
+  They had this announcement go out. That's why they wanted the website at that time. The purpose of the website is just for them to showcase their engines and what the company has gone through.  Like this is there about me. We tried to make it look better. This is different. We fought back on the design system and everything for this particular page, because we wanted it to look better than the rest of the pages.  But, uh, yeah, the process for, I think the logo is the one which I'm the most proud of over here than the website.  Uh, the logo took a lot of time because it's something which goes on top of the rocket engine itself.  So they wanted it to be easy to, you know, emboss or maybe like CNC laser. So that was a priority, but at the same time, they wanted to envision, uh, you know, the rocket going up and, uh, all of like, uh, you know, have, sorry, this is not the right image.  Just a second, sorry. No worries. Yeah, that's fine. So, you see how this goes up, it's the trail which the engines leave behind and like to the stars.  So initially, even their tagline was to orbit and beyond, we changed it to any stage, any mission, because like how the rockets have different stages of the mission as well.  Okay. So they don't only have this for rockets. That's why the main website does not say rockets over there.  For them, it's a space agency. So they have defense contracts, they have, you know, minor movements of two kilonewtons.  So they use that engine for minor precautions for their satellite systems as well. Right. So it's not particularly for rockets.  That's why this particular one is just made for their letterheads. The rest of the brand. Branding and everything we had done for like the website itself.  So that's, this is the most recent project. Then the other one, which was there was min-it. Earlier their website was red.  It was like 20 years back. was made and, you know, pretty outdated in that sense. Um, so what we ended up doing was kind of went into the direction of min-it being mint and also because it's a, you know, a lending software.  So we ended up getting into green because of like cash being green. So, um, that was the main process.  We showed their, um, whole application process step-by-step over here. Um, we did all of their like minor interaction and all just to make it look a bit distinguished than the rest of the websites.  Uh, did all of the illustrations, uh, made like they have four, uh, like portals. So, you uh, we, Applications which are there, we had gotten that done as well.  A weird challenge which they have due to compliances is that each of their logins for different clients sits in different regions, so you have GDPR and DPTP compliances which are there, so you need to have even the user databases aren't the same, you don't have a common auth for all of them, so because of that issue I had to develop the CMS a way that they choose the region, and based on the domain, it's being opened, it changes the fallback for the login page itself, so like a minor change over there, but that's the process we have done.  For them, we also have a booking which is coming from their Microsoft, they have a suite, so it comes from there.  Apart from that, we also have showcased their about us, how the company came to be, The founders are these, Harinath Vidya, and where all the company has expanded to, like, I'm glad they liked our work because then they were going to U.S.  the next month and they wanted the same aesthetics and like the language to be carried to U.S.A., so this is the second website we had done for them, which was Capital Origin, the same standard, but then we had to re-envision this particular piece.  I did not want to reuse my design again, so we sort of, like, went for this kind of setup where I'm, again, showcasing all of the same thing, but just, you know, different format.  It was their ask. I was not very keen on doing it, but they just wanted the same website just for U.S.
+
+8:48 - Rajeev Ramprasad
+  So we, again, U.S. market in general likes purple for finance.
+
+8:53 - Abhishek Sharma
+  We have seen Stripe, have seen, you know, Skydome, their ability of other applications. So these were like a few current websites which I have done.  This was the one I was talking about earlier. The design is not the main part over here. I was, I think, the first person outside of the government to use UX4G, which was the government's own UI library.  This application itself had multiple DDoS attacks. And we had, at peak, it was about 7 lakh concurrent users in a day.  So this was, I think, the most challenging project this year I've been a part of. yeah, so What was the team that built this, Abhishek?  Sorry? How big was the team that built this? I coded it out while I was traveling. I in Europe last year, so I- it work, the whole platform?  This particular, like the webpage was me for about three months for the initial part of the summit. So it was a, this project started in June, July, end of July, and this went on till March end.  So for the webpage itself and the CMS part of it, we were two frontend developers. Including myself. And I was also working on the backend side of it for the internal application.  Which was mainly for, you know, the VVIPs, how their passports are coming in, how their team is managing, who all is coming in.  And then all of that information was linked to the gates and the printing badges and everything. So that funnel was created in the application, which I was a part of.  So that was the core tech team. which was there for the AI Summit, and in total, including the backendDevelopers, we were about 10 odd people, for the whole thing, yeah, and twoBMs.  Okay, and do you all use Pramer or?
+
+11:20 - Rajeev Ramprasad
+  Oh no, this is CustomCode.
+
+11:21 - Abhishek Sharma
+  other ones, CustomBuilds, like both CustomBuilds?
+
+11:26 - Rajeev Ramprasad
+  This is CustomBuild, this is Webflow.
+
+11:29 - Abhishek Sharma
+  Okay. For Noyce, we are also using Webflow. Okay. This one is CustomBuild because of, again, the policies and like the security part of it.  So it was like on Next.js, server-side rendering with Strapi as a CMS, custom-hosted, VPC, et cetera, et cetera. We had like a monthly bill of about $60,000 on AWS because of this.  So, yeah.
+
+11:59 - Rajeev Ramprasad
+  I this... This...
+
+12:00 - Abhishek Sharma
+  It was like a very robust project in itself because of the complexity and like the amount of people who are visiting it.  So it's hosted on CDN, all the best practices have been used. The only drawback from this website was this, which was the UX4G.  So, yeah, that was, I think. Okay. Yeah. Oh, can't, unfortunately. I think this was KPMG. No, for the other two projects.  Other two, yeah, yeah, yeah. Operating is you guys.
+
+12:39 - Rajeev Ramprasad
+  Yeah, yeah, yeah. Okay. Go ahead, Abhishek. This was good intro. Thank you.
+
+12:48 - Abhishek Sharma
+  Perfect. All right. I'll quickly go to the logo proposals and if you want, or. So, Rajeev, before we jump into this or while Abhishek's pulling that up.
+
+13:00 - Abhilash Sharma (oh-damn.com)
+  In our process, think, essentially, one step that we kind of skipped with Tejas here was, we usually have a brand questionnaire, a design questionnaire as a part of our entire thing.  Tejas is very close to the entire entity, which is Noyce. So it didn't make sense to kind of run that activity with him specifically.
+
+13:21 - Rajeev Ramprasad
+  But usually that's where we kind of collate the most amount of information about a business from at that point of time.  And in our case, it did not make sense.
+
+13:31 - Abhilash Sharma (oh-damn.com)
+  After that activity is done, our basic goal, I think more than anything else is how do you kind of differentiate the product in that space?  And it's not just about how the website looks. It's like from the favicon to the copy, it's all of it, because even if you are like looking at the smallest of things, you're on the navigation bar on the website.  If there is something else kind of present there, you would want to have something which is essentially showcased. It's your own identity and it's placing you against all your competitors.  So for example, JuiceBox's own logo is a JuiceBox and you can't do anything about it, right?
+
+14:09 - Rajeev Ramprasad
+  Like that's just the, that's the thing that they own.
+
+14:12 - Abhilash Sharma (oh-damn.com)
+  So when you look at Noyce and Abhishek's gonna like pull up the file and we can talk about it a bit more, but overall, when you look at the design aspect of it, I think for us, the first step starts with like, okay, how do you differentiate in this space?  And then you kind of take it from there, so that becomes very critical for us in our process here, the couple of steps that we have jumped around with are that the previous website was on Lovable and we're actually going live, uh, for ChatGPT ads and Google ads on the previous website tomorrow itself.  Uh, the idea was to launch ads on the previous website, let the conversion start from there because we have a deadline that we're catching up to.  So, and while parallel that happens, we're also building out the new website, the wireframes for whichever shake. presented it.  So that's how we kind of like divided this activity. it's kind of, you're building two at the same time, just to ensure that you don't really lose out on momentum.  And the reason we picked this up in this manner was that the previous website was also not differentiated enough into the category we were stepping into and how we could have kind of presented ourselves in that.
+
+15:20 - Rajeev Ramprasad
+  Okay.
+
+15:22 - Abhilash Sharma (oh-damn.com)
+  Abhishek, can you bring up the logos? Sure.
+
+15:35 - Abhishek Sharma
+  All right. Just a second. Abhi, can you share screen? I think my laptop's a bit Let me do it.
+
+16:03 - Abhilash Sharma (oh-damn.com)
+  You'll have to un-share your screen.
+
+16:05 - Abhishek Sharma
+  Yeah, my laptop is un-share for a second.
+
+16:10 - Abhilash Sharma (oh-damn.com)
+  Can you guys see my screen? Yes.
+
+16:30 - Abhishek Sharma
+  Okay, perfect.
+
+16:31 - Abhilash Sharma (oh-damn.com)
+  So one of the things that we wanted to kind of start off with right off the bat was that we are jumping into a category where everyone's talking about the roles that they'd be able to find.  What we are saying is that we have the most precise option and we can find you the people who you're looking for.  But even with more nuance than any other tool would be able to kind of catch you up to in that particular category.  Okay. So a couple of things that we wanted to highlight with the logo and use. Seat in the differentOptions that we present.  One is the connection. So you'll see the form.
+
+17:08 - Rajeev Ramprasad
+  Just to clarify, what you're showing us is the thinking process and not the website, right?
+
+17:16 - Abhishek Sharma
+  These are the logos that we wanted to kind of understand. I'm just talking about how we thought about it.
+
+17:23 - Abhilash Sharma (oh-damn.com)
+  And then that is the, these are the different angles that we're kind of looking into. So the first, so the first angle is around, so we have four different angles we're looking at.  One is the connection. So the right person meeting the right opportunity, and we are building that out into the form of the letter N.  Then it's momentum, which is a very big part of our entire pitch that we're not just precise, we're also faster.  Like you'll find better results with us and also quicker than any other platform. Then you have the precision with warmth.  So it's AI grade rigor, but it's also balanced by a human. So we are very, uh, I would say a lot of the conversations that we've had are around the.  The that it's the enablement that we are doing for the, you know, the HR professionals here, and what are the values that we're kind of bringing on to them with our platform.  And then we have a very specific signature pilot that we want to reflect on our color theming as well.  So these are some of the initial options that we looked at. Uh, this is for the momentum, uh, convergence, the gateway, uh, the pathway, and you just have to imagine the alphabet N as a part of this specifically is what we're kind of focusing on.  This one talks more about the momentum. So you can see like there is a line running in the axis here.  You have the alphabet made in a way, and the idea of this would be to also run with the color palette, which we have kind of mentioned here.  Uh, this is, we also like to kind of imagine it, how it would look in different places. So you see it visible on like different mockups, how it would look on a website, on like a, you know, on a watch face, on a.  On a lanyard, on a business card, on a phone screen, et cetera. Uh, this is a very differentiated kind of a element because you don't see a split, anything else in this category.  You don't also have something which kind of compares to this specifically, uh, the mint to teal gradient that we had in mind here is something which is effortlessly premium.  Like we see it only with high end, I would say business cards, or you would say high, like brand, uh, financial institutions and things like that.  And it's very easy and it translates easy for us also through different things. We also have imagined some bit of a font in the background here.  You will see more of that when we kind of go through the other iterations as well. Uh, this was convergence, a very similar palette.  The idea is to show like a more distinct form, but with a very confident in, and you have then the assembly between precision and purpose that we've kind of like highlighted here.  Uh, we wanted to kind of bring this about to show. The central point of the end that gets developed.  So we did align that, okay, out of all of the options, the first, I would say, seven or eight are going to be around playing with the alphabet in, and then we'd have the option nine, which is around just Noyce as a, you know, the entire spell of its own.  And then we have the circuit, which is like playing around with the element of Noyce, but we have an individual element here, which we can further kind of develop inside.  Right.
+
+20:31 - Rajeev Ramprasad
+  So why we like this is, it's very bold.
+
+20:35 - Abhilash Sharma (oh-damn.com)
+  It's very architectural.
+
+20:36 - Abhishek Sharma
+  We could not really find a color as such being used by someone else.
+
+20:40 - Abhilash Sharma (oh-damn.com)
+  Though the teal institution that we saw earlier was more so something which was more financial in nature, more premium in nature.  This color combination was not something which I kind of picked up from anywhere else.
+
+20:52 - Abhishek Sharma
+  And it kind of showed more value.
+
+20:55 - Abhilash Sharma (oh-damn.com)
+  kind of like wanted to show you guys this in a part of this doc as well here as to how it would
+
+21:00 - Abhishek Sharma
+  be a part of like, you know, that entire symbol as well.
+
+21:03 - Abhilash Sharma (oh-damn.com)
+  Uh, then we had this, the gateway, this is very warm the way it is. I also think it's very modern to the overall approach of how we kind of look at it.
+
+21:13 - Rajeev Ramprasad
+  Uh, if you zoom out a bit, it kind of looks like a smaller in, it also looks like a hut.
+
+21:18 - Abhilash Sharma (oh-damn.com)
+  It also looks like a gate kind of like allowing, you know, someone inside and we wanted to kind of build something, which is a central piece, holding it all together.  Uh, like the key hire who completes the entire team, uh, this was the color pilot we envisioned that as well.  I know we've only highlighted one specific color here with the neon, but overall, of course, on the website, if you kind of envision it, it's going to take up that, uh, image.  And this is how it would look in different environments as such. I think this is the warmest that we were able to kind of go at and look at it with how Noyce would be, right.
+
+21:50 - Rajeev Ramprasad
+  Uh, this was the pathway.
+
+21:52 - Abhilash Sharma (oh-damn.com)
+  Um, I personally think it's more architectural that we kind of like picked this one up and how we kind of like saw this coming along and.  And the N kind of looked at as a smoothPath. I also don't think this is something which is very, very differentiated in terms of what differentSymbology can exist.  And the reason we have it here is it's very minimal, but it also takes us away from the N on its own.  So it's an option, but it's not something which is my top three on my own list of things that I have kind of appreciated in this exercise itself.  Then we have this one. This is more of a connection that we're trying to kind of show here. It's more AI forward.  We're trying to show different parallel lines, AI agents working together and how it would kind of come together. It's also showing momentum.  I like the color palette that we're using here. You'd see a derivative of similar palettes through the entire thing, but this one's being more muted and it shows motion.  So this is definitely something that I looked at as, you know, top two in our category, like one very clear competitor to us when we look at the alphabet N is also.  So when you build something out in that sense, you also have to compete with other companies who have N for their branding and then you kind of build on top of that.  So what we took up specifically was that we shouldn't just like put out an N there. It has to mean something.  It has to be like developed around something. And if it's on the same dock as all the other things, we can like even on the navbar catch it that, okay, this is the fabricant and it's very different from the other like N type fonts that exist.  Right.
+
+23:29 - Rajeev Ramprasad
+  This was the networking part of it. This is definitely one of my favorites.
+
+23:33 - Abhilash Sharma (oh-damn.com)
+  Uh, the reason for this is that this is a lot of negative space that we've utilized here and it also kind of highlights N, but it doesn't really talk about it.  It also shows connection. It shows momentum. It also shows like two different things coming together. So it is more of like a stronger together kind of an art that you wanted to kind of unveil with this.  I think it plays really well with our overall story of the HR angle and the enablement through them and how it brings  This is how we kind of envisioned it and how it would look in different environments. This is the match.  I do like it. It kind of also runs like an infinity symbol. It also kind of takes away from what the end looks like on its own, but you have to kind of zoom out a bit to kind of catch the alphabet there.  It also shows some momentum. It's taken on some previous palettes that we looked at, some previous colors that we explored, but definitely not something which was, you like a top priority choice for us, but something that we wanted to showcase to you guys as an option as well.  This is the signal. I think I like this one the most in terms of like the different things that we've looked at.
+
+24:44 - Rajeev Ramprasad
+  It's a mix of everything.
+
+24:46 - Abhilash Sharma (oh-damn.com)
+  It's more momentum. It's very shape oriented. It's very, it's, it's, it's heavy angles, but it's not looking very architectural.  I feel like as somebody who looks at design, looks at like icons in the sense, I feel like Differentiation of this nature is very difficult to kind of, you know, bring together.  You can make out the N here very specifically. It also picks up the gateway angle that we were kind of looking at earlier and how there is an entry point here that we're kind of, you know, looking inside too.  This to me was a personal top three and for the team as well of the different things we could have picked up.  And this probably was like one of the like topmost ones because it's very playful. It also like plays around on the concept of Noyce itself.  You have iconography around it. You have the N on top. You have this very easily visible on an icon as well.  And it kind of brings around us in that playful sense too. We did envision it in a bunch of different places.  I think the next time when we kind of like talk about this specifically or when we kind of finalize these logos specifically, we'll probably pick up a couple of them and show you that in like what it would look in nav bar, it would look as a fab icon as well.  And that would help you in making a decision. you. And then this is the last one, this is more premium, this is more like you're in B2B SaaS enterprise kind of a business and you're trying to like push towards that.  The only thing with this is, and this is the same problem we had with Hathor Rockets, is that you would have to have the typefont very, very visible in this case, whereas earlier you could just like show this on its own and it kind of speaks for itself.  So this is how we kind of went about the different kind of, uh, logos in the iconography here, um, we'll send you this, we'll send you this, uh, file, uh, Rajeev, you can take a look, we also have a Slack channel, uh, if you could add him there, they just, that would be helpful, we can coordinate with you there as well.  So just take a look, you, I'm sure you have your own ideas, things that you, uh, would like different things that you would have kind of appreciated, um, for me personally, I'm leaning towards this one here, of course, it's very playful.  Uh, Uh,
+
+27:06 - Rajeev Ramprasad
+  We couldn't see the point that you're talking about, okay, you're talking about the queue, right? Yeah. Yeah. So I'm saying I really like this one.
+
+27:12 - Abhishek Sharma
+  This is one of my picks in terms of things that we like.
+
+27:17 - Abhilash Sharma (oh-damn.com)
+  I also like this one.
+
+27:18 - Rajeev Ramprasad
+  It's very clean. I myself like a lot of minimalism and I like the negative space to talk for itself.
+
+27:24 - Abhilash Sharma (oh-damn.com)
+  So I also like this one a lot. And then I think the other two would be the aim. AI-specific, the connection in the white lines that we saw in this logo here.  And then this one for the different imagery that we were able to bring about. But again, you take a decision.
+
+27:40 - Rajeev Ramprasad
+  You want to combine a couple of things. You want to see how it kind of comes around.
+
+27:44 - Abhilash Sharma (oh-damn.com)
+  Happy to kind of play on that and build something out for you in that sense as well. Okay. Got it.
+
+27:50 - Rajeev Ramprasad
+  Um, so yeah, great options. I, I, I, I like a couple of them, but, uh, one of the things that I was thinking about  And is the fact that I think we might be missing an opportunity to build a story around the world itself, right?  The name itself, Noyce, right?
+
+28:15 - Abhishek Sharma
+  It's named after a person. Yeah. And from what we read, he was also, while a great technologist and innovator, was also one of the greatest teambuilders, right?
+
+28:29 - Rajeev Ramprasad
+  So we are there is definite opportunity to play around with personality there. Yeah. And, um, did you guys do some research on the history of the word Noyce?  We did look into the history of the word Noyce. We also looked at the decks that you had sent to us.  They just, so we had all that research backing it.
+
+28:50 - Abhilash Sharma (oh-damn.com)
+  I think we kind of went towards the other side of it as well, Rajeev, where we were looking at all the other competitors, because like, I think,  For our research, we've gotten to a point now where we're looking at the competition we have. We're looking at ads that we have to do on GPT and Google Ads.  So we have looking at a very different kind of differentiation. So then also because we're stepping into the market right now and we have to put across our name first.  So a lot of our work went around towards putting the word noise out there more than anything else. Sure.  Yeah. Okay. I get that.
+
+29:27 - Rajeev Ramprasad
+  It just, in my mind, the way we want to convey a message to all of these recruiters is, again, we are stepping into the world, which is a little far removed from SaaS, but into an agentic world today, right?  So a perception of agent is very, someone who is very personal, like, yeah, like someone who works with me, someone who is able to enable me, provide me a superpower.  That I couldn't do before, right? So if there is an opportunity to build that personalConnection, sell that superpower to a recruiter, so in this way, we're talking directly to the recruiter, not saying this is a tool, okay, let me rephrase this, the story is not around the tool, the story is around the recruiter itself, right?  So I will have, I will take a look at all of these options, right? Like I did, I do like a couple of them.  So, hey, great job on that. But I think we have to, going forward, I don't know how timelines are going to play yet, right?  So we'll have to discuss, we'll talk about those things now, for now, because there is a certain level of urgency.  So we want to play with that as well. But in, as we build this out, I think we do want to  Bring in that storyTelling here. And the story has to be around who Robert Noyce was, right? Because I think it deserves a certain level of respect, considering we're using the word, right?
+
+31:16 - Abhilash Sharma (oh-damn.com)
+  No. you allowed to use it?
+
+31:18 - Rajeev Ramprasad
+  Yeah, we are allowed to use it. And in fact, we can go ahead and tradeName if needed. Yeah. And who was known as one of the greatest teambuilders, right, in Silicon Valley.  If we think about that, and if we sort of draw parallels to something like a Nike ad, right, the dream team and things like that, when the whole ad came around, dream team and things like that, right?  So we are, a good way to stand out is being really, really personal, the colors and things like that, because, hey, everybody is being sold tools today.
+
+31:56 - Abhilash Sharma (oh-damn.com)
+  Yeah, I, I try out a minimum of five tools.
+
+32:00 - Rajeev Ramprasad
+  Every single week, new, randomTools every single week, but only a few of them speak to me because I'm sure, I'm sure this is the case for you guys as well, because you've personally feel like, Hey, this is something that I connect with, and this is something that is really appealing for me to try it.  Let's be part of this story. Let's be part of this journey, right? Attrition. Attrition is a big problem, but people will drop off in minutes.
+
+32:28 - Abhilash Sharma (oh-damn.com)
+  So, do, I do understand that there is a greater brand to be built on here. mean, Robert Noyce, all the story around him, you know, like the least things we could have kind of done here was kind of bring in some elements of like a microchip or something, some basic stuff.  We could, we could have like played around with things like that.
+
+32:51 - Rajeev Ramprasad
+  I'm sorry, I didn't, I don't mean to interrupt you, but maybe, and I didn't tell you this, but maybe not around semiconductors and anything else.  Because then the completely different story, you'll have to sell that why the logo looks like a semi-contro and things like that, not that, but just around the person or just around the persona itself, you know, sorry, continue.
+
+33:15 - Abhilash Sharma (oh-damn.com)
+  So, um, I think for us, uh, there were two specific things that I think kind of like moved us in this direction around the name being very visible.  One was that we are stepping into a very competitive market where a logo identity exercise for us right now.  And with the launch that we have coming up and the deadlines that we have, uh, I think it becomes easier to pull something like that off when you have the kind of time to pull it off, where you also can build narratives accordingly and kind of push towards in that direction.  I think largely because we're competing in a space where we are unnamed Noyce isn't heard of as of yet.  So being on the nose with it and kind of presenting our name itself. being way. And go. In that place was probably like one of the bets that I thought would have guaranteed us the most amount of ROI in this period.  I'm not saying this is the last and the final logo. Neither do I take feedback in that sense. I'm sure as a brand, when a brand evolves, you pick up different things, you add different elements, you also look at a different way of telling your own story.  But it's also that the deadline is very close and things have to move in that way. So what I would suggest is, because now we have you and you can give us a much better design brief.  Is that you look at, take a look at these logos. You have a discussion amongst yourself. You give your own ideas to us as well, in terms of what direction do you want us to go in?  We have a fantastic in-house design team. We'd be able to kind of create mockups around these set of logos, or we could kind of get into an independent study and start looking at those things.  The quicker the feedback cycle, the faster our iterations will be. So we'll be able to quickly kind of get to that point and we'll be able to like derive further out of it.  That is the highest priority right now, Abhilash.
+
+35:02 - Rajeev Ramprasad
+  So we do want to get the website up and running sooner. So Rajeev will think that through, right? Like, again, we know it's like, we will set up meetings on a round-the-clock date and have, you know, maybe we'll continuously converse with you about what we are thinking and how quickly we can get to.
+
+35:25 - Abhilash Sharma (oh-damn.com)
+  So what is the thinking around the website?
+
+35:30 - Rajeev Ramprasad
+  Abhishek, can you bring up the website bioframes?
+
+35:34 - Abhishek Sharma
+  Yeah, sure. Is my screen visible? Yep. Good. So we're going for, like, these are just bioframes. I'll obviously remove the colors and the color exploration.  The search bar. So is something which we spoke about last stage, so I was envisioning it to be something like this, where the JD won't be there, like it will be rather on click, where you get signup, so a disable button, but you can still search for like normal fitment scores and all the basic information comes up over here, like there was an example with XAI, apart from that, I have mainly made the sections as components, because going forward, this would be on Webflow, and we can iterate faster based on the sections itself.  So just like basic component level designs has been done, and the wireframing has been done based on that itself.  Yeah. So all the sections are clear, like we can just go ahead and based on the content we have, just utilize these sections.  So for us essentially 80% of the website is done based on the components itself. It's just a matter A matter of placement and how we want to go about it.  Okay. Um, sorry, I am not able to envision the website itself based on looking at it. What, what will this look like?  Um, these are competent level designs, uh, they're just, so, uh, these are like atomic blocks as of now, if you want to, let's say have a pricing page itself, I'll just take up this component, put it on another page and make a pricing page around it.  So I've designed the basis of the website itself, the colors go later, the typography changes, but the content around like the design, like I know now that my testimonials might come up like this.  If you want videos, it will like still entail at least this and this over there. So I've broken it down to like atomic level so that we go faster developing the pages because the Rezo team, I had a discussion with them.  And they have. I like blog templatepages and everything around that as well. I don't want to be a blocker for them as well.  So it's easier for us to move forward when I'm creating the atomic bots. So it's mainly that the wireframing for it.
+
+38:14 - Rajeev Ramprasad
+  Hey, one, one, one thought that I had, and we should, we should work on this going forward is we don't have a lot of, it's still a small company, right?  We're just starting out. So we might not be able to fill up all of these things. Yeah. So the point is, what point I'm trying to make is how do we put our next, the best step with what we have and how do we optimize the experience around it?  We can't absolutely, obviously show all of the components and features and things like that. It's not existent. It's, it's, we are going to be building that over the next month and a half and even longer, for example.  Right, right, right.
+
+38:58 - Abhishek Sharma
+  What is the hero? A, and can we build a story around the hero itself? What else can we showcase?  And as minimal as possible.
+
+39:08 - Rajeev Ramprasad
+  A, we want the user to go from pointA to pointB as soon as possible, and pointB being the CTA of either the waitlist or sign up right away.  Thinking about, and I'm sure you guys have done a lot more work on this and I'm just, I'm looking at this for the very time, right?  So just, Having, yeah, just having those few components, those few things, uh, either, either in viewport length or maybe one or two clicks after should be enough, I'm thinking for now, right?  Reduces the work and makes it easier for us to work on messaging as well, because I'm sure that, that, that is going to be the case.  Go ahead. Abhilash.
+
+40:00 - Abhilash Sharma (oh-damn.com)
+  So, uh, one thing that we don't have a dearth of, Rajeev, is a lot of the research and a lot of the content that Tejas has provided us already.  So we have a lot of testimonials, a lot of videos, a lot of like product search stuff where we have kind of gone neck to neck against Juicebox on certain sections or some other tool on certain sections.  And we've turned up with results very specifically faster than them. So currently the marketing landing pages that we have on Lovable, uh, that we're going live with tomorrow, we'll share access to that with you as well.  We just take a look at that too. So we've done four marketing landing pages there, which are freer-based, emotional, emotion-based, uh, you know, price-based.  And they're also like directly taking a stab against Juicebox. Not all of them, but some of them specifically, and we've interlinked them to Google ads and ChatGPT ads.  Uh, what I'm trying to say is that there will be some pages we'll absolutely, definitely need like a comparison space, like blocks, pages, like, of, uh,  Things where we have testimonials, like marketing pages, as soon as I'm done with this website, current one being live, I'll be able to shift those ones here right away.  So for us, content in that search would not be like a big issue. The hero for us in this particular section is going to be the navbar, is going to be the search bar, is going to be that one thing you kind of turn up on and you just like look into it.  You put up your prompt there and you start with your search process, because that was something that we aligned with as a central thing.  We wanted to kind of, you know, uh, work around and look with, and then you build around the entire thing around it.  So we have testimonials, we have things present, which we can add here. I think what helps us further, or now that we have you, what we can do more now is we can start showing you page by page or pan by pan copy.  And what comes when, where does the h1 set, where does the extra set, what happens where, and then we can have like mockups of that drawn into this particular way of the website.  Once you see the filler content kind of coming up and how. That kind of goes, I think you'll be able to overall envision it better and see like where it kind of moves in that sense for us now, like we build it in a way, like it was like reverse building a Lego set so that we just had all these things together.  So now when we have to add content or when we have to add anything, we just have the right place for it.  If a page is maybe not useful for us right now, we can hide it, we can remove it. But I'm just saying that content would not be like a dearth of, we have a great content team in house, so PMMs are not a problem.  We'll be able to kind of get that together and have like content on that should not be a problem.
+
+42:38 - Rajeev Ramprasad
+  Yeah, maybe we, it's, it's, it's, it's, a team that is building out a lot of content around competition and blogs and they're going to do back linking, bring up the domain authority, everything.  Yeah, so the, the website will not be just a single page website, even on day one, it will have a lot of.  And then mainly for increasing the domain authority, like, you know, our whole presence in the market. So, and they're optimizing it for it to be backlinked from several different places and, you know, the website to rank higher in so many different searches.  Maybe I think it's, it's, it's, conversation is worth just between you and I, you don't have to be there.  Um, just take me through all the four emotions, take me through why, uh, because I definitely have some conflicting thoughts here.  I, I, I, even, even with you right now, but I, I just want to go through everything before I actually frame those thoughts.  Um, and maybe we can probably set time tomorrow and then figure it out or whenever it's fine.
+
+43:46 - Abhilash Sharma (oh-damn.com)
+  Um, so, uh, so, I'll take you through the, uh, so the marketing stuff that we are doing parallelly, it is to basically get us to a place where we're able to.  So launch with these ChargeGPT ads and Google ads immediately. And parallelly, I'm also running a LinkedIn outreach from some rented accounts.  Tejas, those accounts have been processed today. The access.
+
+44:15 - Rajeev Ramprasad
+  Can we help you to log in the mailbox?
+
+44:19 - Abhilash Sharma (oh-damn.com)
+  If you could please help me with the credentials for that account, that would be really helpful.
+
+44:22 - Rajeev Ramprasad
+  I sent it on Slack channel. Turing at Noyce.ai. Yeah. Okay. So this is needed only for you to log into that platform, right?  Nothing else.
+
+44:37 - Abhilash Sharma (oh-damn.com)
+  Uh, I will need to log in into that email inbox as well, because those profiles have been delivered to that account.  You can, you can. I see the mails there.
+
+44:47 - Rajeev Ramprasad
+  Yeah. Yeah. You can. Perfect. Just check out if the login is not working, let me know, I will set up something.  I don't know. It should be fine. It should be fine. I'm also. video. I want to understand one thing.  If we start the ad campaigns and everything with the existing website and the logo sort of goes out there, the social media campaign, everything, and then next week or whenever we change this logo, how will this changing things work?  What do we need before we can start the campaign or ads or anything at the minimum?
+
+45:31 - Abhilash Sharma (oh-damn.com)
+  So at the minimum right now, what we needed, what we need to be done is those four specific landing pages where the chargeGPD as in the Google ads will be getting redirected towards.  So there, everything is going to move and we're just going to have this traffic version rating come to that part of the previous lovable website.  As soon as the current website is agreed and it's done upon.
+
+45:55 - Rajeev Ramprasad
+  That we have different logo, the current logo that we have, will it still show the current logo? logo.
+
+46:00 - Abhilash Sharma (oh-damn.com)
+  It will show the current logo, but we can have a banner on the site saying, we're moving to a new website soon, or we have a rebranding coming on soon or something like that, because the thing that we are chasing here is the number of waitlists.  And it's very important to kind of show that momentum right now. And that was the initial brief as well to kind of keep that.  I don't expect it affect when we change the brand.
+
+46:26 - Rajeev Ramprasad
+  mean, what I mean is, let us say today is Monday and we work through this week, have the new landing page, new pages ready to go and start the campaign from 25th next Monday.  Would that make more sense? Like less confusing, less cached. I'm wondering, like so many things start caching all over the place.  And when people type in this word, there's an old logo, there's a new logo. I see this. Even today, Juicebox is referred as PeopleGPT.  So many places. Yes. Because they started out as PeopleGPT. Yes. even I've seen many others, there was a research paper website called Typeset or something, and later they became something else.  And again, it gets so confusing. Are you that? Are you this? Are you the same? Now you have to message every single place that you are the same, same brand.  I would rather avoid it for a few days, if it is a matter of few days.
+
+47:30 - Abhilash Sharma (oh-damn.com)
+  So that we actually go with, not everything worked out, but at least the logo and the web page.
+
+47:38 - Abhishek Sharma
+  landing pages. Yeah. Because logo is one thing that will get cached in hundreds of places.
+
+47:43 - Rajeev Ramprasad
+  The favicon, those get cached everywhere. When we start a campaign, that will be very dominant. There will be so many posts that we'll then have to go and, you know, redo or, you know, just delete whatever it is, right?  Like there will be one set of. Of course, with old logo on set, with new logo, at least the logo and some hero page should be there before we start campaign.  Everything is incremental.
+
+48:13 - Abhilash Sharma (oh-damn.com)
+  See, Tejas, we've been chasing certain deadlines that were initially agreed upon. If we can kind of get going next week and the new website would be up by then, that is the best case scenario.  I would work towards that. I would ensure that even our ads are towards that effort. And in fact, it will give us some time to work through a couple of things with Rajeev as well.  We'll be able to kind of discuss stuff with him too and showcase him, whatever we had kind of worked out upon.
+
+48:40 - Rajeev Ramprasad
+  I'm sure he has his own ideas.
+
+48:43 - Abhilash Sharma (oh-damn.com)
+  So, if we can push till 5th next week, then that's perfect. We'll have everything else ready. We should be able to push things towards that itself.
+
+48:52 - Rajeev Ramprasad
+  That's fine. That's fine. Because correcting these things in the mind of people, even early adopters are also... Curious ones.  We don't want to like mislead them and sort of then go back and correct them and one week is fine.
+
+49:09 - Abhilash Sharma (oh-damn.com)
+  We will see.
+
+49:10 - Rajeev Ramprasad
+  We'll take a chance on that. That's okay. Perfect. So action steps for everything after we at least fixated on two things, a logo and a hero section.  Who else is secondary.
+
+49:24 - Abhilash Sharma (oh-damn.com)
+  Yeah.
+
+49:26 - Rajeev Ramprasad
+  And obviously call to action, right? Call to action, yes. Right? Almost everything else is like the content, backlinks, all of that can slowly, incrementally come in.  Perfect. Align on that.
+
+49:40 - Abhilash Sharma (oh-damn.com)
+  So what I'll do is then I'll speak to Gaurav about it as well because he did want to go live.  It has to be a little intense because we will do.
+
+49:49 - Rajeev Ramprasad
+  I I will have a conversation with Rajeev all about it after this call. Maybe tonight or tomorrow morning, your time is just tonight our time.  will convey what. We discussed so that you guys can get going. You don't waste any time, like your day time, our day time, we keep down the clock and we get to a point, something simple, but it is the beginning of the future, not something that we will throw away.  Align on that. Perfect.
+
+50:21 - Abhilash Sharma (oh-damn.com)
+  It also gives us time to put across the LinkedIn content that we wanted. So then we'll take a week also to kind of develop the content engine and we'll get things we are there as well.  So let's have another call tomorrow. You guys go through your actions on your end. We'll take the call tomorrow.  We'll connect your account to GetSears as well. And we'll have the other four accounts already connected, the women's profiles that we have received, and we are slowly making some changes to them too.  So they'll then start seeing like their employees, if Noyce. And as we discussed, we'll build that plan out for them as well.
+
+50:58 - Abhishek Sharma
+  So one of the things that I want.
+
+51:00 - Rajeev Ramprasad
+  I to sort of go splash on day one of the campaign, which I want to present myself from my own account is this concept of, you know, behind every great mission, there was a legendary team or behind every ambitious mission, there was a legendary team and I want some video clip or some kind of a, you know, not more than 10, 15 seconds, 20 seconds is that, I mean, I'll discuss that with Rajeev also, but let's say we come up with, like, here's a story, do you have content creators who can do video, video creation?
+
+51:39 - Abhilash Sharma (oh-damn.com)
+  Yeah, we can do, we can do video creation by content creators, but I wouldn't recommend having someone else as the face of the brand.  We can also do video for you independently as well. We can generate video for you. We can create videos on Blender for you, which you can then use from your profile as well.  Yeah, we can, think of our next, we can, yeah, we can think of our next.
+
+52:00 - Rajeev Ramprasad
+  TalkVideos, montages. exactly. Put together.
+
+52:04 - Abhilash Sharma (oh-damn.com)
+  Yeah.
+
+52:05 - Rajeev Ramprasad
+  I think that should, we should align towards that kind of a story, right? Creating what is the ultimate goal for the brand?  What, what, what do we stand for? And then how do we help people? we start with what do we stand for?  Yeah. Start with that. Yeah. That is the very first opening we start with, right?
+
+52:27 - Abhilash Sharma (oh-damn.com)
+  Like think what he said about Nike, things, newJobs, here's to the Misfits, that ad.
+
+52:35 - Rajeev Ramprasad
+  And we have a good story going here, you know, like there are so many greatest things that have happened only because of teams.
+
+52:44 - Abhilash Sharma (oh-damn.com)
+  And it's all about teams and it's acknowledged, very highly acknowledged that teams mean everything. And we stand for, for, you know, assembling those teams, you know, playing legendary teams, these things, are they, yeah!
+
+52:59 - Rajeev Ramprasad
+  that the Thank Yeah. And, and we can play, play, play to two audiences there, right? We can play to companies and then we can also play to recruiters saying you are the one that will build great teams.  It could be a, it could be a brand reel.
+
+53:17 - Abhilash Sharma (oh-damn.com)
+  It could be a motion video should not be a problem. So while you're kind of thinking of that Rajeev, keep the current logo set also in mind, because we can play a lot with those also in that.  Yeah, I, I want, yeah, we'll talk about, yeah, I'll definitely keep that in mind.
+
+53:34 - Rajeev Ramprasad
+  We'll chat more tomorrow. I have a few other thoughts. We'll see what's the cost of exploring those in the timeframe we have, um, right.  And sure, maybe tomorrow around the same time, like 12, would that work for you guys? Um, earlier would be better.  Time zones, time zones, brutal. Uh, we can, can, we we we can way to alert for one.
+
+54:02 - Abhishek Sharma
+  We've been at it since like, I think that first meeting was like 11 a.m.
+
+54:05 - Abhilash Sharma (oh-damn.com)
+  today, our time.
+
+54:07 - Abhishek Sharma
+  Okay, cool.
+
+54:12 - Abhilash Sharma (oh-damn.com)
+  So, so, so what I would suggest is I think they just had a better idea with this, where you folks discuss once what direction you're thinking about.  We can also meet early, like, sorry, late evening, your time as well. So I know they just had a meeting with Gaurav on a similar timeframe and then we pick up the work in our day time and then we like make the most of it.  So if we can kind of like crunch that to our advantage, let's just do that. yeah.
+
+54:35 - Rajeev Ramprasad
+  So if you don't want your day time to go waste, I don't start sleeping during your day time or something, but, uh, if you are working during your day time, yeah, I'll make sure that, uh, you guys are, uh, uh, don't waste that, that precious time.  We don't have any time to lose. So, yeah, to me product. But, uh, it's Being available is kind of secondary at this stage.  The message being available is primary. So we need to fine-tune the message, make them curious about the message. It could even sound magical, unbelievable.  Like, are you kidding me type of message. It's okay. The product will, because all our goal is to first make them come and try that search, that one search.
+
+55:27 - Abhilash Sharma (oh-damn.com)
+  Everything starts from there.
+
+55:30 - Rajeev Ramprasad
+  And it was so funny. And last week, one of our recruiters, he had a friend, and he runs an agency, and he wanted to find based for water management people.  And the friend was not finding any candidates. And he was like, he was frustrated enough to bring that up to this, my recruiter.  And my recruiter immediately jumped on a call with him, 15 minutes. He just ran a quick query. In the In the next five minutes.  They got like hundreds of such people. And now I have a meeting with them to onboard them into this.  Every wins that we have is people already are frustrated. They are fear. So I told this to Gaurav. There are four things that we need to get.  There is fear. There is frustration. There is aspiration. And then there is a return on investment. Yes. The website, the logo.  So, I mean, logo is more about values, right? The website should more about, should talk about these four things directly to our audience.  And how we achieve it. I think we have a very good story here. It's sort of the story goes for itself.  All we need to do is shape it and so on. Yeah, we can work on that. We'll continue working on it through this.
+
+56:56 - Abhilash Sharma (oh-damn.com)
+  So I'm just sending a placeholder for tomorrow, 9.30 a.m.
+
+56:59 - Rajeev Ramprasad
+  to 10. placeholder 9.30 a 30 a.m. PST. We can, again, work around it or whatever, depending on how we go.  And tonight also, I'll ping you guys. Once our conversation is done, I'll post on Slack about when to talk next.  Yeah, perfect. That sounds good.
+
+57:19 - Abhilash Sharma (oh-damn.com)
+  All right.
+
+57:21 - Rajeev Ramprasad
+  Lovely meeting you, Tejas. Thank you so much. Thank you so much.
