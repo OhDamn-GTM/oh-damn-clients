@@ -1,4 +1,4 @@
-# Client archive
+# Noyce
 
 Fill in the sections below for this client. Keep work on the **client branch**; leave `main` as the clean template.
 
@@ -12,14 +12,15 @@ New to Git? See **[INSTRUCTIONS.md](INSTRUCTIONS.md)** for plain-language steps 
 | --- | --- |
 | Slack | |
 | Tool dashboards | |
-| Website | |
+| Website | https://noyce.ai/ |
 | CMS | |
 
 ## POC
 
 | Name | Role | Email |
 | --- | --- | --- |
-| | | |
+| Thejas | Founder & CEO | |
+| Teja | GTM Advisor | |
 
 ## Scope
 
