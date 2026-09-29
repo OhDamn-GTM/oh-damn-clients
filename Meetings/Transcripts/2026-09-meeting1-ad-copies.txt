@@ -1,0 +1,121 @@
+Ad copies - September 29
+VIEW RECORDING - 11 mins (No highlights): https://fathom.video/share/vAEB7vxVi26_PscXzG_nkm2VYusNSLni
+
+---
+
+0:00 - Gaurav Arora (oh-damn.com)
+  So let us quickly go over this. So what do you think now?
+
+0:10 - Thejas Ramashekar (Noyce)
+  Based on this revision, based on what we discussed, do you feel like this is in good shape?
+
+0:19 - Gaurav Arora (oh-damn.com)
+  So I'll just share my thoughts here, Thejas. I have done two things here. I have also incorporated your feedback as per our last conversation.  And I have also kept some straightforward copies intact. So for example, if you notice row number 15, you will notice a copy called Juicebox AI Alternative.  Now the reason for that is people who are searching for Juicebox Alternative, Google tries to find that exact match copy.  So it also plays around with all the headlines that you have loaded up and then shows the one. which has high propensity for users to click on and then come on to the landing page.  But overall, now extending to this, I think this is in good shape once we have the landing pages ready.  Now the thought here is we will have four landing pages aligned with each of these ad groups. So ROI, fear, frustration, and aspiration, ambition.  And these landing pages will speak this language only. Once we go live, we will get to see, let the data decide which of the headlines people are creating more.  And hence, Google is showing more to the users. So that's the thought I wanted to share. Okay. You see, when I look at it, I think it's in decent shape.
+
+1:46 - Thejas Ramashekar (Noyce)
+  Yeah. Tired of, I would say, instead of tag-based matches, just say keyword-based matches. Yeah, still matching using. Tell me again, what is headline one, headline two, headline three?  We'll do three different.
+
+2:03 - Gaurav Arora (oh-damn.com)
+  So the structure that goes up on Google Thejas is you set up one ad group and Google gives you an option to add maximum of 15 headlines and maximum of four descriptions.
+
+2:19 - Thejas Ramashekar (Noyce)
+  So that's why all of these headlines, now there can be two variations where headline one, two, and three should read in continuation or they can, be standalone in themselves.
+
+2:32 - Gaurav Arora (oh-damn.com)
+  So for example, for this ad group one, they are standalones. But if you read ad group four, which is aspiration and ambition, headline one, two, and three, counted your fills this year, set a bigger target, bring your hard to fill roles.
+
+2:46 - Thejas Ramashekar (Noyce)
+  They read in continuation.
+
+2:48 - Gaurav Arora (oh-damn.com)
+  So both of these combinations work. Okay.
+
+2:57 - Thejas Ramashekar (Noyce)
+  So what is an, I mean, let's. And I will once again, maybe just also go over the discussion with something like Claude or like an AI agent with me knowing, you know, sometimes if it bubbles something like a thoughtpartner, I will, I wanted to do that today, I didn't do it.  But let's say once we have it, what is the next step? So you will just start enrolling it in Google Ads?  No, because this is only one part of it. We still need landing pages, which are mapped to each of these ad groups.
+
+3:33 - Gaurav Arora (oh-damn.com)
+  Now, going back to your discussion with Abhilash and Abhishek, we'll have landing pages designed on the new theme that we have.
+
+3:41 - Thejas Ramashekar (Noyce)
+  landing pages, that's not the opening landing page, that's some other pages to which each of these keywords will land.  Yes. When I say landing pages, there are two important aspects to note.
+
+3:52 - Gaurav Arora (oh-damn.com)
+  First, these are not indexed by Google. So that means they are not SEO focused.-level嫌 kumakar, machar, papar This should  are only meant for driving this paid traffic.
+
+4:03 - Thejas Ramashekar (Noyce)
+  it, got it, got it. Okay. Hey, yeah. Sorry, quick question.
+
+4:10 - Rajeev Ramprasad
+  I'm uninitiated until now. So just take me through how this is going to go. Give me one example because I know we're talking about website as well.  I just want to make sure, Gaurav, just so you know, Thejas and I discussed about what we saw in the morning today, and we have thoughts about the direction we want to take the website and branding in, right?  So it is, so keeping that in mind, I want to understand how these direct a user into the website, and just give me a sense, like, you know, just if you can just spend two minutes on that, that'll be helpful.
+
+4:53 - Gaurav Arora (oh-damn.com)
+  Yeah, sure, Rajeev. So as far as website is concerned, Abhishek is leading that charter. For us, because he has that techBackground, and he has already shared the colors, typography, and all of that stuff on our Slack channel.  Now, the extension of that, how that plays a role here with respect to Google and ChatGPT campaigns is, we will create dedicated landingpages in the same color scheme and typography that Abhishek and Thejas are deciding.  So that's the implication on this part. As far as this messaging is concerned, a couple of calls back, we decided that we will just find out all the negative reviews of Juicebox on G2.  And if you notice column A, that's what I have listed down.
+
+5:41 - Rajeev Ramprasad
+  Yes. These are like the, you know, primary negative reviews that people have written about Juicebox on G2.
+
+5:48 - Gaurav Arora (oh-damn.com)
+  Yes. Second, if you notice column B and C, these are based on Google Keyword Planner data, where we have taken out all the competition keywords.  been put and episode we Competition here, I mean onlyJuicebox for now. And we have clubbed them into different categories as per the themes mentioned here.  Now, if you move on to columnD, that is Greenfield and Brownfield classification. Now, there is no way for us to know whether the user who is clicking on our ad is an existingJuicebox user or not.  Okay. So we'll have to balance the copy in a way where it resonates with both kinds of audiences. So Greenfield is people who are not using any recruiting tool and Brownfield is all those people who are either usingJuicebox or some other recruiting platform.  Okay, got it.
+
+6:41 - Rajeev Ramprasad
+  Hey, and another fundamental question. So there is certain emotions that are being carried with all of these things, right?  And that is one of the things that we decide.
+
+6:50 - Gaurav Arora (oh-damn.com)
+  I know Thejas also gave guidance to you guys initially.
+
+6:57 - Rajeev Ramprasad
+  So my question here is, does the The website need to match the emotion that we are showing here, right?  For example, there are a few taglines that says, tired of juniorprofiles or... So Rajeev, he's saying it won't be the main website.
+
+7:17 - Thejas Ramashekar (Noyce)
+  These are special pages that are hidden, that are not indexed or anything, that will just be landing pages for when people click.  And then that will take them, that will give them a call to action button. And then that will give them a call to action button, but only because they clicked specifically, reacted to that sentiment, they will have a separate page.  So the broad audience who visit the webpage themselves will not be able to... Okay, got it.
+
+7:45 - Rajeev Ramprasad
+  I'll just give you one example also, just to make things clear.
+
+7:49 - Gaurav Arora (oh-damn.com)
+  show us one website...
+
+7:51 - Thejas Ramashekar (Noyce)
+  thank you. This is new for me, so... Yep. Can you see my screen? I have opened in Cognito mode.
+
+7:58 - Gaurav Arora (oh-damn.com)
+  I can.
+
+7:59 - Thejas Ramashekar (Noyce)
+  Thank Thank Thank Thank This was one of the companies that I worked for 6 years.
+
+8:03 - Gaurav Arora (oh-damn.com)
+  Now this is a sponsored result. This is an ad campaign on Google. If you notice the URL here, it says Talk.WebEngage.com.  So that means it's a dedicated landing page only meant for Google ad campaigns.
+
+8:18 - Thejas Ramashekar (Noyce)
+  Now if you notice, I will also open the website here.
+
+8:26 - Gaurav Arora (oh-damn.com)
+  You will notice the difference here.
+
+8:28 - Rajeev Ramprasad
+  We have the navbar and all the CTS. Here we don't have any of that.
+
+8:32 - Gaurav Arora (oh-damn.com)
+  Okay. Got it. Because we are spending money on Google, we don't want users to be redirected from the aim that we are trying to drive.  And if you notice, this is a very clean, without any links, and there is only one CTA which directs people to this form.  Got it. Okay. Now in our case, these will be four landing pages mapped to each of the ad groups that we have listed because each of these ad groups.  Convey a different kind of sentiment. So the ad group needs to match the landing page messaging. Got it. Got it.  Thank you. I understand. Yeah, we can go back to the conversation.
+
+9:12 - Rajeev Ramprasad
+  Yeah.
+
+9:20 - Gaurav Arora (oh-damn.com)
+  Yeah. So coming back to your question, next step will be to prepare the landing pages for each of these ad groups, and then we'll ship them for your review.
+
+9:29 - Thejas Ramashekar (Noyce)
+  And once those are ready, we'll then load them up together along with these ad copies and landing pages. And then I think when we see both the landing pages and this together, maybe there'll be small changes here and there.  But overall, I mean, I'm on board with the four groupings. Maybe minor changes here and there to the strings and so on.  But the strategy is fine. Awesome. And I have made the same changes to...
+
+9:59 - Gaurav Arora (oh-damn.com)
+  for Well, I'll looking What I'm to also do is run it through some of the recruiters I work with here, and have them review it.
+
+10:08 - Thejas Ramashekar (Noyce)
+  I'll do it on my site, and I'll give you the feedback if they give anything. So that way, we'll have a sense for what is it that flies through them.  Okay. Sounds good. And yeah, sounds good, Gaurav. Nothing from me. You wanted, like, what about ChatGPT ad copies? Are we supposed to review that?
+
+10:42 - Gaurav Arora (oh-damn.com)
+  I mean, you can take a look at them, Thejas, but what I have really done here, yeah, yeah. I have just taken that extension because ChatGPT has more character limits than Google.  So for headline, it's 50, and for description, it's 100.
+
+10:57 - Thejas Ramashekar (Noyce)
+  Mm-hmm. All right. Okay, got it. Yeah. Okay, sounds good. Awesome. Then I'll keep you posted on landing page development pages, and then we can take next steps from there.  Okay. Sounds good. Yeah. Thanks. Thanks, both of you. Bye. Thank you. Bye-bye. Bye.
